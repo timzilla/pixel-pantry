@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% block title %}Basket · Pixel Pantry{% endblock %}
+{% block topright %}<a class="btn small" href="/">◀ Shelf</a>{% endblock %}
+{% block body %}
+<section class="panel sign">
+  <h1>Shopping basket <small class="count">{{ total }} to get</small></h1>
+  <form class="addform" method="post" action="/list/quick">
+    <input type="text" name="text" placeholder="Add something… (milk, 2 lemons, paper towels)" autocomplete="off" required>
+    <button class="btn gold" type="submit">Add</button>
+  </form>
+  {% if groups or done %}<div class="actions">
+    <button class="btn" type="button" id="printbtn" title="Print the list on the kitchen printer">Print list</button>
+    <form method="post" action="/list/clear" onsubmit="return confirm('Empty the whole basket?')"><input type="hidden" name="all" value="1"><button class="btn small danger" type="submit">Clear all</button></form>
+  </div>
+  {% if not press %}<p class="hint printhelp hidden" id="printhelp">No printer yet. Pixel Pantry prints recipes and shopping lists as strips on a kitchen receipt printer through <b>Press</b>; see <i>Printing</i> in the README to set one up.</p>{% endif %}{% endif %}
+</section>
+
+{% if groups %}
+<section class="panel basketlist">
+  {% for aisle, items in groups %}
+  <h2 class="aisle">{{ aisle }}</h2>
+  <ul class="ingredients">
+    {% for it in items %}
+    <li class="ing bitem" data-id="{{ it.id }}">
+      <label>
+        <input type="checkbox" class="donebox">
+        <span class="box"></span>
+        <span class="amount">{% if it.qty is not none %}<b class="q">{{ it.qty|qty }}</b> {{ it.unit or '' }}{% endif %}</span>
+        <span class="name">{{ it.name }}</span>
+        {% if it.grams %}<span class="grams"><b class="g">{{ it.grams }}</b> g</span>{% endif %}
+        {% if it.from %}<span class="note">for {{ it.from|join(', ') }}</span>{% endif %}
+      </label>
+      <form method="post" action="/list/remove" class="rm"><input type="hidden" name="id" value="{{ it.id }}"><button class="x" type="submit" title="remove">✕</button></form>
+    </li>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+</section>
+{% else %}
+<section class="panel empty"><span class="bigbasket" data-sprite="basket"></span><p>The basket is empty. Open a recipe and tap <b>Add to basket</b>, or add things above.</p></section>
+{% endif %}
+
+{% if done %}
+<section class="panel donelist">
+  <h2>In the bag <small class="count">{{ done|length }}</small></h2>
+  <ul class="ingredients">
+    {% for it in done %}
+    <li class="ing bitem isdone" data-id="{{ it.id }}"><label><input type="checkbox" class="donebox" checked><span class="box"></span><span class="amount">{% if it.qty is not none %}<b>{{ it.qty|qty }}</b> {{ it.unit or '' }}{% endif %}</span><span class="name">{{ it.name }}</span></label></li>
+    {% endfor %}
+  </ul>
+  <div class="actions"><form method="post" action="/list/clear"><button class="btn small" type="submit">Clear the bag</button></form></div>
+</section>
+{% endif %}
+{% endblock %}

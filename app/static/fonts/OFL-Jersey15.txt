@@ -1,0 +1,2 @@
+Jersey 15 (Google Fonts), SIL Open Font License 1.1. Used for digits only via unicode-range, because Pixelify Sans renders 2 and 5 like an S.
+https://fonts.google.com/specimen/Jersey+15

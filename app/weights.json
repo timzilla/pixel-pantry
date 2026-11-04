@@ -1,0 +1,8024 @@
+{
+"version": 1,
+"about": "Pixel Pantry weight table. cup = grams per US cup (236.6 ml); each = grams per piece (sizes override by size word); units = grams per named unit; tbsp/tsp = grams per spoon when not cup/16 or cup/48; dens = g/ml for metric volumes; spice = never weighed. src: USDA (FoodData Central SR Legacy 2018-04 / FNDDS 2024-10, public domain), KA (King Arthur ingredient weight chart), est (a typical value).",
+"entries": [
+{
+"m": [
+"all-purpose flour",
+"all purpose flour",
+"plain flour",
+"ap flour",
+"unbleached flour",
+"white flour",
+"all-purpose",
+"all purpose",
+"flour"
+],
+"cup": 125,
+"src": "USDA"
+},
+{
+"m": [
+"bread flour",
+"strong flour"
+],
+"cup": 127,
+"src": "KA/USDA"
+},
+{
+"m": [
+"cake flour"
+],
+"cup": 120,
+"src": "KA"
+},
+{
+"m": [
+"pastry flour"
+],
+"cup": 120,
+"src": "KA"
+},
+{
+"m": [
+"self-rising flour",
+"self rising flour",
+"self-raising flour"
+],
+"cup": 125,
+"src": "USDA"
+},
+{
+"m": [
+"00 flour",
+"tipo 00"
+],
+"cup": 125,
+"src": "est"
+},
+{
+"m": [
+"whole wheat flour",
+"wholemeal flour",
+"whole-wheat flour",
+"white whole wheat flour"
+],
+"cup": 120,
+"src": "USDA"
+},
+{
+"m": [
+"almond flour",
+"almond meal",
+"ground almonds"
+],
+"cup": 96,
+"src": "USDA"
+},
+{
+"m": [
+"coconut flour"
+],
+"cup": 112,
+"src": "KA"
+},
+{
+"m": [
+"rice flour",
+"sweet rice flour",
+"glutinous rice flour"
+],
+"cup": 158,
+"src": "USDA"
+},
+{
+"m": [
+"oat flour"
+],
+"cup": 92,
+"src": "KA"
+},
+{
+"m": [
+"chickpea flour",
+"gram flour",
+"besan"
+],
+"cup": 92,
+"src": "USDA"
+},
+{
+"m": [
+"semolina",
+"semolina flour"
+],
+"cup": 167,
+"src": "USDA"
+},
+{
+"m": [
+"spelt flour"
+],
+"cup": 99,
+"src": "KA"
+},
+{
+"m": [
+"rye flour"
+],
+"cup": 102,
+"src": "USDA"
+},
+{
+"m": [
+"buckwheat flour"
+],
+"cup": 120,
+"src": "USDA"
+},
+{
+"m": [
+"tapioca flour",
+"tapioca starch"
+],
+"cup": 120,
+"src": "KA"
+},
+{
+"m": [
+"potato starch"
+],
+"cup": 160,
+"src": "est"
+},
+{
+"m": [
+"cornstarch",
+"corn starch",
+"cornflour",
+"corn flour"
+],
+"cup": 128,
+"src": "USDA"
+},
+{
+"m": [
+"arrowroot",
+"arrowroot starch",
+"arrowroot powder"
+],
+"cup": 128,
+"src": "USDA"
+},
+{
+"m": [
+"cornmeal",
+"polenta",
+"corn meal",
+"grits"
+],
+"cup": 157,
+"src": "USDA"
+},
+{
+"m": [
+"masa harina",
+"masa"
+],
+"cup": 114,
+"src": "USDA"
+},
+{
+"m": [
+"rolled oats",
+"old-fashioned oats",
+"old fashioned oats",
+"oats",
+"oatmeal",
+"porridge oats"
+],
+"cup": 81,
+"src": "USDA"
+},
+{
+"m": [
+"quick oats",
+"quick-cooking oats",
+"instant oats"
+],
+"cup": 80,
+"src": "USDA"
+},
+{
+"m": [
+"steel-cut oats",
+"steel cut oats",
+"pinhead oats"
+],
+"cup": 160,
+"src": "USDA"
+},
+{
+"m": [
+"granola"
+],
+"cup": 120,
+"src": "est"
+},
+{
+"m": [
+"wheat germ"
+],
+"cup": 115,
+"src": "USDA"
+},
+{
+"m": [
+"wheat bran",
+"oat bran"
+],
+"cup": 94,
+"src": "USDA"
+},
+{
+"m": [
+"white rice",
+"long-grain rice",
+"long grain rice",
+"jasmine rice",
+"basmati rice",
+"rice"
+],
+"cup": 185,
+"note": "uncooked",
+"src": "USDA"
+},
+{
+"m": [
+"cooked rice",
+"cooked white rice",
+"leftover rice",
+"day-old rice"
+],
+"cup": 158,
+"src": "USDA"
+},
+{
+"m": [
+"brown rice"
+],
+"cup": 185,
+"src": "USDA"
+},
+{
+"m": [
+"cooked brown rice"
+],
+"cup": 195,
+"src": "USDA"
+},
+{
+"m": [
+"arborio rice",
+"risotto rice",
+"carnaroli"
+],
+"cup": 200,
+"src": "USDA"
+},
+{
+"m": [
+"sushi rice",
+"short-grain rice",
+"short grain rice"
+],
+"cup": 200,
+"src": "USDA"
+},
+{
+"m": [
+"wild rice"
+],
+"cup": 160,
+"src": "USDA"
+},
+{
+"m": [
+"instant rice",
+"minute rice"
+],
+"cup": 95,
+"src": "USDA"
+},
+{
+"m": [
+"quinoa"
+],
+"cup": 170,
+"src": "USDA"
+},
+{
+"m": [
+"cooked quinoa"
+],
+"cup": 185,
+"src": "USDA"
+},
+{
+"m": [
+"couscous"
+],
+"cup": 173,
+"src": "USDA"
+},
+{
+"m": [
+"bulgur",
+"bulgur wheat",
+"cracked wheat"
+],
+"cup": 140,
+"src": "USDA"
+},
+{
+"m": [
+"farro"
+],
+"cup": 180,
+"src": "est"
+},
+{
+"m": [
+"pearl barley",
+"pearled barley",
+"barley"
+],
+"cup": 200,
+"src": "USDA"
+},
+{
+"m": [
+"millet"
+],
+"cup": 200,
+"src": "USDA"
+},
+{
+"m": [
+"lentils",
+"red lentils",
+"green lentils",
+"brown lentils",
+"dried lentils"
+],
+"cup": 192,
+"src": "USDA"
+},
+{
+"m": [
+"cooked lentils"
+],
+"cup": 198,
+"src": "USDA"
+},
+{
+"m": [
+"split peas",
+"yellow split peas",
+"green split peas"
+],
+"cup": 196,
+"src": "USDA"
+},
+{
+"m": [
+"spaghetti",
+"linguine",
+"fettuccine",
+"angel hair",
+"capellini",
+"bucatini",
+"long pasta"
+],
+"cup": 91,
+"units": {
+"box": 454,
+"package": 454
+},
+"note": "dry; 1 cup is a loose fistful",
+"src": "USDA"
+},
+{
+"m": [
+"elbow macaroni",
+"macaroni",
+"elbows",
+"ditalini",
+"small shells"
+],
+"cup": 122,
+"units": {
+"box": 454,
+"package": 454
+},
+"src": "USDA"
+},
+{
+"m": [
+"penne",
+"ziti",
+"rigatoni",
+"pasta shells",
+"shells pasta",
+"cavatappi"
+],
+"cup": 95,
+"units": {
+"box": 454,
+"package": 454
+},
+"src": "USDA"
+},
+{
+"m": [
+"rotini",
+"fusilli",
+"gemelli"
+],
+"cup": 96,
+"units": {
+"box": 454,
+"package": 454
+},
+"src": "USDA"
+},
+{
+"m": [
+"farfalle",
+"bow tie pasta",
+"bowtie pasta",
+"bow ties"
+],
+"cup": 81,
+"units": {
+"box": 454,
+"package": 454
+},
+"src": "USDA"
+},
+{
+"m": [
+"orzo"
+],
+"cup": 170,
+"src": "est"
+},
+{
+"m": [
+"egg noodles",
+"wide egg noodles"
+],
+"cup": 38,
+"src": "USDA"
+},
+{
+"m": [
+"pasta",
+"noodles",
+"dry pasta",
+"uncooked pasta"
+],
+"cup": 100,
+"units": {
+"box": 454,
+"package": 454,
+"bag": 454
+},
+"note": "box = 1 lb",
+"src": "USDA avg"
+},
+{
+"m": [
+"cooked pasta",
+"cooked noodles",
+"leftover pasta"
+],
+"cup": 124,
+"src": "USDA"
+},
+{
+"m": [
+"rice noodles",
+"vermicelli",
+"rice vermicelli",
+"glass noodles"
+],
+"cup": 70,
+"src": "est"
+},
+{
+"m": [
+"ramen noodles",
+"ramen"
+],
+"units": {
+"package": 85,
+"pack": 85,
+"packet": 85
+},
+"src": "est"
+},
+{
+"m": [
+"soba",
+"soba noodles",
+"udon",
+"udon noodles"
+],
+"units": {
+"package": 200,
+"bundle": 90
+},
+"src": "est"
+},
+{
+"m": [
+"lasagna noodles",
+"lasagna sheets",
+"lasagne sheets"
+],
+"each": 18,
+"src": "est"
+},
+{
+"m": [
+"breadcrumbs",
+"bread crumbs",
+"dried breadcrumbs",
+"dry breadcrumbs",
+"italian breadcrumbs",
+"seasoned breadcrumbs"
+],
+"cup": 108,
+"src": "USDA"
+},
+{
+"m": [
+"fresh breadcrumbs",
+"soft breadcrumbs",
+"fresh bread crumbs"
+],
+"cup": 45,
+"src": "USDA"
+},
+{
+"m": [
+"panko",
+"panko breadcrumbs",
+"panko bread crumbs"
+],
+"cup": 60,
+"src": "est"
+},
+{
+"m": [
+"croutons"
+],
+"cup": 40,
+"src": "est"
+},
+{
+"m": [
+"cracker crumbs",
+"ritz crumbs",
+"saltine crumbs"
+],
+"cup": 90,
+"src": "est"
+},
+{
+"m": [
+"graham cracker crumbs"
+],
+"cup": 100,
+"src": "est"
+},
+{
+"m": [
+"graham crackers",
+"graham cracker"
+],
+"cup": 100,
+"each": 14,
+"note": "each = one full sheet",
+"src": "USDA"
+},
+{
+"m": [
+"crackers",
+"saltines",
+"saltine crackers",
+"ritz crackers"
+],
+"each": 3,
+"src": "USDA"
+},
+{
+"m": [
+"oreos",
+"oreo cookies",
+"sandwich cookies"
+],
+"each": 11,
+"src": "est"
+},
+{
+"m": [
+"cookie crumbs",
+"oreo crumbs"
+],
+"cup": 120,
+"src": "est"
+},
+{
+"m": [
+"corn flakes",
+"cornflakes",
+"rice krispies",
+"crispy rice cereal",
+"cereal"
+],
+"cup": 28,
+"src": "USDA"
+},
+{
+"m": [
+"bread",
+"white bread",
+"sandwich bread",
+"wheat bread",
+"whole wheat bread",
+"sourdough",
+"sourdough bread"
+],
+"cup": 35,
+"units": {
+"slice": 28,
+"loaf": 500
+},
+"note": "cup = cubes",
+"src": "USDA"
+},
+{
+"m": [
+"bread cubes",
+"cubed bread",
+"stale bread",
+"day-old bread"
+],
+"cup": 35,
+"src": "USDA"
+},
+{
+"m": [
+"baguette",
+"french bread"
+],
+"each": 250,
+"units": {
+"loaf": 250,
+"slice": 15
+},
+"src": "est"
+},
+{
+"m": [
+"hamburger buns",
+"hamburger bun",
+"burger buns",
+"burger bun",
+"buns",
+"bun",
+"brioche buns",
+"slider buns"
+],
+"each": 43,
+"src": "USDA"
+},
+{
+"m": [
+"hot dog buns",
+"hot dog bun"
+],
+"each": 43,
+"src": "USDA"
+},
+{
+"m": [
+"dinner rolls",
+"dinner roll",
+"rolls"
+],
+"each": 35,
+"src": "USDA"
+},
+{
+"m": [
+"pita",
+"pita bread",
+"pitas",
+"pita pockets"
+],
+"each": 60,
+"sizes": {
+"small": 28,
+"large": 60
+},
+"src": "USDA"
+},
+{
+"m": [
+"naan"
+],
+"each": 90,
+"src": "est"
+},
+{
+"m": [
+"english muffins",
+"english muffin"
+],
+"each": 57,
+"src": "USDA"
+},
+{
+"m": [
+"bagels",
+"bagel"
+],
+"each": 98,
+"src": "USDA"
+},
+{
+"m": [
+"flour tortillas",
+"flour tortilla",
+"tortillas",
+"tortilla",
+"burrito tortillas",
+"soft tacos"
+],
+"each": 45,
+"sizes": {
+"small": 33,
+"medium": 45,
+"large": 71,
+"extra-large": 104
+},
+"note": "medium = 8 inch",
+"src": "USDA"
+},
+{
+"m": [
+"corn tortillas",
+"corn tortilla"
+],
+"each": 26,
+"src": "USDA"
+},
+{
+"m": [
+"tostadas",
+"tostada shells"
+],
+"each": 12,
+"src": "est"
+},
+{
+"m": [
+"taco shells",
+"hard taco shells"
+],
+"each": 13,
+"src": "USDA"
+},
+{
+"m": [
+"wonton wrappers",
+"wonton wrapper",
+"dumpling wrappers",
+"gyoza wrappers"
+],
+"each": 8,
+"src": "USDA"
+},
+{
+"m": [
+"egg roll wrappers",
+"spring roll wrappers"
+],
+"each": 32,
+"src": "USDA"
+},
+{
+"m": [
+"puff pastry",
+"puff pastry sheets",
+"puff pastry sheet"
+],
+"each": 245,
+"units": {
+"sheet": 245,
+"package": 490
+},
+"note": "one Pepperidge Farm sheet",
+"src": "est"
+},
+{
+"m": [
+"phyllo",
+"phyllo dough",
+"filo",
+"filo pastry"
+],
+"each": 19,
+"units": {
+"sheet": 19,
+"package": 454
+},
+"src": "USDA"
+},
+{
+"m": [
+"pie crust",
+"pie crusts",
+"pie dough",
+"pastry crust",
+"refrigerated pie crust"
+],
+"each": 200,
+"note": "one 9-inch crust",
+"src": "est"
+},
+{
+"m": [
+"pizza dough"
+],
+"each": 450,
+"units": {
+"ball": 450,
+"pound": 454
+},
+"src": "est"
+},
+{
+"m": [
+"crescent rolls",
+"crescent dough"
+],
+"each": 28,
+"units": {
+"can": 227,
+"tube": 227
+},
+"src": "USDA"
+},
+{
+"m": [
+"biscuit dough",
+"refrigerated biscuits"
+],
+"each": 58,
+"units": {
+"can": 340,
+"tube": 340
+},
+"src": "USDA"
+},
+{
+"m": [
+"granulated sugar",
+"white sugar",
+"caster sugar",
+"castor sugar",
+"superfine sugar",
+"cane sugar",
+"sugar"
+],
+"cup": 200,
+"src": "USDA"
+},
+{
+"m": [
+"brown sugar",
+"light brown sugar",
+"dark brown sugar",
+"packed brown sugar",
+"muscovado",
+"muscovado sugar"
+],
+"cup": 220,
+"note": "packed",
+"src": "USDA"
+},
+{
+"m": [
+"powdered sugar",
+"confectioners sugar",
+"confectioners' sugar",
+"confectioner's sugar",
+"icing sugar",
+"10x sugar"
+],
+"cup": 120,
+"src": "USDA"
+},
+{
+"m": [
+"coconut sugar",
+"palm sugar"
+],
+"cup": 150,
+"src": "est"
+},
+{
+"m": [
+"turbinado sugar",
+"raw sugar",
+"demerara sugar",
+"demerara",
+"turbinado",
+"sugar in the raw"
+],
+"cup": 200,
+"src": "est"
+},
+{
+"m": [
+"honey"
+],
+"cup": 339,
+"tbsp": 21,
+"dens": 1.42,
+"src": "USDA"
+},
+{
+"m": [
+"maple syrup",
+"pure maple syrup"
+],
+"cup": 315,
+"tbsp": 20,
+"dens": 1.33,
+"src": "USDA"
+},
+{
+"m": [
+"pancake syrup",
+"syrup"
+],
+"cup": 315,
+"tbsp": 20,
+"dens": 1.33,
+"src": "USDA"
+},
+{
+"m": [
+"molasses",
+"blackstrap molasses",
+"treacle",
+"black treacle"
+],
+"cup": 337,
+"tbsp": 20,
+"dens": 1.42,
+"src": "USDA"
+},
+{
+"m": [
+"golden syrup"
+],
+"cup": 340,
+"tbsp": 21,
+"dens": 1.43,
+"src": "est"
+},
+{
+"m": [
+"corn syrup",
+"light corn syrup",
+"dark corn syrup",
+"glucose syrup"
+],
+"cup": 328,
+"tbsp": 20,
+"dens": 1.38,
+"src": "USDA"
+},
+{
+"m": [
+"agave",
+"agave nectar",
+"agave syrup"
+],
+"cup": 336,
+"tbsp": 21,
+"dens": 1.42,
+"src": "est"
+},
+{
+"m": [
+"jam",
+"jelly",
+"preserves",
+"marmalade",
+"fruit preserves",
+"strawberry jam",
+"apricot jam",
+"raspberry jam"
+],
+"cup": 320,
+"tbsp": 20,
+"src": "USDA"
+},
+{
+"m": [
+"nutella",
+"chocolate hazelnut spread",
+"hazelnut spread"
+],
+"cup": 300,
+"tbsp": 19,
+"src": "est"
+},
+{
+"m": [
+"caramel sauce",
+"dulce de leche",
+"caramel"
+],
+"cup": 320,
+"tbsp": 20,
+"src": "est"
+},
+{
+"m": [
+"chocolate syrup"
+],
+"cup": 300,
+"tbsp": 19,
+"src": "est"
+},
+{
+"m": [
+"sweetened condensed milk",
+"condensed milk"
+],
+"cup": 306,
+"units": {
+"can": 397
+},
+"dens": 1.29,
+"note": "can = 14 oz",
+"src": "USDA"
+},
+{
+"m": [
+"marshmallow fluff",
+"marshmallow creme"
+],
+"cup": 90,
+"src": "est"
+},
+{
+"m": [
+"mini marshmallows",
+"miniature marshmallows"
+],
+"cup": 50,
+"src": "USDA"
+},
+{
+"m": [
+"marshmallows",
+"large marshmallows"
+],
+"cup": 50,
+"each": 7,
+"src": "USDA"
+},
+{
+"m": [
+"sprinkles",
+"nonpareils",
+"jimmies"
+],
+"cup": 160,
+"src": "est"
+},
+{
+"m": [
+"chocolate chips",
+"semi-sweet chocolate chips",
+"semisweet chocolate chips",
+"dark chocolate chips",
+"milk chocolate chips",
+"white chocolate chips",
+"mini chocolate chips",
+"chocolate morsels",
+"chocolate chunks"
+],
+"cup": 170,
+"units": {
+"bag": 340,
+"package": 340
+},
+"note": "bag = 12 oz",
+"src": "KA"
+},
+{
+"m": [
+"butterscotch chips",
+"peanut butter chips",
+"caramel chips",
+"cinnamon chips"
+],
+"cup": 170,
+"units": {
+"bag": 283
+},
+"src": "est"
+},
+{
+"m": [
+"chopped chocolate",
+"chocolate",
+"dark chocolate",
+"semisweet chocolate",
+"bittersweet chocolate",
+"milk chocolate",
+"white chocolate",
+"baking chocolate",
+"unsweetened chocolate"
+],
+"cup": 170,
+"units": {
+"square": 28,
+"ounce": 28,
+"bar": 100
+},
+"src": "est"
+},
+{
+"m": [
+"cocoa powder",
+"unsweetened cocoa powder",
+"cocoa",
+"dutch-process cocoa",
+"dutch process cocoa",
+"cacao powder",
+"cacao"
+],
+"cup": 86,
+"tbsp": 5.4,
+"src": "USDA"
+},
+{
+"m": [
+"cocoa nibs",
+"cacao nibs"
+],
+"cup": 120,
+"src": "est"
+},
+{
+"m": [
+"espresso powder",
+"instant espresso",
+"instant coffee",
+"coffee granules"
+],
+"tbsp": 4,
+"src": "est"
+},
+{
+"m": [
+"gelatin",
+"unflavored gelatin",
+"powdered gelatin"
+],
+"units": {
+"packet": 7,
+"envelope": 7
+},
+"tbsp": 9,
+"src": "USDA"
+},
+{
+"m": [
+"vanilla extract",
+"vanilla",
+"pure vanilla extract",
+"vanilla essence",
+"almond extract",
+"extract",
+"peppermint extract",
+"lemon extract"
+],
+"cup": 208,
+"tbsp": 13,
+"dens": 0.88,
+"src": "USDA"
+},
+{
+"m": [
+"vanilla bean paste"
+],
+"tbsp": 15,
+"src": "est"
+},
+{
+"m": [
+"vanilla beans",
+"vanilla bean",
+"vanilla pods"
+],
+"each": 3,
+"src": "est"
+},
+{
+"m": [
+"food coloring",
+"food colouring"
+],
+"tsp": 5,
+"src": "est"
+},
+{
+"m": [
+"baking powder"
+],
+"tsp": 4.6,
+"note": "level teaspoons",
+"src": "USDA"
+},
+{
+"m": [
+"baking soda",
+"bicarbonate of soda",
+"bicarb",
+"bicarbonate"
+],
+"tsp": 4.6,
+"src": "USDA"
+},
+{
+"m": [
+"cream of tartar"
+],
+"tsp": 3,
+"src": "USDA"
+},
+{
+"m": [
+"active dry yeast",
+"dry yeast",
+"instant yeast",
+"rapid rise yeast",
+"rapid-rise yeast",
+"bread machine yeast",
+"yeast"
+],
+"units": {
+"packet": 7,
+"envelope": 7,
+"sachet": 7
+},
+"tsp": 3.1,
+"src": "USDA"
+},
+{
+"m": [
+"fresh yeast",
+"cake yeast"
+],
+"units": {
+"cake": 17
+},
+"tsp": 4,
+"src": "est"
+},
+{
+"m": [
+"salt",
+"table salt",
+"fine salt",
+"fine sea salt",
+"sea salt",
+"iodized salt"
+],
+"cup": 292,
+"tsp": 6,
+"src": "USDA"
+},
+{
+"m": [
+"kosher salt",
+"coarse salt",
+"coarse sea salt",
+"diamond crystal",
+"morton"
+],
+"tsp": 4.8,
+"note": "Morton kosher; Diamond Crystal is 2.8 g per teaspoon",
+"src": "USDA/est"
+},
+{
+"m": [
+"flaky salt",
+"flaky sea salt",
+"maldon",
+"finishing salt"
+],
+"tsp": 2.5,
+"src": "est"
+},
+{
+"m": [
+"pink salt",
+"himalayan salt",
+"himalayan pink salt"
+],
+"tsp": 6,
+"src": "USDA"
+},
+{
+"m": [
+"pickling salt",
+"canning salt"
+],
+"tsp": 6.5,
+"src": "est"
+},
+{
+"m": [
+"msg",
+"monosodium glutamate",
+"accent"
+],
+"tsp": 4,
+"src": "est"
+},
+{
+"m": [
+"citric acid"
+],
+"tsp": 4.5,
+"src": "est"
+},
+{
+"m": [
+"xanthan gum"
+],
+"tsp": 2.5,
+"src": "est"
+},
+{
+"m": [
+"pectin"
+],
+"units": {
+"package": 49,
+"box": 49
+},
+"tbsp": 10,
+"src": "est"
+},
+{
+"m": [
+"lemon zest",
+"orange zest",
+"zest",
+"citrus zest",
+"grated zest",
+"grapefruit zest"
+],
+"each": 6,
+"tbsp": 6,
+"tsp": 2,
+"note": "each = the zest of one lemon",
+"src": "USDA"
+},
+{
+"m": [
+"lime zest"
+],
+"each": 4,
+"tbsp": 6,
+"tsp": 2,
+"note": "each = the zest of one lime",
+"src": "USDA"
+},
+{
+"m": [
+"grapefruit juice"
+],
+"cup": 247,
+"each": 150,
+"dens": 1.04,
+"note": "each = the juice of one grapefruit",
+"src": "USDA"
+},
+{
+"m": [
+"butter",
+"unsalted butter",
+"salted butter",
+"softened butter",
+"melted butter",
+"cold butter"
+],
+"cup": 227,
+"each": 113,
+"units": {
+"stick": 113,
+"block": 227
+},
+"tbsp": 14.2,
+"note": "each = one stick",
+"src": "USDA"
+},
+{
+"m": [
+"ghee",
+"clarified butter"
+],
+"cup": 205,
+"tbsp": 12.8,
+"dens": 0.87,
+"src": "est"
+},
+{
+"m": [
+"margarine",
+"vegan butter",
+"plant butter"
+],
+"cup": 227,
+"units": {
+"stick": 113
+},
+"tbsp": 14.2,
+"src": "USDA"
+},
+{
+"m": [
+"shortening",
+"vegetable shortening",
+"crisco"
+],
+"cup": 205,
+"tbsp": 12.8,
+"src": "USDA"
+},
+{
+"m": [
+"lard",
+"bacon fat",
+"bacon grease",
+"duck fat",
+"tallow",
+"beef tallow",
+"schmaltz",
+"chicken fat"
+],
+"cup": 205,
+"tbsp": 12.8,
+"dens": 0.87,
+"src": "USDA"
+},
+{
+"m": [
+"coconut oil",
+"virgin coconut oil"
+],
+"cup": 218,
+"tbsp": 13.6,
+"dens": 0.92,
+"src": "USDA"
+},
+{
+"m": [
+"olive oil",
+"extra virgin olive oil",
+"extra-virgin olive oil",
+"evoo",
+"light olive oil"
+],
+"cup": 216,
+"tbsp": 13.5,
+"dens": 0.91,
+"src": "USDA"
+},
+{
+"m": [
+"vegetable oil",
+"canola oil",
+"rapeseed oil",
+"sunflower oil",
+"corn oil",
+"peanut oil",
+"grapeseed oil",
+"avocado oil",
+"neutral oil",
+"cooking oil",
+"frying oil",
+"safflower oil",
+"oil"
+],
+"cup": 218,
+"tbsp": 13.6,
+"dens": 0.92,
+"src": "USDA"
+},
+{
+"m": [
+"sesame oil",
+"toasted sesame oil"
+],
+"cup": 218,
+"tbsp": 13.6,
+"dens": 0.92,
+"src": "USDA"
+},
+{
+"m": [
+"cooking spray",
+"nonstick spray",
+"pam"
+],
+"tsp": 0.3,
+"src": "est"
+},
+{
+"m": [
+"eggs",
+"egg",
+"whole eggs",
+"large eggs",
+"large egg"
+],
+"cup": 243,
+"each": 50,
+"sizes": {
+"small": 38,
+"medium": 44,
+"large": 50,
+"extra-large": 56,
+"jumbo": 63
+},
+"note": "shelled",
+"src": "USDA"
+},
+{
+"m": [
+"egg whites",
+"egg white"
+],
+"cup": 243,
+"each": 33,
+"src": "USDA"
+},
+{
+"m": [
+"egg yolks",
+"egg yolk"
+],
+"cup": 243,
+"each": 17,
+"src": "USDA"
+},
+{
+"m": [
+"liquid egg whites",
+"egg beaters",
+"liquid eggs"
+],
+"cup": 243,
+"src": "USDA"
+},
+{
+"m": [
+"milk",
+"whole milk",
+"2% milk",
+"skim milk",
+"low-fat milk",
+"lowfat milk",
+"1% milk",
+"nonfat milk",
+"dairy milk"
+],
+"cup": 244,
+"tbsp": 15,
+"dens": 1.03,
+"src": "USDA"
+},
+{
+"m": [
+"almond milk",
+"oat milk",
+"soy milk",
+"cashew milk",
+"plant milk",
+"non-dairy milk",
+"nut milk",
+"rice milk"
+],
+"cup": 240,
+"dens": 1.01,
+"src": "USDA"
+},
+{
+"m": [
+"buttermilk"
+],
+"cup": 245,
+"dens": 1.03,
+"src": "USDA"
+},
+{
+"m": [
+"powdered milk",
+"dry milk",
+"milk powder",
+"nonfat dry milk"
+],
+"cup": 68,
+"src": "USDA"
+},
+{
+"m": [
+"evaporated milk"
+],
+"cup": 252,
+"units": {
+"can": 354
+},
+"dens": 1.07,
+"note": "can = 12 oz",
+"src": "USDA"
+},
+{
+"m": [
+"coconut milk",
+"canned coconut milk",
+"full-fat coconut milk",
+"light coconut milk",
+"coconut milk beverage"
+],
+"cup": 226,
+"units": {
+"can": 400
+},
+"dens": 0.96,
+"note": "can = 13.5 oz",
+"src": "USDA"
+},
+{
+"m": [
+"coconut cream",
+"cream of coconut"
+],
+"cup": 240,
+"units": {
+"can": 400
+},
+"src": "est"
+},
+{
+"m": [
+"heavy cream",
+"heavy whipping cream",
+"whipping cream",
+"double cream",
+"thickened cream",
+"cream"
+],
+"cup": 238,
+"tbsp": 15,
+"dens": 1.0,
+"src": "USDA"
+},
+{
+"m": [
+"light cream",
+"single cream",
+"table cream"
+],
+"cup": 240,
+"dens": 1.01,
+"src": "USDA"
+},
+{
+"m": [
+"half and half",
+"half-and-half",
+"half & half"
+],
+"cup": 242,
+"tbsp": 15,
+"dens": 1.02,
+"src": "USDA"
+},
+{
+"m": [
+"whipped cream",
+"whipped topping",
+"cool whip"
+],
+"cup": 60,
+"units": {
+"tub": 227,
+"container": 227
+},
+"tbsp": 3,
+"src": "USDA"
+},
+{
+"m": [
+"sour cream",
+"crema",
+"mexican crema",
+"creme fraiche",
+"crème fraîche"
+],
+"cup": 230,
+"tbsp": 12,
+"src": "USDA"
+},
+{
+"m": [
+"yogurt",
+"plain yogurt",
+"whole milk yogurt",
+"vanilla yogurt",
+"natural yogurt",
+"yoghurt"
+],
+"cup": 245,
+"units": {
+"container": 170,
+"carton": 170
+},
+"src": "USDA"
+},
+{
+"m": [
+"greek yogurt",
+"plain greek yogurt",
+"skyr",
+"greek yoghurt"
+],
+"cup": 245,
+"units": {
+"container": 170
+},
+"src": "USDA"
+},
+{
+"m": [
+"cream cheese",
+"neufchatel",
+"neufchâtel"
+],
+"cup": 232,
+"each": 227,
+"units": {
+"package": 227,
+"block": 227,
+"brick": 227
+},
+"tbsp": 14.5,
+"note": "package = 8 oz",
+"src": "USDA"
+},
+{
+"m": [
+"mascarpone"
+],
+"cup": 227,
+"units": {
+"container": 227,
+"tub": 227
+},
+"src": "est"
+},
+{
+"m": [
+"ricotta",
+"ricotta cheese",
+"whole milk ricotta"
+],
+"cup": 246,
+"units": {
+"container": 425,
+"tub": 425
+},
+"src": "USDA"
+},
+{
+"m": [
+"cottage cheese"
+],
+"cup": 225,
+"src": "USDA"
+},
+{
+"m": [
+"cheddar",
+"cheddar cheese",
+"sharp cheddar",
+"shredded cheddar",
+"mild cheddar",
+"grated cheddar"
+],
+"cup": 113,
+"units": {
+"slice": 28,
+"block": 227
+},
+"note": "cup = shredded",
+"src": "USDA"
+},
+{
+"m": [
+"mozzarella",
+"mozzarella cheese",
+"shredded mozzarella",
+"low-moisture mozzarella",
+"grated mozzarella"
+],
+"cup": 112,
+"units": {
+"slice": 28
+},
+"src": "USDA"
+},
+{
+"m": [
+"fresh mozzarella",
+"mozzarella ball",
+"burrata",
+"bocconcini"
+],
+"cup": 112,
+"each": 227,
+"units": {
+"ball": 227
+},
+"note": "each = 8 oz ball",
+"src": "USDA"
+},
+{
+"m": [
+"parmesan",
+"parmesan cheese",
+"grated parmesan",
+"parmigiano",
+"parmigiano-reggiano",
+"parmigiano reggiano",
+"pecorino",
+"pecorino romano",
+"romano",
+"grana padano",
+"asiago"
+],
+"cup": 100,
+"tbsp": 5,
+"note": "grated",
+"src": "USDA"
+},
+{
+"m": [
+"feta",
+"feta cheese",
+"crumbled feta"
+],
+"cup": 150,
+"units": {
+"block": 200,
+"package": 200
+},
+"src": "USDA"
+},
+{
+"m": [
+"goat cheese",
+"chevre",
+"chèvre"
+],
+"cup": 140,
+"units": {
+"log": 113,
+"package": 113
+},
+"src": "est"
+},
+{
+"m": [
+"blue cheese",
+"gorgonzola",
+"roquefort",
+"stilton",
+"crumbled blue cheese"
+],
+"cup": 135,
+"src": "USDA"
+},
+{
+"m": [
+"gruyere",
+"gruyère",
+"swiss cheese",
+"swiss",
+"emmental",
+"jarlsberg",
+"fontina",
+"havarti",
+"provolone",
+"muenster",
+"gouda",
+"colby",
+"colby jack",
+"monterey jack",
+"pepper jack",
+"jack cheese",
+"mexican cheese",
+"mexican blend",
+"italian blend",
+"cheese blend"
+],
+"cup": 113,
+"units": {
+"slice": 28
+},
+"src": "USDA"
+},
+{
+"m": [
+"american cheese",
+"cheese slices",
+"cheese singles",
+"velveeta",
+"processed cheese"
+],
+"cup": 224,
+"each": 21,
+"units": {
+"slice": 21
+},
+"src": "USDA"
+},
+{
+"m": [
+"queso fresco",
+"cotija",
+"cotija cheese",
+"queso blanco",
+"paneer",
+"halloumi"
+],
+"cup": 120,
+"units": {
+"block": 227,
+"package": 283
+},
+"src": "est"
+},
+{
+"m": [
+"brie",
+"camembert"
+],
+"cup": 120,
+"units": {
+"wheel": 227,
+"round": 227
+},
+"src": "est"
+},
+{
+"m": [
+"shredded cheese",
+"grated cheese",
+"cheese",
+"mixed cheese"
+],
+"cup": 113,
+"units": {
+"slice": 28,
+"block": 227
+},
+"src": "USDA"
+},
+{
+"m": [
+"ice cream",
+"vanilla ice cream",
+"gelato",
+"frozen yogurt"
+],
+"cup": 132,
+"units": {
+"scoop": 66,
+"pint": 470,
+"quart": 940
+},
+"src": "USDA"
+},
+{
+"m": [
+"cooked chicken",
+"shredded chicken",
+"diced chicken",
+"leftover chicken",
+"chopped chicken",
+"cooked shredded chicken",
+"chicken meat"
+],
+"cup": 140,
+"src": "USDA"
+},
+{
+"m": [
+"rotisserie chicken"
+],
+"cup": 140,
+"each": 1000,
+"note": "each = meat from one bird, about 2.2 lb",
+"src": "est"
+},
+{
+"m": [
+"whole chicken",
+"chicken whole",
+"roasting chicken",
+"fryer chicken"
+],
+"each": 1800,
+"note": "4 lb bird",
+"src": "est"
+},
+{
+"m": [
+"chicken breasts",
+"chicken breast",
+"boneless skinless chicken breasts",
+"boneless chicken breasts",
+"skinless chicken breasts",
+"chicken breast halves",
+"chicken cutlets"
+],
+"cup": 140,
+"each": 200,
+"sizes": {
+"small": 150,
+"medium": 200,
+"large": 260
+},
+"note": "each = one boneless half breast, about 7 oz",
+"src": "USDA/est"
+},
+{
+"m": [
+"chicken thighs",
+"chicken thigh",
+"boneless skinless chicken thighs",
+"boneless chicken thighs",
+"skinless chicken thighs"
+],
+"cup": 140,
+"each": 115,
+"note": "boneless; bone-in about 150 g",
+"src": "est"
+},
+{
+"m": [
+"bone-in chicken thighs",
+"bone in chicken thighs",
+"chicken thighs bone-in"
+],
+"each": 150,
+"src": "est"
+},
+{
+"m": [
+"chicken drumsticks",
+"chicken drumstick",
+"drumsticks",
+"chicken legs",
+"chicken leg"
+],
+"each": 110,
+"src": "USDA"
+},
+{
+"m": [
+"chicken leg quarters",
+"leg quarters"
+],
+"each": 300,
+"src": "est"
+},
+{
+"m": [
+"chicken wings",
+"chicken wing",
+"wings",
+"wingettes",
+"drumettes",
+"party wings"
+],
+"each": 90,
+"note": "whole wing with skin, raw",
+"src": "USDA"
+},
+{
+"m": [
+"chicken tenders",
+"chicken tenderloins",
+"chicken strips",
+"chicken tenderloin"
+],
+"each": 45,
+"src": "est"
+},
+{
+"m": [
+"ground chicken",
+"minced chicken",
+"ground turkey",
+"minced turkey",
+"turkey mince",
+"chicken mince"
+],
+"cup": 225,
+"src": "USDA"
+},
+{
+"m": [
+"turkey breast",
+"turkey breast tenderloin"
+],
+"each": 680,
+"src": "est"
+},
+{
+"m": [
+"deli turkey",
+"sliced turkey",
+"turkey slices",
+"deli ham",
+"sliced ham",
+"ham slices",
+"deli meat",
+"lunch meat",
+"cold cuts"
+],
+"cup": 135,
+"each": 28,
+"units": {
+"slice": 28
+},
+"src": "USDA"
+},
+{
+"m": [
+"ground beef",
+"beef mince",
+"minced beef",
+"hamburger",
+"lean ground beef",
+"ground chuck",
+"ground sirloin"
+],
+"cup": 225,
+"src": "USDA"
+},
+{
+"m": [
+"ground pork",
+"pork mince",
+"minced pork",
+"ground lamb",
+"lamb mince",
+"ground veal",
+"ground meat",
+"minced meat",
+"ground bison",
+"ground venison"
+],
+"cup": 225,
+"src": "USDA"
+},
+{
+"m": [
+"ground sausage",
+"bulk sausage",
+"sausage meat",
+"loose sausage",
+"breakfast sausage meat"
+],
+"cup": 225,
+"units": {
+"package": 454,
+"roll": 454
+},
+"src": "USDA"
+},
+{
+"m": [
+"bacon",
+"bacon slices",
+"bacon strips",
+"streaky bacon",
+"thick-cut bacon",
+"thick cut bacon"
+],
+"cup": 112,
+"each": 28,
+"units": {
+"slice": 28,
+"strip": 28,
+"rasher": 28,
+"package": 454
+},
+"note": "raw; a cooked slice is about 8 g",
+"src": "USDA"
+},
+{
+"m": [
+"cooked bacon",
+"crumbled bacon",
+"bacon bits",
+"bacon crumbles"
+],
+"cup": 80,
+"each": 8,
+"units": {
+"slice": 8
+},
+"src": "USDA"
+},
+{
+"m": [
+"pancetta",
+"guanciale"
+],
+"cup": 130,
+"units": {
+"slice": 15
+},
+"src": "est"
+},
+{
+"m": [
+"prosciutto",
+"serrano ham",
+"speck"
+],
+"each": 15,
+"units": {
+"slice": 15
+},
+"src": "est"
+},
+{
+"m": [
+"breakfast sausage",
+"breakfast sausage links",
+"sausage links",
+"pork sausage links",
+"chipolatas"
+],
+"each": 28,
+"units": {
+"link": 28
+},
+"src": "USDA"
+},
+{
+"m": [
+"italian sausage",
+"italian sausages",
+"sausage",
+"sausages",
+"pork sausage",
+"chicken sausage",
+"chorizo links"
+],
+"each": 100,
+"units": {
+"link": 100
+},
+"note": "one raw link, about 3.5 oz",
+"src": "est"
+},
+{
+"m": [
+"bratwurst",
+"brats",
+"kielbasa",
+"smoked sausage",
+"andouille",
+"polish sausage"
+],
+"each": 85,
+"units": {
+"link": 85,
+"ring": 400
+},
+"src": "est"
+},
+{
+"m": [
+"chorizo",
+"mexican chorizo",
+"spanish chorizo"
+],
+"cup": 225,
+"each": 100,
+"units": {
+"link": 100
+},
+"src": "est"
+},
+{
+"m": [
+"hot dogs",
+"hot dog",
+"frankfurters",
+"wieners"
+],
+"each": 45,
+"src": "USDA"
+},
+{
+"m": [
+"pepperoni",
+"pepperoni slices"
+],
+"cup": 80,
+"each": 2,
+"units": {
+"slice": 2
+},
+"src": "USDA"
+},
+{
+"m": [
+"salami"
+],
+"each": 5,
+"units": {
+"slice": 5
+},
+"src": "USDA"
+},
+{
+"m": [
+"ham",
+"diced ham",
+"cooked ham",
+"ham steak",
+"leftover ham"
+],
+"cup": 135,
+"units": {
+"slice": 28,
+"steak": 300
+},
+"src": "USDA"
+},
+{
+"m": [
+"pork chops",
+"pork chop",
+"boneless pork chops",
+"pork loin chops"
+],
+"each": 170,
+"sizes": {
+"thin": 110,
+"thick": 230
+},
+"note": "boneless, 6 oz; bone-in about 230 g",
+"src": "est"
+},
+{
+"m": [
+"pork tenderloin",
+"pork tenderloins"
+],
+"each": 450,
+"src": "est"
+},
+{
+"m": [
+"pork shoulder",
+"pork butt",
+"boston butt",
+"pork roast",
+"pork loin",
+"pork belly"
+],
+"each": 1800,
+"note": "each = a typical 4 lb roast",
+"src": "est"
+},
+{
+"m": [
+"baby back ribs",
+"pork ribs",
+"spare ribs",
+"spareribs",
+"ribs"
+],
+"each": 1100,
+"units": {
+"rack": 1100,
+"slab": 1100
+},
+"src": "est"
+},
+{
+"m": [
+"steak",
+"steaks",
+"ribeye",
+"rib-eye",
+"new york strip",
+"strip steak",
+"sirloin",
+"sirloin steak",
+"filet mignon",
+"t-bone",
+"porterhouse",
+"top sirloin"
+],
+"each": 225,
+"note": "8 oz steak",
+"src": "est"
+},
+{
+"m": [
+"flank steak",
+"skirt steak",
+"flat iron",
+"flat iron steak",
+"hanger steak",
+"tri-tip",
+"tri tip"
+],
+"each": 680,
+"src": "est"
+},
+{
+"m": [
+"chuck roast",
+"beef chuck",
+"pot roast",
+"beef roast",
+"rump roast",
+"brisket",
+"beef brisket",
+"stew meat",
+"beef stew meat",
+"stewing beef",
+"chuck steak"
+],
+"cup": 225,
+"each": 1400,
+"note": "each = typical 3 lb roast; cup = cubed",
+"src": "est"
+},
+{
+"m": [
+"short ribs",
+"beef short ribs",
+"bone-in short ribs"
+],
+"each": 300,
+"src": "est"
+},
+{
+"m": [
+"lamb chops",
+"lamb chop",
+"lamb loin chops",
+"rib chops"
+],
+"each": 110,
+"src": "est"
+},
+{
+"m": [
+"leg of lamb",
+"lamb shoulder",
+"lamb leg"
+],
+"each": 2200,
+"src": "est"
+},
+{
+"m": [
+"lamb shanks",
+"lamb shank"
+],
+"each": 400,
+"src": "est"
+},
+{
+"m": [
+"veal cutlets",
+"veal scallopini",
+"veal"
+],
+"each": 110,
+"src": "est"
+},
+{
+"m": [
+"liver",
+"chicken livers",
+"chicken liver",
+"beef liver"
+],
+"cup": 140,
+"each": 40,
+"src": "USDA"
+},
+{
+"m": [
+"salmon",
+"salmon fillets",
+"salmon fillet",
+"salmon filets",
+"salmon filet",
+"salmon steaks"
+],
+"cup": 140,
+"each": 170,
+"note": "6 oz fillet",
+"src": "est"
+},
+{
+"m": [
+"side of salmon",
+"whole salmon fillet",
+"salmon side"
+],
+"each": 1100,
+"src": "est"
+},
+{
+"m": [
+"smoked salmon",
+"lox",
+"gravlax"
+],
+"cup": 120,
+"units": {
+"package": 113,
+"slice": 15
+},
+"src": "est"
+},
+{
+"m": [
+"cod",
+"cod fillets",
+"halibut",
+"tilapia",
+"haddock",
+"sea bass",
+"snapper",
+"mahi mahi",
+"mahi-mahi",
+"trout",
+"white fish",
+"whitefish",
+"fish fillets",
+"fish fillet",
+"fish",
+"flounder",
+"sole",
+"grouper",
+"catfish",
+"swordfish",
+"pollock",
+"barramundi"
+],
+"cup": 140,
+"each": 150,
+"units": {
+"fillet": 150,
+"filet": 150
+},
+"note": "5 oz fillet",
+"src": "est"
+},
+{
+"m": [
+"tuna steaks",
+"tuna steak",
+"ahi tuna",
+"ahi"
+],
+"each": 170,
+"src": "est"
+},
+{
+"m": [
+"canned tuna",
+"tuna",
+"tinned tuna",
+"tuna in water",
+"tuna in oil",
+"albacore"
+],
+"cup": 154,
+"units": {
+"can": 142,
+"tin": 142,
+"pouch": 74
+},
+"note": "can = 5 oz; about 113 g drained",
+"src": "USDA"
+},
+{
+"m": [
+"canned salmon"
+],
+"cup": 154,
+"units": {
+"can": 418,
+"tin": 418
+},
+"src": "USDA"
+},
+{
+"m": [
+"sardines",
+"anchovies",
+"anchovy fillets",
+"anchovy",
+"anchovy fillet"
+],
+"each": 4,
+"units": {
+"fillet": 4,
+"can": 56,
+"tin": 56
+},
+"note": "each = one anchovy fillet; can = 2 oz",
+"src": "USDA"
+},
+{
+"m": [
+"anchovy paste"
+],
+"tbsp": 15,
+"tsp": 5,
+"src": "USDA"
+},
+{
+"m": [
+"shrimp",
+"prawns",
+"raw shrimp",
+"large shrimp",
+"jumbo shrimp",
+"medium shrimp",
+"peeled shrimp",
+"cooked shrimp",
+"king prawns"
+],
+"cup": 145,
+"each": 11,
+"sizes": {
+"small": 5,
+"medium": 7,
+"large": 11,
+"extra-large": 14,
+"jumbo": 18,
+"colossal": 25
+},
+"note": "peeled, raw",
+"src": "USDA/est"
+},
+{
+"m": [
+"scallops",
+"sea scallops",
+"bay scallops"
+],
+"each": 25,
+"sizes": {
+"small": 8,
+"large": 30
+},
+"note": "sea scallop; bay scallops about 8 g",
+"src": "est"
+},
+{
+"m": [
+"crab meat",
+"crabmeat",
+"lump crab",
+"lump crab meat",
+"crab"
+],
+"cup": 135,
+"units": {
+"can": 170,
+"container": 227,
+"pound": 454
+},
+"src": "USDA"
+},
+{
+"m": [
+"lobster",
+"lobster tails",
+"lobster tail",
+"lobster meat"
+],
+"cup": 145,
+"each": 170,
+"src": "est"
+},
+{
+"m": [
+"mussels",
+"clams",
+"littleneck clams"
+],
+"cup": 150,
+"each": 15,
+"units": {
+"pound": 454,
+"bag": 907
+},
+"note": "in shell",
+"src": "est"
+},
+{
+"m": [
+"canned clams",
+"chopped clams",
+"minced clams"
+],
+"cup": 160,
+"units": {
+"can": 184
+},
+"src": "USDA"
+},
+{
+"m": [
+"squid",
+"calamari",
+"octopus"
+],
+"cup": 150,
+"src": "est"
+},
+{
+"m": [
+"tofu",
+"firm tofu",
+"extra firm tofu",
+"extra-firm tofu",
+"silken tofu",
+"soft tofu"
+],
+"cup": 252,
+"each": 400,
+"units": {
+"block": 400,
+"package": 400,
+"container": 400
+},
+"note": "block = 14 oz",
+"src": "USDA"
+},
+{
+"m": [
+"tempeh"
+],
+"cup": 166,
+"each": 227,
+"units": {
+"package": 227,
+"block": 227
+},
+"src": "USDA"
+},
+{
+"m": [
+"seitan"
+],
+"cup": 160,
+"units": {
+"package": 227
+},
+"src": "est"
+},
+{
+"m": [
+"plant-based ground",
+"beyond beef",
+"impossible burger",
+"veggie crumbles",
+"vegan ground",
+"meatless crumbles"
+],
+"cup": 225,
+"units": {
+"package": 340
+},
+"src": "est"
+},
+{
+"m": [
+"onion",
+"onions",
+"yellow onion",
+"yellow onions",
+"white onion",
+"white onions",
+"red onion",
+"red onions",
+"sweet onion",
+"sweet onions",
+"vidalia",
+"vidalia onion",
+"brown onion",
+"chopped onion",
+"diced onion",
+"sliced onion"
+],
+"cup": 160,
+"each": 110,
+"sizes": {
+"small": 70,
+"medium": 110,
+"large": 150,
+"extra-large": 200,
+"jumbo": 250
+},
+"units": {
+"slice": 15
+},
+"note": "cup = chopped",
+"src": "USDA"
+},
+{
+"m": [
+"green onions",
+"green onion",
+"scallions",
+"scallion",
+"spring onions",
+"spring onion",
+"salad onions"
+],
+"cup": 100,
+"each": 15,
+"sizes": {
+"small": 5,
+"medium": 15,
+"large": 25
+},
+"units": {
+"bunch": 100
+},
+"tbsp": 6,
+"src": "USDA"
+},
+{
+"m": [
+"shallots",
+"shallot"
+],
+"cup": 160,
+"each": 40,
+"sizes": {
+"small": 25,
+"medium": 40,
+"large": 60
+},
+"tbsp": 10,
+"src": "USDA/est"
+},
+{
+"m": [
+"leeks",
+"leek"
+],
+"cup": 89,
+"each": 90,
+"sizes": {
+"small": 60,
+"medium": 90,
+"large": 150
+},
+"src": "USDA/est"
+},
+{
+"m": [
+"garlic cloves",
+"garlic clove",
+"cloves garlic",
+"cloves of garlic",
+"clove garlic",
+"clove of garlic",
+"garlic"
+],
+"cup": 136,
+"each": 5,
+"units": {
+"clove": 5,
+"head": 40,
+"bulb": 40
+},
+"tbsp": 8.5,
+"tsp": 2.8,
+"note": "USDA lists a clove at 3 g; a supermarket clove runs 4 to 7 g",
+"src": "USDA/est"
+},
+{
+"m": [
+"minced garlic",
+"garlic minced",
+"chopped garlic",
+"jarred garlic",
+"garlic paste"
+],
+"cup": 136,
+"tbsp": 8.5,
+"tsp": 2.8,
+"src": "USDA"
+},
+{
+"m": [
+"roasted garlic"
+],
+"each": 5,
+"units": {
+"clove": 5,
+"head": 40
+},
+"src": "est"
+},
+{
+"m": [
+"ginger",
+"fresh ginger",
+"ginger root",
+"grated ginger",
+"minced ginger",
+"ginger paste"
+],
+"cup": 96,
+"each": 30,
+"units": {
+"inch": 10,
+"knob": 30,
+"thumb": 30,
+"piece": 30
+},
+"tbsp": 6,
+"tsp": 2,
+"note": "inch = a 1-inch piece",
+"src": "USDA/est"
+},
+{
+"m": [
+"galangal",
+"turmeric root",
+"fresh turmeric"
+],
+"units": {
+"inch": 10,
+"knob": 30
+},
+"tbsp": 6,
+"src": "est"
+},
+{
+"m": [
+"lemongrass"
+],
+"each": 15,
+"units": {
+"stalk": 15
+},
+"src": "est"
+},
+{
+"m": [
+"tomato",
+"tomatoes",
+"ripe tomatoes",
+"fresh tomatoes",
+"beefsteak tomatoes",
+"vine tomatoes",
+"diced tomato",
+"chopped tomatoes",
+"chopped tomato",
+"sliced tomatoes"
+],
+"cup": 180,
+"each": 123,
+"sizes": {
+"small": 91,
+"medium": 123,
+"large": 182
+},
+"units": {
+"slice": 20
+},
+"note": "cup = chopped",
+"src": "USDA"
+},
+{
+"m": [
+"roma tomatoes",
+"roma tomato",
+"plum tomatoes",
+"plum tomato",
+"romas"
+],
+"cup": 180,
+"each": 62,
+"src": "USDA"
+},
+{
+"m": [
+"cherry tomatoes",
+"cherry tomato",
+"grape tomatoes",
+"grape tomato"
+],
+"cup": 149,
+"each": 17,
+"units": {
+"pint": 300,
+"container": 300
+},
+"src": "USDA"
+},
+{
+"m": [
+"sun-dried tomatoes",
+"sun dried tomatoes",
+"sundried tomatoes"
+],
+"cup": 54,
+"each": 2,
+"units": {
+"jar": 240
+},
+"src": "USDA"
+},
+{
+"m": [
+"tomatillos",
+"tomatillo"
+],
+"cup": 132,
+"each": 34,
+"src": "USDA"
+},
+{
+"m": [
+"potatoes",
+"potato",
+"russet potatoes",
+"russet potato",
+"russets",
+"yukon gold potatoes",
+"yukon gold",
+"yukon golds",
+"red potatoes",
+"red potato",
+"white potatoes",
+"baking potatoes",
+"idaho potatoes",
+"waxy potatoes",
+"new potatoes",
+"fingerling potatoes",
+"baby potatoes",
+"gold potatoes"
+],
+"cup": 150,
+"each": 213,
+"sizes": {
+"small": 170,
+"medium": 213,
+"large": 369,
+"baby": 30,
+"new": 50,
+"fingerling": 40
+},
+"note": "cup = diced; a baby/new potato is 30 to 50 g",
+"src": "USDA"
+},
+{
+"m": [
+"sweet potatoes",
+"sweet potato",
+"yams",
+"yam",
+"garnet yam",
+"jewel yam"
+],
+"cup": 133,
+"each": 130,
+"sizes": {
+"small": 100,
+"medium": 130,
+"large": 180
+},
+"note": "cup = cubes",
+"src": "USDA"
+},
+{
+"m": [
+"carrots",
+"carrot",
+"chopped carrots",
+"diced carrots",
+"shredded carrots",
+"grated carrots",
+"matchstick carrots"
+],
+"cup": 128,
+"each": 61,
+"sizes": {
+"small": 50,
+"medium": 61,
+"large": 72
+},
+"units": {
+"bunch": 450,
+"bag": 454,
+"pound": 454
+},
+"note": "cup = chopped; grated about 110",
+"src": "USDA"
+},
+{
+"m": [
+"baby carrots"
+],
+"cup": 128,
+"each": 10,
+"units": {
+"bag": 454
+},
+"src": "USDA"
+},
+{
+"m": [
+"celery",
+"celery stalks",
+"celery stalk",
+"celery ribs",
+"celery rib",
+"chopped celery",
+"diced celery"
+],
+"cup": 101,
+"each": 40,
+"sizes": {
+"small": 17,
+"medium": 40,
+"large": 64
+},
+"units": {
+"stalk": 40,
+"rib": 40,
+"head": 500,
+"bunch": 500,
+"heart": 250
+},
+"tbsp": 7.5,
+"src": "USDA"
+},
+{
+"m": [
+"bell pepper",
+"bell peppers",
+"red bell pepper",
+"red bell peppers",
+"green bell pepper",
+"green bell peppers",
+"yellow bell pepper",
+"orange bell pepper",
+"red pepper",
+"red peppers",
+"green pepper",
+"green peppers",
+"yellow pepper",
+"orange pepper",
+"sweet pepper",
+"sweet peppers",
+"capsicum",
+"capsicums"
+],
+"cup": 149,
+"each": 120,
+"sizes": {
+"small": 74,
+"medium": 120,
+"large": 164
+},
+"note": "cup = chopped",
+"src": "USDA"
+},
+{
+"m": [
+"mini peppers",
+"mini sweet peppers",
+"baby bell peppers"
+],
+"cup": 149,
+"each": 30,
+"units": {
+"bag": 454
+},
+"src": "est"
+},
+{
+"m": [
+"roasted red peppers",
+"roasted red pepper",
+"roasted peppers",
+"jarred roasted red peppers",
+"piquillo peppers"
+],
+"cup": 150,
+"each": 45,
+"units": {
+"jar": 340
+},
+"src": "est"
+},
+{
+"m": [
+"jalapeno",
+"jalapenos",
+"jalapeño",
+"jalapeños",
+"jalapeno pepper",
+"jalapeno peppers"
+],
+"cup": 90,
+"each": 14,
+"tbsp": 9,
+"src": "USDA"
+},
+{
+"m": [
+"pickled jalapenos",
+"pickled jalapeños",
+"jarred jalapenos",
+"sliced jalapenos"
+],
+"cup": 136,
+"units": {
+"jar": 340,
+"can": 340
+},
+"tbsp": 9,
+"src": "est"
+},
+{
+"m": [
+"serrano",
+"serranos",
+"serrano pepper",
+"serrano peppers",
+"serrano chile",
+"serrano chiles"
+],
+"each": 6,
+"src": "USDA"
+},
+{
+"m": [
+"habanero",
+"habaneros",
+"scotch bonnet",
+"scotch bonnets"
+],
+"each": 9,
+"src": "est"
+},
+{
+"m": [
+"poblano",
+"poblanos",
+"poblano pepper",
+"poblano peppers",
+"pasilla"
+],
+"each": 65,
+"src": "est"
+},
+{
+"m": [
+"anaheim",
+"anaheim pepper",
+"anaheim peppers",
+"hatch chiles",
+"hatch chile",
+"green chiles fresh",
+"new mexico chiles"
+],
+"each": 50,
+"src": "est"
+},
+{
+"m": [
+"thai chiles",
+"thai chili",
+"thai chilies",
+"bird's eye chili",
+"birds eye chili",
+"bird eye chili",
+"thai chile"
+],
+"each": 2,
+"src": "est"
+},
+{
+"m": [
+"chili",
+"chile",
+"chilies",
+"chiles",
+"fresh chili",
+"fresh chile",
+"red chili",
+"red chile",
+"green chili",
+"green chile",
+"chili pepper",
+"chile pepper",
+"fresno",
+"fresno chile",
+"fresno pepper",
+"cayenne pepper fresh"
+],
+"each": 15,
+"src": "est"
+},
+{
+"m": [
+"dried chiles",
+"dried chilies",
+"dried chili",
+"dried chile",
+"ancho",
+"ancho chiles",
+"guajillo",
+"guajillo chiles",
+"chile de arbol",
+"chiles de arbol",
+"dried arbol",
+"pasilla chiles",
+"chipotle dried",
+"new mexico dried"
+],
+"each": 8,
+"note": "ancho about 15 g, guajillo 8, arbol 1",
+"src": "est"
+},
+{
+"m": [
+"chipotle in adobo",
+"chipotles in adobo",
+"chipotle peppers in adobo",
+"chipotle pepper in adobo",
+"chipotle chiles in adobo",
+"chipotles"
+],
+"each": 10,
+"units": {
+"can": 198
+},
+"tbsp": 15,
+"note": "each = one pepper; can = 7 oz",
+"src": "est"
+},
+{
+"m": [
+"adobo sauce"
+],
+"tbsp": 15,
+"tsp": 5,
+"src": "est"
+},
+{
+"m": [
+"canned green chiles",
+"diced green chiles",
+"green chiles",
+"green chilies",
+"diced green chilies",
+"chopped green chiles",
+"canned chiles"
+],
+"cup": 240,
+"units": {
+"can": 113
+},
+"tbsp": 15,
+"note": "can = 4 oz",
+"src": "USDA"
+},
+{
+"m": [
+"cucumber",
+"cucumbers",
+"english cucumber",
+"english cucumbers",
+"persian cucumbers",
+"persian cucumber",
+"mini cucumbers",
+"hothouse cucumber"
+],
+"cup": 104,
+"each": 300,
+"sizes": {
+"small": 150,
+"medium": 300,
+"large": 400,
+"persian": 110,
+"mini": 110
+},
+"units": {
+"slice": 7
+},
+"note": "cup = sliced; a Persian cucumber is about 110 g",
+"src": "USDA"
+},
+{
+"m": [
+"zucchini",
+"courgette",
+"courgettes",
+"zucchinis",
+"summer squash",
+"yellow squash",
+"crookneck squash"
+],
+"cup": 124,
+"each": 196,
+"sizes": {
+"small": 118,
+"medium": 196,
+"large": 323
+},
+"note": "cup = chopped",
+"src": "USDA"
+},
+{
+"m": [
+"spaghetti squash"
+],
+"cup": 155,
+"each": 1400,
+"src": "est"
+},
+{
+"m": [
+"butternut squash",
+"butternut"
+],
+"cup": 140,
+"each": 1100,
+"note": "each = a 2.5 lb squash; cup = cubes",
+"src": "USDA/est"
+},
+{
+"m": [
+"acorn squash"
+],
+"cup": 140,
+"each": 430,
+"src": "USDA"
+},
+{
+"m": [
+"delicata squash",
+"delicata"
+],
+"each": 450,
+"src": "est"
+},
+{
+"m": [
+"kabocha squash",
+"kabocha",
+"pumpkin fresh",
+"sugar pumpkin",
+"pie pumpkin"
+],
+"cup": 116,
+"each": 1400,
+"src": "est"
+},
+{
+"m": [
+"pumpkin puree",
+"pumpkin purée",
+"canned pumpkin",
+"pumpkin",
+"pure pumpkin",
+"solid pack pumpkin"
+],
+"cup": 245,
+"units": {
+"can": 425
+},
+"note": "can = 15 oz",
+"src": "USDA"
+},
+{
+"m": [
+"broccoli",
+"broccoli florets",
+"broccoli crowns",
+"fresh broccoli",
+"chopped broccoli"
+],
+"cup": 91,
+"each": 600,
+"units": {
+"head": 600,
+"crown": 300,
+"bunch": 600,
+"stalk": 150
+},
+"note": "cup = chopped; florets only about 71",
+"src": "USDA"
+},
+{
+"m": [
+"frozen broccoli",
+"frozen broccoli florets"
+],
+"cup": 156,
+"units": {
+"bag": 454,
+"package": 454,
+"box": 283
+},
+"src": "USDA"
+},
+{
+"m": [
+"broccolini",
+"baby broccoli",
+"broccoli rabe",
+"rapini"
+],
+"cup": 40,
+"each": 200,
+"units": {
+"bunch": 200
+},
+"src": "est"
+},
+{
+"m": [
+"cauliflower",
+"cauliflower florets",
+"cauliflower head"
+],
+"cup": 107,
+"each": 588,
+"sizes": {
+"small": 265,
+"medium": 588,
+"large": 840
+},
+"units": {
+"head": 588
+},
+"src": "USDA"
+},
+{
+"m": [
+"cauliflower rice",
+"riced cauliflower"
+],
+"cup": 107,
+"units": {
+"bag": 340
+},
+"src": "est"
+},
+{
+"m": [
+"cabbage",
+"green cabbage",
+"red cabbage",
+"purple cabbage",
+"white cabbage",
+"shredded cabbage",
+"sliced cabbage"
+],
+"cup": 70,
+"each": 900,
+"sizes": {
+"small": 700,
+"medium": 900,
+"large": 1248
+},
+"units": {
+"head": 900,
+"leaf": 33,
+"wedge": 225
+},
+"note": "cup = shredded; chopped about 89",
+"src": "USDA"
+},
+{
+"m": [
+"napa cabbage",
+"chinese cabbage",
+"savoy cabbage",
+"wombok"
+],
+"cup": 76,
+"each": 900,
+"units": {
+"head": 900
+},
+"src": "USDA/est"
+},
+{
+"m": [
+"coleslaw mix",
+"slaw mix",
+"cabbage slaw mix",
+"broccoli slaw"
+],
+"cup": 70,
+"units": {
+"bag": 397,
+"package": 397
+},
+"src": "USDA"
+},
+{
+"m": [
+"bok choy",
+"baby bok choy",
+"pak choi",
+"pak choy"
+],
+"cup": 70,
+"each": 150,
+"sizes": {
+"baby": 70
+},
+"units": {
+"head": 150,
+"bunch": 150
+},
+"src": "est"
+},
+{
+"m": [
+"brussels sprouts",
+"brussel sprouts",
+"brussels sprout"
+],
+"cup": 88,
+"each": 19,
+"units": {
+"pound": 454
+},
+"src": "USDA"
+},
+{
+"m": [
+"kale",
+"curly kale",
+"lacinato kale",
+"tuscan kale",
+"dinosaur kale",
+"chopped kale",
+"baby kale"
+],
+"cup": 21,
+"units": {
+"bunch": 200,
+"bag": 283,
+"package": 283,
+"leaf": 15
+},
+"src": "USDA/est"
+},
+{
+"m": [
+"spinach",
+"fresh spinach",
+"baby spinach",
+"spinach leaves"
+],
+"cup": 30,
+"units": {
+"bag": 142,
+"package": 284,
+"bunch": 340,
+"box": 142,
+"container": 142
+},
+"note": "bag = 5 oz; package = 10 oz",
+"src": "USDA"
+},
+{
+"m": [
+"frozen spinach",
+"chopped frozen spinach",
+"frozen chopped spinach"
+],
+"cup": 156,
+"units": {
+"package": 284,
+"box": 284,
+"bag": 454
+},
+"note": "package = 10 oz",
+"src": "USDA"
+},
+{
+"m": [
+"arugula",
+"rocket",
+"baby arugula",
+"watercress",
+"microgreens",
+"mixed greens",
+"spring mix",
+"salad greens",
+"mesclun",
+"baby greens",
+"salad mix"
+],
+"cup": 20,
+"units": {
+"bag": 142,
+"container": 142,
+"package": 142,
+"bunch": 100
+},
+"src": "USDA"
+},
+{
+"m": [
+"swiss chard",
+"chard",
+"rainbow chard",
+"collard greens",
+"collards",
+"mustard greens",
+"turnip greens",
+"beet greens",
+"dandelion greens"
+],
+"cup": 36,
+"units": {
+"bunch": 340,
+"leaf": 48
+},
+"src": "USDA"
+},
+{
+"m": [
+"romaine",
+"romaine lettuce",
+"romaine hearts",
+"cos lettuce"
+],
+"cup": 47,
+"each": 300,
+"units": {
+"head": 300,
+"heart": 200,
+"leaf": 28
+},
+"src": "USDA"
+},
+{
+"m": [
+"iceberg",
+"iceberg lettuce",
+"lettuce",
+"shredded lettuce",
+"butter lettuce",
+"bibb lettuce",
+"boston lettuce",
+"green leaf lettuce",
+"red leaf lettuce",
+"leaf lettuce",
+"little gem"
+],
+"cup": 47,
+"each": 500,
+"sizes": {
+"small": 300,
+"medium": 500,
+"large": 750
+},
+"units": {
+"head": 500,
+"leaf": 15
+},
+"note": "cup = shredded",
+"src": "USDA"
+},
+{
+"m": [
+"endive",
+"belgian endive",
+"radicchio",
+"frisee",
+"escarole"
+],
+"cup": 25,
+"each": 50,
+"units": {
+"head": 50
+},
+"src": "est"
+},
+{
+"m": [
+"mushrooms",
+"mushroom",
+"white mushrooms",
+"button mushrooms",
+"cremini",
+"cremini mushrooms",
+"crimini",
+"baby bella",
+"baby bella mushrooms",
+"baby bellas",
+"sliced mushrooms",
+"brown mushrooms",
+"chestnut mushrooms"
+],
+"cup": 70,
+"each": 18,
+"sizes": {
+"small": 10,
+"medium": 18,
+"large": 23
+},
+"units": {
+"package": 227,
+"container": 227,
+"box": 227,
+"pound": 454
+},
+"note": "cup = sliced; package = 8 oz",
+"src": "USDA"
+},
+{
+"m": [
+"portobello",
+"portobellos",
+"portobello mushrooms",
+"portabella",
+"portabello",
+"portobello caps"
+],
+"cup": 86,
+"each": 85,
+"src": "USDA"
+},
+{
+"m": [
+"shiitake",
+"shiitake mushrooms",
+"oyster mushrooms",
+"maitake",
+"enoki",
+"wild mushrooms",
+"chanterelles",
+"porcini fresh",
+"king oyster"
+],
+"cup": 70,
+"each": 15,
+"units": {
+"package": 100
+},
+"src": "est"
+},
+{
+"m": [
+"dried mushrooms",
+"dried shiitake",
+"dried porcini",
+"dried shiitakes"
+],
+"cup": 30,
+"each": 4,
+"units": {
+"package": 28
+},
+"src": "est"
+},
+{
+"m": [
+"corn",
+"corn kernels",
+"sweet corn",
+"fresh corn",
+"corn on the cob",
+"ears of corn",
+"ear of corn",
+"frozen corn",
+"canned corn",
+"whole kernel corn"
+],
+"cup": 145,
+"each": 103,
+"sizes": {
+"small": 73,
+"medium": 103,
+"large": 143
+},
+"units": {
+"ear": 103,
+"cob": 103,
+"can": 425,
+"bag": 454
+},
+"note": "each = kernels from one ear; can = 15 oz",
+"src": "USDA"
+},
+{
+"m": [
+"creamed corn",
+"cream-style corn",
+"cream style corn"
+],
+"cup": 256,
+"units": {
+"can": 418
+},
+"src": "USDA"
+},
+{
+"m": [
+"peas",
+"green peas",
+"frozen peas",
+"petite peas",
+"sweet peas",
+"baby peas"
+],
+"cup": 134,
+"units": {
+"bag": 454,
+"package": 284,
+"can": 425,
+"box": 284
+},
+"src": "USDA"
+},
+{
+"m": [
+"snap peas",
+"sugar snap peas",
+"sugar snaps",
+"snow peas",
+"mangetout"
+],
+"cup": 63,
+"each": 3,
+"units": {
+"bag": 227
+},
+"src": "USDA"
+},
+{
+"m": [
+"green beans",
+"string beans",
+"fresh green beans",
+"haricots verts",
+"haricot verts",
+"french beans",
+"snap beans",
+"frozen green beans"
+],
+"cup": 100,
+"units": {
+"bag": 454,
+"pound": 454,
+"can": 411,
+"package": 340
+},
+"src": "USDA"
+},
+{
+"m": [
+"edamame",
+"shelled edamame",
+"frozen edamame"
+],
+"cup": 155,
+"units": {
+"bag": 340,
+"package": 340
+},
+"src": "USDA"
+},
+{
+"m": [
+"asparagus",
+"asparagus spears",
+"asparagus spear"
+],
+"cup": 134,
+"each": 16,
+"sizes": {
+"thin": 12,
+"small": 12,
+"medium": 16,
+"large": 20,
+"thick": 20
+},
+"units": {
+"spear": 16,
+"bunch": 454,
+"pound": 454
+},
+"note": "bunch = 1 lb",
+"src": "USDA"
+},
+{
+"m": [
+"eggplant",
+"eggplants",
+"aubergine",
+"aubergines",
+"globe eggplant"
+],
+"cup": 82,
+"each": 500,
+"sizes": {
+"small": 300,
+"medium": 500,
+"large": 700
+},
+"note": "cup = cubes",
+"src": "USDA"
+},
+{
+"m": [
+"japanese eggplant",
+"chinese eggplant",
+"baby eggplant"
+],
+"each": 150,
+"src": "est"
+},
+{
+"m": [
+"avocado",
+"avocados",
+"ripe avocado",
+"ripe avocados",
+"hass avocado",
+"hass avocados",
+"mashed avocado"
+],
+"cup": 150,
+"each": 150,
+"sizes": {
+"small": 120,
+"medium": 150,
+"large": 200
+},
+"note": "flesh of one Hass; cup = cubes",
+"src": "USDA/est"
+},
+{
+"m": [
+"artichoke hearts",
+"marinated artichoke hearts",
+"canned artichoke hearts",
+"artichokes canned"
+],
+"cup": 170,
+"each": 20,
+"units": {
+"can": 397,
+"jar": 340
+},
+"src": "est"
+},
+{
+"m": [
+"artichokes",
+"artichoke",
+"globe artichoke"
+],
+"each": 128,
+"units": {
+"head": 128
+},
+"src": "USDA"
+},
+{
+"m": [
+"fennel",
+"fennel bulb",
+"fennel bulbs"
+],
+"cup": 87,
+"each": 234,
+"units": {
+"bulb": 234,
+"head": 234
+},
+"src": "USDA"
+},
+{
+"m": [
+"beets",
+"beet",
+"beetroot",
+"beetroots",
+"roasted beets",
+"cooked beets"
+],
+"cup": 136,
+"each": 82,
+"sizes": {
+"small": 50,
+"medium": 82,
+"large": 120
+},
+"units": {
+"bunch": 450,
+"can": 425
+},
+"src": "USDA"
+},
+{
+"m": [
+"radishes",
+"radish"
+],
+"cup": 116,
+"each": 4.5,
+"units": {
+"bunch": 200
+},
+"src": "USDA"
+},
+{
+"m": [
+"daikon",
+"daikon radish"
+],
+"cup": 116,
+"each": 340,
+"src": "USDA"
+},
+{
+"m": [
+"turnips",
+"turnip",
+"rutabaga",
+"swede",
+"kohlrabi",
+"celeriac",
+"celery root"
+],
+"cup": 130,
+"each": 122,
+"src": "USDA"
+},
+{
+"m": [
+"parsnips",
+"parsnip"
+],
+"cup": 133,
+"each": 133,
+"src": "USDA"
+},
+{
+"m": [
+"okra"
+],
+"cup": 100,
+"each": 12,
+"units": {
+"pound": 454
+},
+"src": "USDA"
+},
+{
+"m": [
+"bean sprouts",
+"mung bean sprouts",
+"sprouts"
+],
+"cup": 104,
+"units": {
+"bag": 340
+},
+"src": "USDA"
+},
+{
+"m": [
+"water chestnuts",
+"sliced water chestnuts"
+],
+"cup": 140,
+"units": {
+"can": 227
+},
+"note": "can = 8 oz; about 140 g drained",
+"src": "USDA"
+},
+{
+"m": [
+"bamboo shoots"
+],
+"cup": 131,
+"units": {
+"can": 227
+},
+"src": "USDA"
+},
+{
+"m": [
+"hearts of palm"
+],
+"cup": 146,
+"units": {
+"can": 400,
+"jar": 400
+},
+"src": "USDA"
+},
+{
+"m": [
+"olives",
+"black olives",
+"green olives",
+"kalamata olives",
+"kalamata",
+"castelvetrano",
+"sliced olives",
+"pitted olives",
+"manzanilla olives"
+],
+"cup": 135,
+"each": 4,
+"units": {
+"can": 170,
+"jar": 300,
+"pound": 454
+},
+"note": "can = 6 oz drained",
+"src": "USDA"
+},
+{
+"m": [
+"capers"
+],
+"cup": 140,
+"units": {
+"jar": 100
+},
+"tbsp": 9,
+"tsp": 3,
+"src": "USDA"
+},
+{
+"m": [
+"pickles",
+"dill pickles",
+"pickle",
+"dill pickle",
+"gherkins",
+"cornichons",
+"bread and butter pickles"
+],
+"cup": 155,
+"each": 65,
+"sizes": {
+"small": 35,
+"medium": 65,
+"large": 135,
+"spear": 35,
+"cornichon": 8
+},
+"units": {
+"spear": 35,
+"slice": 6,
+"jar": 680
+},
+"note": "each = medium dill",
+"src": "USDA"
+},
+{
+"m": [
+"pickle relish",
+"relish",
+"sweet relish",
+"dill relish"
+],
+"cup": 245,
+"tbsp": 15,
+"src": "USDA"
+},
+{
+"m": [
+"sauerkraut"
+],
+"cup": 142,
+"units": {
+"can": 397,
+"jar": 907,
+"bag": 907
+},
+"src": "USDA"
+},
+{
+"m": [
+"kimchi"
+],
+"cup": 150,
+"units": {
+"jar": 400
+},
+"src": "est"
+},
+{
+"m": [
+"sweet potato fries",
+"french fries",
+"frozen fries",
+"tater tots",
+"hash browns",
+"frozen hash browns",
+"shredded hash browns"
+],
+"cup": 120,
+"units": {
+"bag": 907,
+"package": 907
+},
+"src": "USDA/est"
+},
+{
+"m": [
+"frozen mixed vegetables",
+"mixed vegetables",
+"frozen vegetables",
+"veggie mix",
+"peas and carrots",
+"stir fry vegetables",
+"frozen stir-fry vegetables"
+],
+"cup": 136,
+"units": {
+"bag": 454,
+"package": 454,
+"can": 425
+},
+"src": "USDA"
+},
+{
+"m": [
+"frozen cauliflower",
+"frozen peas and carrots",
+"frozen green peas",
+"frozen corn kernels"
+],
+"cup": 140,
+"units": {
+"bag": 454,
+"package": 340
+},
+"src": "USDA"
+},
+{
+"m": [
+"seaweed",
+"nori",
+"nori sheets",
+"nori sheet"
+],
+"each": 3,
+"units": {
+"sheet": 3
+},
+"src": "USDA"
+},
+{
+"m": [
+"kombu",
+"wakame",
+"dried seaweed"
+],
+"each": 10,
+"units": {
+"piece": 10,
+"sheet": 10
+},
+"tbsp": 3,
+"src": "est"
+},
+{
+"m": [
+"jicama"
+],
+"cup": 130,
+"each": 650,
+"src": "USDA"
+},
+{
+"m": [
+"plantains",
+"plantain",
+"green plantains",
+"ripe plantains"
+],
+"cup": 148,
+"each": 180,
+"src": "USDA"
+},
+{
+"m": [
+"cassava",
+"yuca",
+"yucca",
+"taro",
+"malanga"
+],
+"cup": 206,
+"each": 400,
+"src": "USDA/est"
+},
+{
+"m": [
+"cilantro",
+"fresh cilantro",
+"coriander leaves",
+"fresh coriander",
+"chopped cilantro",
+"cilantro leaves"
+],
+"cup": 16,
+"units": {
+"bunch": 60,
+"sprig": 1,
+"handful": 10
+},
+"tbsp": 1,
+"src": "USDA/est"
+},
+{
+"m": [
+"parsley",
+"fresh parsley",
+"flat-leaf parsley",
+"flat leaf parsley",
+"italian parsley",
+"curly parsley",
+"chopped parsley",
+"parsley leaves"
+],
+"cup": 60,
+"units": {
+"bunch": 60,
+"sprig": 1,
+"handful": 15
+},
+"tbsp": 3.8,
+"src": "USDA"
+},
+{
+"m": [
+"basil",
+"fresh basil",
+"basil leaves",
+"thai basil",
+"chopped basil",
+"torn basil"
+],
+"cup": 24,
+"units": {
+"bunch": 60,
+"sprig": 2,
+"leaf": 0.5,
+"handful": 10,
+"package": 20
+},
+"tbsp": 2.6,
+"note": "cup = loosely packed leaves",
+"src": "USDA"
+},
+{
+"m": [
+"mint",
+"fresh mint",
+"mint leaves",
+"spearmint",
+"peppermint fresh"
+],
+"cup": 25,
+"units": {
+"bunch": 50,
+"sprig": 1,
+"leaf": 0.2,
+"handful": 8
+},
+"tbsp": 1.6,
+"src": "USDA/est"
+},
+{
+"m": [
+"dill",
+"fresh dill",
+"dill fronds",
+"dill weed fresh",
+"chopped dill"
+],
+"cup": 9,
+"units": {
+"bunch": 40,
+"sprig": 1
+},
+"tbsp": 1,
+"src": "USDA/est"
+},
+{
+"m": [
+"chives",
+"fresh chives",
+"chopped chives",
+"garlic chives"
+],
+"cup": 48,
+"units": {
+"bunch": 30
+},
+"tbsp": 3,
+"tsp": 1,
+"src": "USDA"
+},
+{
+"m": [
+"fresh thyme",
+"thyme leaves",
+"thyme sprigs",
+"thyme sprig",
+"sprigs of thyme",
+"sprig of thyme",
+"lemon thyme"
+],
+"each": 1,
+"units": {
+"sprig": 1,
+"bunch": 28
+},
+"tbsp": 2.4,
+"tsp": 0.8,
+"note": "each = one sprig",
+"src": "USDA/est"
+},
+{
+"m": [
+"fresh rosemary",
+"rosemary sprigs",
+"rosemary sprig",
+"sprigs of rosemary",
+"sprig of rosemary",
+"rosemary leaves",
+"chopped rosemary"
+],
+"each": 2,
+"units": {
+"sprig": 2,
+"bunch": 28
+},
+"tbsp": 1.7,
+"tsp": 0.6,
+"note": "each = one sprig",
+"src": "USDA"
+},
+{
+"m": [
+"fresh oregano",
+"oregano leaves",
+"oregano sprigs",
+"fresh marjoram"
+],
+"units": {
+"sprig": 1,
+"bunch": 28
+},
+"tbsp": 1.5,
+"tsp": 0.5,
+"src": "est"
+},
+{
+"m": [
+"fresh sage",
+"sage leaves",
+"sage leaf",
+"chopped sage"
+],
+"each": 0.5,
+"units": {
+"leaf": 0.5,
+"sprig": 2,
+"bunch": 28
+},
+"tbsp": 2,
+"tsp": 0.7,
+"note": "each = one leaf",
+"src": "est"
+},
+{
+"m": [
+"fresh tarragon",
+"tarragon leaves",
+"fresh chervil",
+"chervil"
+],
+"units": {
+"sprig": 1,
+"bunch": 28
+},
+"tbsp": 1.8,
+"src": "est"
+},
+{
+"m": [
+"bay leaves",
+"bay leaf",
+"dried bay leaves",
+"fresh bay leaves"
+],
+"each": 0.2,
+"units": {
+"leaf": 0.2
+},
+"note": "negligible; shown for completeness",
+"src": "USDA"
+},
+{
+"m": [
+"lemongrass paste",
+"herb paste"
+],
+"tbsp": 15,
+"src": "est"
+},
+{
+"m": [
+"curry leaves",
+"kaffir lime leaves",
+"makrut lime leaves",
+"lime leaves"
+],
+"each": 0.3,
+"units": {
+"leaf": 0.3
+},
+"src": "est"
+},
+{
+"m": [
+"green onion tops",
+"chive blossoms",
+"edible flowers"
+],
+"tbsp": 2,
+"src": "est"
+},
+{
+"m": [
+"cumin",
+"ground cumin",
+"cumin seeds",
+"cumin seed",
+"coriander",
+"ground coriander",
+"coriander seeds",
+"coriander seed",
+"oregano",
+"dried oregano",
+"mexican oregano",
+"thyme",
+"dried thyme",
+"rosemary",
+"dried rosemary",
+"dried basil",
+"dried parsley",
+"parsley flakes",
+"dried dill",
+"dill weed",
+"sage",
+"dried sage",
+"ground sage",
+"rubbed sage",
+"marjoram",
+"dried marjoram",
+"tarragon",
+"dried tarragon",
+"dried mint",
+"dried chives",
+"chili powder",
+"chilli powder",
+"cayenne",
+"cayenne pepper",
+"ground cayenne",
+"paprika",
+"smoked paprika",
+"sweet paprika",
+"hot paprika",
+"hungarian paprika",
+"spanish paprika",
+"pimenton",
+"chipotle powder",
+"ancho chili powder",
+"ancho powder",
+"chipotle chili powder",
+"chile powder",
+"red pepper flakes",
+"crushed red pepper",
+"crushed red pepper flakes",
+"chili flakes",
+"chilli flakes",
+"red chili flakes",
+"aleppo pepper",
+"gochugaru",
+"korean chili flakes",
+"urfa",
+"black pepper",
+"pepper",
+"ground black pepper",
+"freshly ground black pepper",
+"freshly ground pepper",
+"cracked black pepper",
+"white pepper",
+"ground white pepper",
+"peppercorns",
+"black peppercorns",
+"pink peppercorns",
+"szechuan peppercorns",
+"sichuan peppercorns",
+"lemon pepper",
+"cinnamon",
+"ground cinnamon",
+"cinnamon sticks",
+"cinnamon stick",
+"nutmeg",
+"ground nutmeg",
+"fresh nutmeg",
+"cloves",
+"ground cloves",
+"whole cloves",
+"allspice",
+"ground allspice",
+"cardamom",
+"ground cardamom",
+"cardamom pods",
+"green cardamom",
+"ginger powder",
+"ground ginger",
+"dried ginger",
+"turmeric",
+"ground turmeric",
+"turmeric powder",
+"curry powder",
+"madras curry powder",
+"garam masala",
+"tandoori masala",
+"chaat masala",
+"ras el hanout",
+"berbere",
+"baharat",
+"dukkah",
+"garlic powder",
+"granulated garlic",
+"garlic salt",
+"onion powder",
+"onion salt",
+"onion flakes",
+"dried minced onion",
+"dried onion",
+"celery salt",
+"celery seed",
+"celery seeds",
+"seasoned salt",
+"seasoning salt",
+"lawry's",
+"old bay",
+"old bay seasoning",
+"mustard powder",
+"dry mustard",
+"ground mustard",
+"mustard seeds",
+"mustard seed",
+"yellow mustard seeds",
+"brown mustard seeds",
+"black mustard seeds",
+"caraway",
+"caraway seeds",
+"fennel seeds",
+"fennel seed",
+"ground fennel",
+"anise",
+"anise seed",
+"star anise",
+"star anise pods",
+"saffron",
+"saffron threads",
+"sumac",
+"za'atar",
+"zaatar",
+"zatar",
+"italian seasoning",
+"italian herbs",
+"herbes de provence",
+"herbs de provence",
+"poultry seasoning",
+"pumpkin pie spice",
+"apple pie spice",
+"mixed spice",
+"chinese five spice",
+"five spice",
+"five-spice powder",
+"five spice powder",
+"taco seasoning",
+"fajita seasoning",
+"chili seasoning",
+"cajun seasoning",
+"creole seasoning",
+"blackening seasoning",
+"jerk seasoning",
+"steak seasoning",
+"montreal steak seasoning",
+"ranch seasoning",
+"everything bagel seasoning",
+"everything seasoning",
+"greek seasoning",
+"adobo seasoning",
+"sazon",
+"sazón",
+"bbq rub",
+"dry rub",
+"rub",
+"seasoning",
+"seasoning blend",
+"spice blend",
+"spice mix",
+"all-purpose seasoning",
+"ground pepper",
+"nigella",
+"nigella seeds",
+"ajwain",
+"asafoetida",
+"hing",
+"fenugreek",
+"fenugreek seeds",
+"amchur",
+"kashmiri chili",
+"kashmiri chili powder",
+"wasabi powder",
+"horseradish powder",
+"mace",
+"juniper berries",
+"lavender",
+"dried lavender",
+"annatto",
+"achiote",
+"file powder",
+"gumbo file",
+"sage powder",
+"ground chipotle",
+"chili lime seasoning",
+"tajin",
+"tajín",
+"furikake",
+"shichimi",
+"togarashi",
+"curry leaves dried",
+"dried herbs",
+"mixed herbs",
+"herbs",
+"bouillon granules",
+"chicken bouillon granules",
+"beef bouillon granules",
+"bouillon powder",
+"chicken bouillon powder",
+"better than bouillon",
+"cocoa powder for dusting",
+"cinnamon sugar",
+"vanilla sugar",
+"vanilla powder",
+"matcha",
+"matcha powder",
+"lemon pepper seasoning",
+"dried thyme leaves",
+"dried oregano leaves",
+"thyme dried",
+"oregano dried",
+"basil dried",
+"rosemary dried",
+"pepper flakes",
+"ground pepper flakes",
+"sea salt flakes for finishing"
+],
+"note": "spices and dried herbs are not weighed",
+"spice": true,
+"src": "rule"
+},
+{
+"m": [
+"bouillon cubes",
+"bouillon cube",
+"stock cubes",
+"stock cube",
+"chicken bouillon cubes",
+"beef bouillon cube",
+"chicken bouillon",
+"beef bouillon",
+"vegetable bouillon"
+],
+"each": 4,
+"units": {
+"cube": 4
+},
+"src": "USDA"
+},
+{
+"m": [
+"lemon",
+"lemons",
+"large lemon",
+"whole lemon",
+"lemon halves"
+],
+"each": 100,
+"sizes": {
+"small": 80,
+"medium": 100,
+"large": 125
+},
+"units": {
+"slice": 8,
+"wedge": 10
+},
+"note": "whole; one lemon gives about 3 tbsp juice",
+"src": "USDA/est"
+},
+{
+"m": [
+"lemon juice",
+"fresh lemon juice",
+"freshly squeezed lemon juice",
+"juice of lemon",
+"lemon juice fresh"
+],
+"cup": 244,
+"each": 45,
+"tbsp": 15,
+"dens": 1.03,
+"note": "each = the juice of one lemon",
+"src": "USDA"
+},
+{
+"m": [
+"lime",
+"limes",
+"large lime"
+],
+"each": 67,
+"sizes": {
+"small": 50,
+"medium": 67,
+"large": 90
+},
+"units": {
+"wedge": 7
+},
+"note": "whole; one lime gives about 2 tbsp juice",
+"src": "USDA"
+},
+{
+"m": [
+"lime juice",
+"fresh lime juice",
+"juice of lime",
+"key lime juice"
+],
+"cup": 246,
+"each": 30,
+"tbsp": 15,
+"dens": 1.04,
+"note": "each = the juice of one lime",
+"src": "USDA"
+},
+{
+"m": [
+"orange",
+"oranges",
+"navel orange",
+"navel oranges",
+"blood orange",
+"blood oranges",
+"cara cara",
+"mandarin",
+"mandarins",
+"clementine",
+"clementines",
+"tangerine",
+"tangerines",
+"satsuma"
+],
+"cup": 180,
+"each": 131,
+"sizes": {
+"small": 96,
+"medium": 131,
+"large": 184,
+"mandarin": 88,
+"clementine": 74
+},
+"note": "peeled fruit; a mandarin or clementine is about 80 g",
+"src": "USDA"
+},
+{
+"m": [
+"orange juice",
+"fresh orange juice",
+"juice of orange",
+"oj"
+],
+"cup": 248,
+"each": 70,
+"tbsp": 15.5,
+"dens": 1.05,
+"note": "each = the juice of one orange",
+"src": "USDA"
+},
+{
+"m": [
+"grapefruit",
+"grapefruits",
+"pomelo"
+],
+"cup": 230,
+"each": 230,
+"src": "USDA"
+},
+{
+"m": [
+"apple",
+"apples",
+"granny smith",
+"granny smith apples",
+"honeycrisp",
+"honeycrisp apples",
+"gala apples",
+"fuji apples",
+"pink lady",
+"baking apples",
+"tart apples",
+"sweet apples",
+"red apples",
+"green apples"
+],
+"cup": 109,
+"each": 182,
+"sizes": {
+"small": 149,
+"medium": 182,
+"large": 223
+},
+"note": "with skin; cup = sliced",
+"src": "USDA"
+},
+{
+"m": [
+"applesauce",
+"apple sauce",
+"unsweetened applesauce"
+],
+"cup": 244,
+"units": {
+"cup container": 113,
+"jar": 680
+},
+"src": "USDA"
+},
+{
+"m": [
+"apple butter",
+"pumpkin butter",
+"fruit butter"
+],
+"cup": 280,
+"tbsp": 17,
+"src": "USDA"
+},
+{
+"m": [
+"banana",
+"bananas",
+"ripe bananas",
+"ripe banana",
+"overripe bananas",
+"mashed banana",
+"mashed bananas"
+],
+"cup": 225,
+"each": 118,
+"sizes": {
+"small": 101,
+"medium": 118,
+"large": 136,
+"extra-large": 152
+},
+"note": "peeled; cup = mashed, sliced about 150",
+"src": "USDA"
+},
+{
+"m": [
+"pear",
+"pears",
+"bosc pears",
+"bartlett pears",
+"anjou pears",
+"asian pear"
+],
+"cup": 140,
+"each": 178,
+"sizes": {
+"small": 148,
+"medium": 178,
+"large": 230
+},
+"src": "USDA"
+},
+{
+"m": [
+"peach",
+"peaches",
+"nectarine",
+"nectarines",
+"ripe peaches",
+"white peaches",
+"yellow peaches"
+],
+"cup": 154,
+"each": 150,
+"sizes": {
+"small": 130,
+"medium": 150,
+"large": 175
+},
+"note": "cup = sliced",
+"src": "USDA"
+},
+{
+"m": [
+"canned peaches",
+"sliced peaches canned",
+"peaches in syrup",
+"peaches in juice"
+],
+"cup": 250,
+"units": {
+"can": 425
+},
+"src": "USDA"
+},
+{
+"m": [
+"plum",
+"plums",
+"pluots",
+"apricot",
+"apricots",
+"fresh apricots"
+],
+"cup": 165,
+"each": 66,
+"sizes": {
+"small": 35,
+"medium": 66,
+"large": 90,
+"apricot": 35
+},
+"note": "an apricot is about 35 g",
+"src": "USDA"
+},
+{
+"m": [
+"cherries",
+"fresh cherries",
+"sweet cherries",
+"pitted cherries",
+"sour cherries",
+"tart cherries",
+"bing cherries",
+"frozen cherries"
+],
+"cup": 138,
+"each": 8,
+"units": {
+"pound": 454,
+"bag": 340
+},
+"note": "cup = whole; pitted about 154",
+"src": "USDA"
+},
+{
+"m": [
+"maraschino cherries",
+"cocktail cherries",
+"luxardo cherries"
+],
+"each": 5,
+"units": {
+"jar": 283
+},
+"src": "USDA"
+},
+{
+"m": [
+"strawberries",
+"strawberry",
+"fresh strawberries",
+"hulled strawberries",
+"sliced strawberries",
+"frozen strawberries"
+],
+"cup": 152,
+"each": 12,
+"sizes": {
+"small": 7,
+"medium": 12,
+"large": 18,
+"extra-large": 27
+},
+"units": {
+"pint": 350,
+"pound": 454,
+"quart": 700,
+"container": 454,
+"bag": 454
+},
+"note": "cup = halves; sliced 166, whole 144",
+"src": "USDA"
+},
+{
+"m": [
+"blueberries",
+"fresh blueberries",
+"frozen blueberries",
+"wild blueberries"
+],
+"cup": 148,
+"units": {
+"pint": 340,
+"container": 170,
+"bag": 340
+},
+"src": "USDA"
+},
+{
+"m": [
+"raspberries",
+"fresh raspberries",
+"frozen raspberries"
+],
+"cup": 123,
+"units": {
+"pint": 250,
+"container": 170,
+"bag": 340
+},
+"src": "USDA"
+},
+{
+"m": [
+"blackberries",
+"fresh blackberries",
+"frozen blackberries",
+"boysenberries",
+"marionberries"
+],
+"cup": 144,
+"units": {
+"pint": 280,
+"container": 170
+},
+"src": "USDA"
+},
+{
+"m": [
+"mixed berries",
+"frozen mixed berries",
+"berries",
+"berry mix",
+"frozen berries",
+"fresh berries"
+],
+"cup": 140,
+"units": {
+"bag": 340,
+"package": 340
+},
+"src": "USDA/est"
+},
+{
+"m": [
+"cranberries",
+"fresh cranberries",
+"frozen cranberries"
+],
+"cup": 100,
+"units": {
+"bag": 340,
+"package": 340
+},
+"note": "bag = 12 oz",
+"src": "USDA"
+},
+{
+"m": [
+"cranberry sauce",
+"whole berry cranberry sauce",
+"jellied cranberry sauce"
+],
+"cup": 277,
+"units": {
+"can": 397
+},
+"src": "USDA"
+},
+{
+"m": [
+"grapes",
+"red grapes",
+"green grapes",
+"seedless grapes",
+"black grapes",
+"halved grapes"
+],
+"cup": 151,
+"each": 5,
+"units": {
+"pound": 454,
+"bunch": 450,
+"bag": 907
+},
+"src": "USDA"
+},
+{
+"m": [
+"mango",
+"mangoes",
+"mangos",
+"ripe mango",
+"ripe mangoes",
+"diced mango",
+"frozen mango"
+],
+"cup": 165,
+"each": 200,
+"sizes": {
+"small": 150,
+"medium": 200,
+"large": 300,
+"ataulfo": 110,
+"champagne": 110
+},
+"units": {
+"bag": 454
+},
+"note": "each = flesh of one mango; cup = pieces",
+"src": "USDA/est"
+},
+{
+"m": [
+"pineapple",
+"fresh pineapple",
+"pineapple chunks",
+"diced pineapple",
+"crushed pineapple",
+"pineapple tidbits",
+"frozen pineapple"
+],
+"cup": 165,
+"each": 900,
+"units": {
+"can": 567,
+"slice": 84,
+"ring": 84,
+"bag": 454
+},
+"note": "each = flesh of one pineapple; can = 20 oz",
+"src": "USDA"
+},
+{
+"m": [
+"pineapple juice"
+],
+"cup": 250,
+"dens": 1.06,
+"src": "USDA"
+},
+{
+"m": [
+"papaya"
+],
+"cup": 145,
+"each": 500,
+"src": "USDA/est"
+},
+{
+"m": [
+"kiwi",
+"kiwis",
+"kiwifruit",
+"kiwi fruit"
+],
+"cup": 180,
+"each": 69,
+"src": "USDA"
+},
+{
+"m": [
+"watermelon",
+"diced watermelon",
+"cubed watermelon",
+"watermelon chunks"
+],
+"cup": 152,
+"each": 4500,
+"sizes": {
+"small": 2500,
+"mini": 2000,
+"medium": 4500,
+"large": 9000
+},
+"units": {
+"slice": 286,
+"wedge": 286
+},
+"note": "each = flesh of a whole melon",
+"src": "USDA"
+},
+{
+"m": [
+"cantaloupe",
+"rockmelon",
+"honeydew",
+"honeydew melon",
+"melon",
+"galia melon"
+],
+"cup": 160,
+"each": 800,
+"units": {
+"wedge": 100,
+"half": 400
+},
+"note": "each = flesh of a whole melon",
+"src": "USDA"
+},
+{
+"m": [
+"pomegranate seeds",
+"pomegranate arils",
+"arils"
+],
+"cup": 174,
+"units": {
+"pomegranate": 280,
+"container": 140
+},
+"src": "USDA"
+},
+{
+"m": [
+"pomegranate",
+"pomegranates"
+],
+"cup": 174,
+"each": 280,
+"note": "each = seeds of one fruit",
+"src": "USDA"
+},
+{
+"m": [
+"figs",
+"fresh figs",
+"fig"
+],
+"cup": 150,
+"each": 50,
+"sizes": {
+"small": 40,
+"medium": 50,
+"large": 64
+},
+"src": "USDA"
+},
+{
+"m": [
+"dried figs",
+"dried fig",
+"mission figs",
+"turkish figs"
+],
+"cup": 149,
+"each": 8,
+"src": "USDA"
+},
+{
+"m": [
+"dates",
+"medjool dates",
+"pitted dates",
+"deglet noor dates",
+"chopped dates",
+"medjool",
+"dried dates"
+],
+"cup": 147,
+"each": 24,
+"sizes": {
+"medjool": 24,
+"deglet": 7,
+"deglet noor": 7,
+"small": 7,
+"large": 24
+},
+"note": "each = one Medjool; Deglet Noor dates are about 7 g",
+"src": "USDA"
+},
+{
+"m": [
+"raisins",
+"golden raisins",
+"sultanas",
+"currants",
+"dried currants",
+"zante currants"
+],
+"cup": 145,
+"units": {
+"box": 43,
+"package": 425
+},
+"note": "not packed; packed 165",
+"src": "USDA"
+},
+{
+"m": [
+"dried cranberries",
+"craisins",
+"dried cherries",
+"dried blueberries"
+],
+"cup": 160,
+"units": {
+"bag": 170,
+"package": 170
+},
+"src": "USDA"
+},
+{
+"m": [
+"dried apricots",
+"dried apricot"
+],
+"cup": 130,
+"each": 8,
+"src": "USDA"
+},
+{
+"m": [
+"prunes",
+"dried plums",
+"pitted prunes"
+],
+"cup": 174,
+"each": 9.5,
+"src": "USDA"
+},
+{
+"m": [
+"dried mango",
+"dried pineapple",
+"dried fruit",
+"mixed dried fruit",
+"dried apples",
+"apple chips",
+"banana chips"
+],
+"cup": 120,
+"units": {
+"bag": 170
+},
+"src": "est"
+},
+{
+"m": [
+"coconut",
+"shredded coconut",
+"sweetened shredded coconut",
+"sweetened coconut",
+"flaked coconut",
+"coconut flakes",
+"unsweetened coconut",
+"desiccated coconut",
+"unsweetened shredded coconut",
+"coconut shreds",
+"toasted coconut"
+],
+"cup": 93,
+"units": {
+"bag": 199,
+"package": 199
+},
+"note": "sweetened shredded; unsweetened desiccated runs 80 to 85",
+"src": "USDA"
+},
+{
+"m": [
+"coconut chips",
+"large coconut flakes"
+],
+"cup": 60,
+"src": "est"
+},
+{
+"m": [
+"rhubarb",
+"fresh rhubarb",
+"diced rhubarb",
+"chopped rhubarb",
+"frozen rhubarb"
+],
+"cup": 122,
+"each": 51,
+"units": {
+"stalk": 51,
+"pound": 454
+},
+"src": "USDA"
+},
+{
+"m": [
+"persimmon",
+"persimmons",
+"fuyu"
+],
+"cup": 170,
+"each": 168,
+"src": "USDA"
+},
+{
+"m": [
+"starfruit",
+"guava",
+"passion fruit",
+"passionfruit",
+"lychee",
+"lychees",
+"dragon fruit",
+"dragonfruit"
+],
+"each": 90,
+"src": "est"
+},
+{
+"m": [
+"fruit cocktail",
+"canned fruit",
+"mandarin oranges canned",
+"canned mandarin oranges",
+"mandarin oranges"
+],
+"cup": 230,
+"units": {
+"can": 312,
+"cup container": 113
+},
+"src": "USDA"
+},
+{
+"m": [
+"frozen fruit",
+"frozen mixed fruit",
+"frozen peaches",
+"frozen tropical fruit"
+],
+"cup": 150,
+"units": {
+"bag": 454
+},
+"src": "est"
+},
+{
+"m": [
+"almonds",
+"whole almonds",
+"raw almonds",
+"roasted almonds",
+"blanched almonds",
+"marcona almonds"
+],
+"cup": 143,
+"each": 1.2,
+"units": {
+"ounce": 28,
+"bag": 454
+},
+"note": "cup = whole",
+"src": "USDA"
+},
+{
+"m": [
+"sliced almonds",
+"slivered almonds",
+"flaked almonds",
+"almond slices",
+"almond slivers"
+],
+"cup": 92,
+"note": "sliced; slivered 108",
+"src": "USDA"
+},
+{
+"m": [
+"walnuts",
+"walnut halves",
+"chopped walnuts",
+"walnut pieces",
+"walnut",
+"raw walnuts",
+"toasted walnuts"
+],
+"cup": 117,
+"each": 5,
+"units": {
+"bag": 454
+},
+"note": "cup = chopped; halves 100",
+"src": "USDA"
+},
+{
+"m": [
+"pecans",
+"pecan halves",
+"chopped pecans",
+"pecan pieces",
+"pecan",
+"toasted pecans"
+],
+"cup": 109,
+"each": 4,
+"units": {
+"bag": 454
+},
+"note": "cup = chopped; halves 99",
+"src": "USDA"
+},
+{
+"m": [
+"cashews",
+"raw cashews",
+"roasted cashews",
+"cashew",
+"cashew pieces",
+"cashew halves"
+],
+"cup": 137,
+"each": 1.5,
+"units": {
+"bag": 454
+},
+"src": "USDA"
+},
+{
+"m": [
+"peanuts",
+"roasted peanuts",
+"dry roasted peanuts",
+"salted peanuts",
+"spanish peanuts",
+"peanut",
+"unsalted peanuts"
+],
+"cup": 146,
+"units": {
+"bag": 454
+},
+"src": "USDA"
+},
+{
+"m": [
+"pistachios",
+"shelled pistachios",
+"pistachio",
+"pistachio nuts"
+],
+"cup": 123,
+"each": 0.7,
+"units": {
+"bag": 454
+},
+"note": "shelled",
+"src": "USDA"
+},
+{
+"m": [
+"pine nuts",
+"pignoli",
+"pignolias",
+"pinoli"
+],
+"cup": 135,
+"units": {
+"bag": 113
+},
+"tbsp": 8.5,
+"src": "USDA"
+},
+{
+"m": [
+"hazelnuts",
+"filberts",
+"toasted hazelnuts",
+"chopped hazelnuts",
+"hazelnut"
+],
+"cup": 135,
+"each": 1.2,
+"src": "USDA"
+},
+{
+"m": [
+"macadamia nuts",
+"macadamias",
+"macadamia"
+],
+"cup": 134,
+"each": 2.4,
+"src": "USDA"
+},
+{
+"m": [
+"brazil nuts",
+"brazil nut"
+],
+"cup": 133,
+"each": 5,
+"src": "USDA"
+},
+{
+"m": [
+"chestnuts",
+"roasted chestnuts",
+"cooked chestnuts",
+"chestnut puree"
+],
+"cup": 143,
+"each": 10,
+"units": {
+"bag": 200,
+"jar": 200
+},
+"src": "USDA/est"
+},
+{
+"m": [
+"mixed nuts",
+"nuts",
+"chopped nuts",
+"nut pieces",
+"candied nuts",
+"trail mix"
+],
+"cup": 137,
+"units": {
+"bag": 454,
+"jar": 300
+},
+"src": "USDA"
+},
+{
+"m": [
+"peanut butter",
+"creamy peanut butter",
+"crunchy peanut butter",
+"natural peanut butter",
+"smooth peanut butter",
+"pb"
+],
+"cup": 258,
+"units": {
+"jar": 454
+},
+"tbsp": 16,
+"src": "USDA"
+},
+{
+"m": [
+"almond butter",
+"cashew butter",
+"sunflower butter",
+"sunflower seed butter",
+"nut butter",
+"seed butter",
+"sunbutter"
+],
+"cup": 256,
+"units": {
+"jar": 340
+},
+"tbsp": 16,
+"src": "USDA"
+},
+{
+"m": [
+"tahini",
+"sesame paste",
+"sesame butter"
+],
+"cup": 240,
+"units": {
+"jar": 454
+},
+"tbsp": 15,
+"src": "USDA"
+},
+{
+"m": [
+"sesame seeds",
+"white sesame seeds",
+"black sesame seeds",
+"toasted sesame seeds",
+"sesame"
+],
+"cup": 144,
+"tbsp": 9,
+"tsp": 3,
+"src": "USDA"
+},
+{
+"m": [
+"chia seeds",
+"chia"
+],
+"cup": 168,
+"tbsp": 10.5,
+"tsp": 3.5,
+"src": "USDA"
+},
+{
+"m": [
+"flaxseed",
+"flax seeds",
+"flax seed",
+"flaxseeds",
+"whole flaxseed",
+"linseed",
+"linseeds"
+],
+"cup": 168,
+"tbsp": 10.3,
+"tsp": 3.4,
+"note": "whole",
+"src": "USDA"
+},
+{
+"m": [
+"ground flaxseed",
+"flaxseed meal",
+"flax meal",
+"ground flax",
+"ground linseed",
+"milled flaxseed"
+],
+"cup": 112,
+"tbsp": 7,
+"tsp": 2.3,
+"src": "USDA"
+},
+{
+"m": [
+"hemp seeds",
+"hemp hearts",
+"hulled hemp seeds"
+],
+"cup": 160,
+"tbsp": 10,
+"src": "est"
+},
+{
+"m": [
+"sunflower seeds",
+"sunflower kernels",
+"shelled sunflower seeds",
+"roasted sunflower seeds"
+],
+"cup": 140,
+"tbsp": 9,
+"note": "shelled",
+"src": "USDA"
+},
+{
+"m": [
+"pumpkin seeds",
+"pepitas",
+"shelled pumpkin seeds",
+"roasted pumpkin seeds",
+"pumpkin seed kernels"
+],
+"cup": 129,
+"tbsp": 8,
+"note": "shelled",
+"src": "USDA"
+},
+{
+"m": [
+"poppy seeds",
+"poppyseeds",
+"poppy seed"
+],
+"cup": 140,
+"tbsp": 8.8,
+"tsp": 2.9,
+"src": "USDA"
+},
+{
+"m": [
+"nutritional yeast",
+"nooch"
+],
+"cup": 60,
+"tbsp": 4,
+"tsp": 1.3,
+"src": "est"
+},
+{
+"m": [
+"psyllium husk",
+"psyllium",
+"psyllium husk powder"
+],
+"tbsp": 9,
+"tsp": 3,
+"src": "est"
+},
+{
+"m": [
+"protein powder",
+"whey protein",
+"collagen powder",
+"collagen peptides"
+],
+"cup": 120,
+"units": {
+"scoop": 30
+},
+"tbsp": 8,
+"src": "est"
+},
+{
+"m": [
+"black beans",
+"canned black beans",
+"black bean"
+],
+"cup": 240,
+"units": {
+"can": 425
+},
+"note": "can = 15 oz, with liquid; drained about 260",
+"src": "USDA"
+},
+{
+"m": [
+"kidney beans",
+"red kidney beans",
+"dark red kidney beans",
+"canned kidney beans",
+"red beans"
+],
+"cup": 256,
+"units": {
+"can": 436
+},
+"src": "USDA"
+},
+{
+"m": [
+"pinto beans",
+"canned pinto beans"
+],
+"cup": 240,
+"units": {
+"can": 442
+},
+"src": "USDA"
+},
+{
+"m": [
+"chickpeas",
+"garbanzo beans",
+"garbanzos",
+"canned chickpeas",
+"chick peas",
+"canned garbanzo beans",
+"chickpea"
+],
+"cup": 240,
+"units": {
+"can": 448
+},
+"note": "with liquid; drained and rinsed 152 per cup, 253 per can",
+"src": "USDA"
+},
+{
+"m": [
+"cannellini beans",
+"white beans",
+"great northern beans",
+"navy beans",
+"butter beans",
+"lima beans",
+"white kidney beans",
+"canned white beans",
+"canned cannellini beans",
+"haricot beans",
+"fava beans",
+"broad beans"
+],
+"cup": 260,
+"units": {
+"can": 425
+},
+"src": "USDA"
+},
+{
+"m": [
+"black-eyed peas",
+"black eyed peas",
+"cowpeas",
+"field peas"
+],
+"cup": 171,
+"units": {
+"can": 425
+},
+"src": "USDA"
+},
+{
+"m": [
+"refried beans",
+"canned refried beans",
+"refried black beans",
+"refried pinto beans"
+],
+"cup": 238,
+"units": {
+"can": 442
+},
+"note": "can = 16 oz",
+"src": "USDA"
+},
+{
+"m": [
+"baked beans",
+"pork and beans",
+"canned baked beans",
+"bush's baked beans"
+],
+"cup": 254,
+"units": {
+"can": 454
+},
+"src": "USDA"
+},
+{
+"m": [
+"dried beans",
+"dry beans",
+"dried black beans",
+"dried pinto beans",
+"dried chickpeas",
+"dried kidney beans",
+"dried white beans",
+"dried navy beans",
+"dried cannellini",
+"dried great northern beans",
+"dried lima beans",
+"dry black beans",
+"dry pinto beans",
+"dry chickpeas"
+],
+"cup": 190,
+"units": {
+"bag": 454,
+"package": 454,
+"pound": 454
+},
+"src": "USDA"
+},
+{
+"m": [
+"cooked beans",
+"cooked black beans",
+"cooked chickpeas",
+"cooked pinto beans",
+"cooked white beans",
+"beans",
+"canned beans",
+"mixed beans",
+"bean medley",
+"three bean"
+],
+"cup": 175,
+"units": {
+"can": 425
+},
+"note": "drained",
+"src": "USDA"
+},
+{
+"m": [
+"hummus"
+],
+"cup": 246,
+"units": {
+"container": 283,
+"tub": 283
+},
+"tbsp": 15,
+"src": "USDA"
+},
+{
+"m": [
+"chili beans",
+"ranch style beans",
+"canned chili beans"
+],
+"cup": 250,
+"units": {
+"can": 425
+},
+"src": "USDA"
+},
+{
+"m": [
+"bean dip",
+"black bean dip"
+],
+"cup": 240,
+"units": {
+"can": 255
+},
+"src": "est"
+},
+{
+"m": [
+"tomato sauce",
+"canned tomato sauce",
+"plain tomato sauce",
+"passata",
+"tomato passata",
+"strained tomatoes"
+],
+"cup": 245,
+"units": {
+"can": 227,
+"jar": 680,
+"bottle": 680,
+"carton": 680
+},
+"note": "can = 8 oz; a 15 oz can is 425 g",
+"src": "USDA"
+},
+{
+"m": [
+"tomato paste",
+"double concentrated tomato paste",
+"tomato puree concentrated"
+],
+"cup": 262,
+"units": {
+"can": 170,
+"tube": 130
+},
+"tbsp": 16,
+"tsp": 5.3,
+"src": "USDA"
+},
+{
+"m": [
+"tomato puree",
+"tomato purée"
+],
+"cup": 250,
+"units": {
+"can": 822
+},
+"note": "can = 29 oz",
+"src": "USDA"
+},
+{
+"m": [
+"crushed tomatoes",
+"canned crushed tomatoes",
+"crushed tomato"
+],
+"cup": 242,
+"units": {
+"can": 794
+},
+"note": "can = 28 oz; a 15 oz can is 425 g",
+"src": "USDA"
+},
+{
+"m": [
+"diced tomatoes",
+"canned diced tomatoes",
+"canned tomatoes",
+"chopped tomatoes canned",
+"tinned tomatoes",
+"petite diced tomatoes",
+"fire roasted tomatoes",
+"fire-roasted tomatoes",
+"fire roasted diced tomatoes",
+"stewed tomatoes",
+"rotel",
+"diced tomatoes with green chiles",
+"tomatoes with green chiles"
+],
+"cup": 240,
+"units": {
+"can": 411
+},
+"note": "can = 14.5 oz; a 28 oz can is 794 g",
+"src": "USDA"
+},
+{
+"m": [
+"whole peeled tomatoes",
+"whole tomatoes",
+"san marzano tomatoes",
+"san marzano",
+"canned whole tomatoes",
+"whole canned tomatoes",
+"plum tomatoes canned"
+],
+"cup": 240,
+"units": {
+"can": 794
+},
+"note": "can = 28 oz",
+"src": "USDA"
+},
+{
+"m": [
+"marinara",
+"marinara sauce",
+"pasta sauce",
+"spaghetti sauce",
+"jarred pasta sauce",
+"red sauce",
+"tomato pasta sauce",
+"arrabbiata",
+"vodka sauce"
+],
+"cup": 250,
+"units": {
+"jar": 680,
+"can": 425
+},
+"note": "jar = 24 oz",
+"src": "USDA"
+},
+{
+"m": [
+"pizza sauce"
+],
+"cup": 250,
+"units": {
+"jar": 400,
+"can": 425
+},
+"src": "USDA"
+},
+{
+"m": [
+"alfredo sauce",
+"jarred alfredo",
+"cheese sauce",
+"nacho cheese sauce",
+"queso"
+],
+"cup": 250,
+"units": {
+"jar": 425,
+"can": 425
+},
+"src": "est"
+},
+{
+"m": [
+"enchilada sauce",
+"red enchilada sauce",
+"green enchilada sauce"
+],
+"cup": 250,
+"units": {
+"can": 283,
+"jar": 283
+},
+"note": "can = 10 oz",
+"src": "USDA"
+},
+{
+"m": [
+"salsa",
+"chunky salsa",
+"red salsa",
+"jarred salsa",
+"pico de gallo",
+"salsa verde",
+"green salsa",
+"restaurant salsa",
+"fresh salsa",
+"tomatillo salsa"
+],
+"cup": 259,
+"units": {
+"jar": 454,
+"container": 454,
+"can": 454
+},
+"tbsp": 16,
+"src": "USDA"
+},
+{
+"m": [
+"guacamole"
+],
+"cup": 230,
+"units": {
+"container": 227
+},
+"tbsp": 14,
+"src": "est"
+},
+{
+"m": [
+"chicken broth",
+"chicken stock",
+"beef broth",
+"beef stock",
+"vegetable broth",
+"vegetable stock",
+"veggie broth",
+"broth",
+"stock",
+"bone broth",
+"fish stock",
+"seafood stock",
+"turkey stock",
+"turkey broth",
+"low-sodium chicken broth",
+"low sodium chicken broth",
+"chicken bone broth",
+"dashi",
+"mushroom broth"
+],
+"cup": 240,
+"units": {
+"can": 411,
+"carton": 946,
+"box": 946,
+"quart": 946
+},
+"tbsp": 15,
+"dens": 1.01,
+"note": "can = 14.5 oz; carton = 32 oz",
+"src": "USDA"
+},
+{
+"m": [
+"cream of mushroom soup",
+"cream of chicken soup",
+"cream of celery soup",
+"condensed soup",
+"cream soup",
+"condensed cream of mushroom soup",
+"condensed cream of chicken soup",
+"cream of mushroom",
+"cream of chicken"
+],
+"cup": 250,
+"units": {
+"can": 298
+},
+"note": "can = 10.5 oz condensed",
+"src": "USDA"
+},
+{
+"m": [
+"tomato soup",
+"condensed tomato soup",
+"canned soup",
+"soup"
+],
+"cup": 245,
+"units": {
+"can": 305
+},
+"src": "USDA"
+},
+{
+"m": [
+"french onion soup mix",
+"onion soup mix",
+"dry onion soup mix",
+"ranch dressing mix",
+"ranch seasoning mix",
+"gravy mix",
+"taco seasoning packet",
+"seasoning packet"
+],
+"units": {
+"packet": 28,
+"envelope": 28,
+"package": 28
+},
+"tbsp": 9,
+"src": "est"
+},
+{
+"m": [
+"coconut water"
+],
+"cup": 240,
+"dens": 1.02,
+"src": "USDA"
+},
+{
+"m": [
+"water",
+"warm water",
+"cold water",
+"hot water",
+"boiling water",
+"ice water",
+"lukewarm water",
+"room temperature water",
+"filtered water"
+],
+"cup": 237,
+"units": {
+"quart": 946,
+"liter": 1000,
+"gallon": 3785
+},
+"tbsp": 15,
+"dens": 1.0,
+"src": "USDA"
+},
+{
+"m": [
+"ice",
+"ice cubes",
+"crushed ice"
+],
+"cup": 140,
+"each": 20,
+"units": {
+"cube": 20
+},
+"src": "est"
+},
+{
+"m": [
+"milk chocolate milk",
+"chocolate milk"
+],
+"cup": 250,
+"dens": 1.05,
+"src": "USDA"
+},
+{
+"m": [
+"coffee",
+"brewed coffee",
+"strong coffee",
+"cold brew",
+"espresso",
+"brewed espresso",
+"hot coffee",
+"cold coffee"
+],
+"cup": 237,
+"units": {
+"shot": 30
+},
+"tbsp": 15,
+"dens": 1.0,
+"src": "USDA"
+},
+{
+"m": [
+"ground coffee",
+"coffee grounds",
+"coffee beans"
+],
+"cup": 80,
+"tbsp": 5,
+"src": "est"
+},
+{
+"m": [
+"tea",
+"brewed tea",
+"black tea",
+"green tea",
+"strong tea",
+"iced tea"
+],
+"cup": 237,
+"dens": 1.0,
+"src": "USDA"
+},
+{
+"m": [
+"tea bags",
+"tea bag",
+"teabags"
+],
+"each": 2,
+"units": {
+"bag": 2
+},
+"src": "est"
+},
+{
+"m": [
+"loose tea",
+"loose leaf tea",
+"tea leaves",
+"matcha powder tea"
+],
+"tbsp": 3,
+"tsp": 1,
+"src": "est"
+},
+{
+"m": [
+"wine",
+"white wine",
+"red wine",
+"dry white wine",
+"dry red wine",
+"cooking wine",
+"rose wine",
+"rosé",
+"champagne",
+"sparkling wine",
+"prosecco",
+"marsala",
+"sherry",
+"dry sherry",
+"port",
+"vermouth",
+"dry vermouth",
+"madeira"
+],
+"cup": 235,
+"units": {
+"bottle": 750,
+"splash": 30,
+"glass": 150
+},
+"tbsp": 15,
+"dens": 0.99,
+"src": "USDA"
+},
+{
+"m": [
+"beer",
+"lager",
+"ale",
+"stout",
+"ipa",
+"pale ale",
+"light beer",
+"pilsner",
+"guinness"
+],
+"cup": 237,
+"units": {
+"can": 356,
+"bottle": 356
+},
+"dens": 1.0,
+"note": "can = 12 oz",
+"src": "USDA"
+},
+{
+"m": [
+"hard cider",
+"apple cider",
+"cider",
+"sweet cider",
+"fresh apple cider"
+],
+"cup": 248,
+"units": {
+"bottle": 355,
+"gallon": 3900,
+"jug": 1900
+},
+"dens": 1.04,
+"src": "USDA"
+},
+{
+"m": [
+"vodka",
+"rum",
+"whiskey",
+"whisky",
+"bourbon",
+"brandy",
+"cognac",
+"tequila",
+"gin",
+"liqueur",
+"kahlua",
+"amaretto",
+"grand marnier",
+"triple sec",
+"cointreau",
+"spirits",
+"scotch",
+"mezcal",
+"rye",
+"dark rum",
+"white rum",
+"spiced rum",
+"irish cream",
+"baileys",
+"limoncello",
+"sake",
+"shaoxing wine",
+"shaoxing",
+"rice wine",
+"chinese cooking wine",
+"mirin"
+],
+"cup": 224,
+"units": {
+"shot": 44,
+"jigger": 44,
+"splash": 15,
+"bottle": 750
+},
+"tbsp": 14,
+"dens": 0.95,
+"src": "USDA"
+},
+{
+"m": [
+"juice",
+"fruit juice",
+"apple juice",
+"grape juice",
+"cranberry juice",
+"pomegranate juice",
+"tomato juice",
+"vegetable juice",
+"v8",
+"carrot juice",
+"mango juice",
+"pineapple juice fresh",
+"grapefruit juice",
+"cherry juice",
+"clamato",
+"clam juice"
+],
+"cup": 248,
+"units": {
+"bottle": 473,
+"can": 340
+},
+"tbsp": 15.5,
+"dens": 1.05,
+"src": "USDA"
+},
+{
+"m": [
+"soda",
+"cola",
+"coke",
+"coca-cola",
+"pepsi",
+"ginger ale",
+"sprite",
+"7up",
+"lemon-lime soda",
+"club soda",
+"seltzer",
+"sparkling water",
+"tonic",
+"tonic water",
+"soda water",
+"root beer",
+"dr pepper",
+"ginger beer",
+"lemonade",
+"limeade",
+"sweet tea",
+"kombucha",
+"energy drink"
+],
+"cup": 246,
+"units": {
+"can": 355,
+"bottle": 591,
+"liter": 1000
+},
+"dens": 1.04,
+"src": "USDA"
+},
+{
+"m": [
+"vinegar",
+"white vinegar",
+"distilled vinegar",
+"distilled white vinegar",
+"apple cider vinegar",
+"cider vinegar",
+"rice vinegar",
+"rice wine vinegar",
+"white wine vinegar",
+"red wine vinegar",
+"champagne vinegar",
+"sherry vinegar",
+"malt vinegar",
+"black vinegar",
+"chinkiang vinegar",
+"coconut vinegar",
+"acv"
+],
+"cup": 238,
+"tbsp": 15,
+"tsp": 5,
+"dens": 1.01,
+"src": "USDA"
+},
+{
+"m": [
+"balsamic vinegar",
+"balsamic",
+"balsamic glaze",
+"balsamic reduction",
+"aged balsamic"
+],
+"cup": 255,
+"tbsp": 16,
+"dens": 1.08,
+"src": "USDA"
+},
+{
+"m": [
+"soy sauce",
+"tamari",
+"shoyu",
+"light soy sauce",
+"dark soy sauce",
+"low sodium soy sauce",
+"low-sodium soy sauce",
+"coconut aminos",
+"liquid aminos",
+"sweet soy sauce",
+"kecap manis",
+"ponzu"
+],
+"cup": 255,
+"tbsp": 16,
+"tsp": 5.3,
+"dens": 1.08,
+"src": "USDA"
+},
+{
+"m": [
+"fish sauce",
+"nam pla",
+"nuoc mam"
+],
+"cup": 288,
+"tbsp": 18,
+"tsp": 6,
+"dens": 1.22,
+"src": "est"
+},
+{
+"m": [
+"worcestershire sauce",
+"worcestershire",
+"worcester sauce"
+],
+"cup": 272,
+"tbsp": 17,
+"tsp": 5.7,
+"dens": 1.15,
+"src": "USDA"
+},
+{
+"m": [
+"hot sauce",
+"tabasco",
+"frank's redhot",
+"franks red hot",
+"frank's",
+"cholula",
+"louisiana hot sauce",
+"crystal hot sauce",
+"pepper sauce",
+"buffalo sauce",
+"wing sauce"
+],
+"cup": 240,
+"units": {
+"bottle": 148
+},
+"tbsp": 15,
+"tsp": 5,
+"dens": 1.01,
+"src": "USDA"
+},
+{
+"m": [
+"sriracha",
+"chili garlic sauce",
+"sambal",
+"sambal oelek",
+"chili paste",
+"chile paste",
+"harissa",
+"harissa paste",
+"gochujang",
+"chili crisp",
+"chili oil",
+"chilli oil",
+"chili crunch",
+"chili bean paste",
+"doubanjiang",
+"calabrian chili paste",
+"calabrian chilies",
+"ají amarillo paste",
+"aji amarillo paste",
+"red curry paste",
+"green curry paste",
+"yellow curry paste",
+"thai curry paste",
+"curry paste",
+"massaman curry paste",
+"panang curry paste",
+"tom yum paste",
+"thai chili paste",
+"nam prik pao"
+],
+"cup": 272,
+"units": {
+"jar": 227,
+"bottle": 480,
+"can": 113
+},
+"tbsp": 17,
+"tsp": 5.7,
+"dens": 1.15,
+"src": "est"
+},
+{
+"m": [
+"sweet chili sauce",
+"thai sweet chili sauce",
+"sweet and sour sauce",
+"duck sauce",
+"plum sauce",
+"hoisin",
+"hoisin sauce",
+"oyster sauce",
+"teriyaki sauce",
+"teriyaki",
+"stir fry sauce",
+"stir-fry sauce",
+"black bean sauce",
+"kung pao sauce",
+"general tso sauce",
+"orange sauce",
+"yakitori sauce",
+"unagi sauce",
+"eel sauce",
+"tonkatsu sauce",
+"okonomiyaki sauce",
+"bulgogi sauce",
+"ssamjang",
+"doenjang",
+"miso",
+"white miso",
+"red miso",
+"yellow miso",
+"miso paste",
+"thai peanut sauce",
+"peanut sauce",
+"satay sauce"
+],
+"cup": 288,
+"units": {
+"jar": 340,
+"bottle": 300
+},
+"tbsp": 18,
+"tsp": 6,
+"dens": 1.22,
+"src": "USDA/est"
+},
+{
+"m": [
+"bbq sauce",
+"barbecue sauce",
+"barbeque sauce",
+"bbq"
+],
+"cup": 286,
+"units": {
+"bottle": 510
+},
+"tbsp": 18,
+"dens": 1.2,
+"src": "USDA"
+},
+{
+"m": [
+"ketchup",
+"catsup",
+"tomato ketchup"
+],
+"cup": 240,
+"units": {
+"bottle": 567
+},
+"tbsp": 17,
+"tsp": 5.7,
+"dens": 1.14,
+"src": "USDA"
+},
+{
+"m": [
+"mustard",
+"dijon",
+"dijon mustard",
+"yellow mustard",
+"whole grain mustard",
+"wholegrain mustard",
+"stone ground mustard",
+"spicy brown mustard",
+"honey mustard",
+"english mustard",
+"brown mustard",
+"grainy mustard",
+"prepared mustard",
+"mustard prepared"
+],
+"cup": 249,
+"tbsp": 16,
+"tsp": 5,
+"dens": 1.05,
+"src": "USDA"
+},
+{
+"m": [
+"mayonnaise",
+"mayo",
+"light mayonnaise",
+"kewpie",
+"kewpie mayo",
+"japanese mayo",
+"vegan mayo",
+"aioli",
+"garlic aioli"
+],
+"cup": 220,
+"tbsp": 14,
+"tsp": 4.6,
+"dens": 0.93,
+"src": "USDA"
+},
+{
+"m": [
+"ranch",
+"ranch dressing",
+"blue cheese dressing",
+"caesar dressing",
+"italian dressing",
+"vinaigrette",
+"salad dressing",
+"dressing",
+"thousand island",
+"thousand island dressing",
+"russian dressing",
+"honey mustard dressing",
+"balsamic vinaigrette",
+"greek dressing",
+"french dressing",
+"poppy seed dressing",
+"tahini dressing",
+"sesame dressing",
+"ginger dressing"
+],
+"cup": 240,
+"units": {
+"bottle": 473
+},
+"tbsp": 15,
+"dens": 1.0,
+"src": "USDA"
+},
+{
+"m": [
+"tartar sauce",
+"cocktail sauce",
+"horseradish sauce",
+"remoulade",
+"special sauce",
+"burger sauce",
+"fry sauce",
+"comeback sauce",
+"chipotle mayo",
+"sriracha mayo",
+"yum yum sauce",
+"tzatziki",
+"raita",
+"chimichurri",
+"romesco",
+"gremolata",
+"salsa macha",
+"zhug",
+"schug",
+"chermoula"
+],
+"cup": 240,
+"tbsp": 15,
+"dens": 1.0,
+"src": "est"
+},
+{
+"m": [
+"prepared horseradish",
+"horseradish",
+"fresh horseradish",
+"grated horseradish",
+"wasabi",
+"wasabi paste"
+],
+"cup": 240,
+"tbsp": 15,
+"tsp": 5,
+"src": "USDA"
+},
+{
+"m": [
+"pesto",
+"basil pesto",
+"sun-dried tomato pesto",
+"red pesto",
+"jarred pesto"
+],
+"cup": 240,
+"units": {
+"jar": 190,
+"container": 190
+},
+"tbsp": 15,
+"dens": 1.0,
+"src": "est"
+},
+{
+"m": [
+"gravy",
+"brown gravy",
+"turkey gravy",
+"chicken gravy",
+"beef gravy",
+"jarred gravy",
+"canned gravy"
+],
+"cup": 238,
+"units": {
+"jar": 340,
+"can": 298
+},
+"src": "USDA"
+},
+{
+"m": [
+"liquid smoke"
+],
+"tbsp": 15,
+"tsp": 5,
+"src": "est"
+},
+{
+"m": [
+"molasses pomegranate",
+"pomegranate molasses",
+"date syrup",
+"date molasses",
+"tamarind paste",
+"tamarind concentrate",
+"tamarind"
+],
+"cup": 330,
+"tbsp": 20,
+"src": "est"
+},
+{
+"m": [
+"sweetened condensed coconut milk",
+"coconut condensed milk"
+],
+"cup": 306,
+"units": {
+"can": 320
+},
+"src": "est"
+},
+{
+"m": [
+"evaporated coconut milk",
+"coconut milk powder"
+],
+"cup": 120,
+"src": "est"
+},
+{
+"m": [
+"instant pudding",
+"instant pudding mix",
+"pudding mix",
+"jello",
+"jell-o",
+"gelatin mix",
+"jello mix"
+],
+"units": {
+"package": 96,
+"box": 96,
+"packet": 96
+},
+"tbsp": 12,
+"note": "package = a 3.4 oz box; small jello box 85 g",
+"src": "est"
+},
+{
+"m": [
+"cake mix",
+"boxed cake mix",
+"yellow cake mix",
+"white cake mix",
+"chocolate cake mix",
+"brownie mix",
+"boxed brownie mix",
+"muffin mix",
+"cornbread mix",
+"jiffy",
+"jiffy mix",
+"pancake mix",
+"bisquick",
+"baking mix",
+"biscuit mix"
+],
+"cup": 130,
+"units": {
+"box": 432,
+"package": 432,
+"pouch": 432
+},
+"note": "box = 15.25 oz cake mix; Jiffy boxes are 241 g, Bisquick cup 120",
+"src": "USDA"
+},
+{
+"m": [
+"mac and cheese",
+"macaroni and cheese",
+"boxed mac and cheese",
+"kraft mac and cheese",
+"stuffing mix",
+"stove top stuffing",
+"rice-a-roni",
+"rice a roni",
+"boxed rice mix",
+"hamburger helper"
+],
+"units": {
+"box": 206,
+"package": 206
+},
+"src": "est"
+},
+{
+"m": [
+"frozen puff pastry",
+"frozen pie crust",
+"frozen pizza dough"
+],
+"units": {
+"package": 490,
+"sheet": 245
+},
+"src": "est"
+},
+{
+"m": [
+"frozen peas and carrots mix",
+"frozen succotash"
+],
+"cup": 140,
+"units": {
+"bag": 454
+},
+"src": "USDA"
+},
+{
+"m": [
+"gnocchi",
+"potato gnocchi",
+"cauliflower gnocchi"
+],
+"cup": 150,
+"units": {
+"package": 454,
+"bag": 454
+},
+"src": "est"
+},
+{
+"m": [
+"tortellini",
+"ravioli",
+"cheese tortellini",
+"cheese ravioli",
+"fresh pasta",
+"refrigerated pasta",
+"pierogi",
+"pierogies",
+"potstickers",
+"dumplings",
+"frozen dumplings",
+"gyoza"
+],
+"cup": 120,
+"each": 20,
+"units": {
+"package": 255,
+"bag": 454,
+"box": 255
+},
+"note": "each = one dumpling or large ravioli",
+"src": "est"
+},
+{
+"m": [
+"bread flour whole wheat",
+"whole wheat bread flour"
+],
+"cup": 120,
+"src": "USDA"
+},
+{
+"m": [
+"oats quick-cooking steel",
+"scottish oats"
+],
+"cup": 100,
+"src": "est"
+},
+{
+"m": [
+"tortilla chips",
+"corn chips",
+"fritos",
+"potato chips",
+"chips",
+"crisps",
+"pita chips",
+"pretzels",
+"popcorn kernels",
+"popping corn",
+"popped popcorn",
+"popcorn"
+],
+"cup": 28,
+"units": {
+"bag": 283,
+"handful": 15
+},
+"note": "cup of chips about 28 g; popcorn kernels 200, popped 8",
+"src": "USDA/est"
+},
+{
+"m": [
+"popcorn kernels",
+"popping corn kernels",
+"unpopped popcorn"
+],
+"cup": 200,
+"tbsp": 12,
+"src": "USDA"
+},
+{
+"m": [
+"popped popcorn"
+],
+"cup": 8,
+"src": "USDA"
+},
+{
+"m": [
+"crackers crushed",
+"crushed crackers",
+"crushed cornflakes",
+"crushed chips",
+"crushed pretzels"
+],
+"cup": 90,
+"src": "est"
+},
+{
+"m": [
+"candy",
+"candies",
+"m&ms",
+"m&m's",
+"chocolate candies",
+"reese's pieces",
+"gummy bears",
+"candy corn",
+"toffee bits",
+"heath bits",
+"skor bits",
+"andes mints",
+"peppermint candies",
+"candy canes",
+"crushed candy canes"
+],
+"cup": 170,
+"each": 1,
+"units": {
+"bag": 283
+},
+"src": "est"
+},
+{
+"m": [
+"peanut butter cups",
+"reese's cups",
+"reeses",
+"snickers",
+"candy bars",
+"candy bar",
+"kit kats",
+"kit kat",
+"twix"
+],
+"each": 21,
+"units": {
+"bar": 50
+},
+"note": "each = one miniature cup",
+"src": "est"
+},
+{
+"m": [
+"caramels",
+"soft caramels",
+"caramel candies",
+"kraft caramels",
+"werther's"
+],
+"cup": 170,
+"each": 5,
+"units": {
+"bag": 311
+},
+"src": "USDA"
+},
+{
+"m": [
+"wafers",
+"vanilla wafers",
+"nilla wafers",
+"ladyfingers",
+"lady fingers",
+"savoiardi",
+"biscotti",
+"shortbread cookies",
+"digestive biscuits",
+"digestives",
+"gingersnaps",
+"ginger snaps",
+"cookies",
+"biscuits",
+"animal crackers",
+"teddy grahams"
+],
+"cup": 90,
+"each": 4,
+"units": {
+"package": 311,
+"box": 311
+},
+"note": "each = one wafer-size cookie; a digestive is 15 g, a ladyfinger 11 g",
+"src": "est"
+},
+{
+"m": [
+"ice cream cones",
+"waffle cones",
+"sugar cones"
+],
+"each": 12,
+"src": "est"
+},
+{
+"m": [
+"pretzel sticks",
+"pretzel rods",
+"mini pretzels"
+],
+"cup": 60,
+"each": 1,
+"units": {
+"rod": 11
+},
+"src": "est"
+},
+{
+"m": [
+"jerky",
+"beef jerky"
+],
+"each": 10,
+"units": {
+"bag": 85
+},
+"src": "est"
+},
+{
+"m": [
+"dried bread",
+"melba toast",
+"rusks",
+"zwieback"
+],
+"each": 5,
+"src": "est"
+},
+{
+"m": [
+"gelatin sheets",
+"gelatin leaves",
+"leaf gelatin"
+],
+"each": 2,
+"units": {
+"sheet": 2,
+"leaf": 2
+},
+"src": "est"
+},
+{
+"m": [
+"agar",
+"agar agar",
+"agar powder"
+],
+"tbsp": 6,
+"tsp": 2,
+"src": "est"
+},
+{
+"m": [
+"baking chips white",
+"candy melts",
+"melting wafers",
+"almond bark",
+"candy coating",
+"chocolate coating",
+"chocolate melts"
+],
+"cup": 170,
+"units": {
+"bag": 340,
+"package": 454
+},
+"src": "est"
+},
+{
+"m": [
+"instant mashed potatoes",
+"potato flakes",
+"mashed potato flakes"
+],
+"cup": 60,
+"units": {
+"box": 380
+},
+"src": "USDA"
+},
+{
+"m": [
+"mashed potatoes",
+"leftover mashed potatoes",
+"prepared mashed potatoes"
+],
+"cup": 210,
+"src": "USDA"
+},
+{
+"m": [
+"cooked potatoes",
+"boiled potatoes",
+"roasted potatoes",
+"diced cooked potatoes"
+],
+"cup": 156,
+"src": "USDA"
+},
+{
+"m": [
+"cooked vegetables",
+"roasted vegetables",
+"leftover vegetables",
+"cooked greens"
+],
+"cup": 150,
+"src": "est"
+},
+{
+"m": [
+"cooked ground beef",
+"browned ground beef",
+"cooked ground turkey",
+"cooked sausage",
+"crumbled sausage",
+"cooked meat",
+"leftover meat",
+"shredded pork",
+"pulled pork",
+"shredded beef",
+"leftover turkey",
+"cooked turkey",
+"shredded turkey",
+"diced cooked turkey",
+"cooked ham diced"
+],
+"cup": 140,
+"src": "USDA"
+},
+{
+"m": [
+"meatballs",
+"frozen meatballs",
+"cooked meatballs"
+],
+"each": 30,
+"sizes": {
+"small": 15,
+"medium": 30,
+"large": 45
+},
+"units": {
+"bag": 907,
+"package": 907
+},
+"src": "est"
+},
+{
+"m": [
+"chicken nuggets",
+"nuggets",
+"popcorn chicken"
+],
+"each": 16,
+"src": "USDA"
+},
+{
+"m": [
+"fish sticks",
+"fish fingers"
+],
+"each": 28,
+"src": "USDA"
+},
+{
+"m": [
+"frozen pizza"
+],
+"each": 400,
+"src": "est"
+},
+{
+"m": [
+"frozen waffles",
+"waffles",
+"pancakes",
+"frozen pancakes"
+],
+"each": 35,
+"src": "USDA"
+},
+{
+"m": [
+"pretzel buns",
+"pretzel rolls",
+"ciabatta rolls",
+"ciabatta",
+"kaiser rolls",
+"hoagie rolls",
+"sub rolls",
+"sandwich rolls",
+"brioche",
+"challah",
+"hawaiian rolls",
+"king's hawaiian rolls",
+"sweet rolls",
+"potato rolls",
+"potato buns"
+],
+"each": 57,
+"units": {
+"loaf": 454,
+"package": 340
+},
+"src": "est"
+},
+{
+"m": [
+"croissants",
+"croissant"
+],
+"each": 57,
+"src": "USDA"
+},
+{
+"m": [
+"tortilla strips",
+"crispy fried onions",
+"french fried onions",
+"fried onions",
+"crispy onions",
+"crispy shallots",
+"fried shallots"
+],
+"cup": 60,
+"units": {
+"can": 170,
+"container": 170
+},
+"src": "est"
+},
+{
+"m": [
+"bacon bits store",
+"real bacon bits",
+"hormel bacon bits"
+],
+"cup": 112,
+"units": {
+"jar": 85
+},
+"tbsp": 7,
+"src": "USDA"
+},
+{
+"m": [
+"cheese crisps",
+"parmesan crisps",
+"whisps"
+],
+"cup": 40,
+"units": {
+"bag": 60
+},
+"src": "est"
+},
+{
+"m": [
+"stuffing",
+"prepared stuffing",
+"cornbread stuffing",
+"stuffing cubes",
+"bread stuffing"
+],
+"cup": 100,
+"units": {
+"bag": 340,
+"box": 170
+},
+"src": "est"
+},
+{
+"m": [
+"cornbread",
+"cornbread crumbs",
+"crumbled cornbread"
+],
+"cup": 120,
+"each": 60,
+"src": "est"
+},
+{
+"m": [
+"cooked cornbread",
+"leftover cornbread"
+],
+"cup": 120,
+"src": "est"
+},
+{
+"m": [
+"rice cakes",
+"rice cake"
+],
+"each": 9,
+"src": "USDA"
+},
+{
+"m": [
+"tofu puffs",
+"fried tofu",
+"aburaage",
+"yuba",
+"tofu skin"
+],
+"cup": 100,
+"each": 20,
+"src": "est"
+},
+{
+"m": [
+"natto",
+"fermented soybeans"
+],
+"cup": 175,
+"units": {
+"package": 45
+},
+"src": "est"
+},
+{
+"m": [
+"canned coconut cream whipped",
+"whipped coconut cream"
+],
+"cup": 120,
+"src": "est"
+},
+{
+"m": [
+"canned pumpkin pie filling",
+"pumpkin pie filling",
+"pumpkin pie mix"
+],
+"cup": 270,
+"units": {
+"can": 425
+},
+"src": "USDA"
+},
+{
+"m": [
+"pie filling",
+"cherry pie filling",
+"apple pie filling",
+"blueberry pie filling",
+"canned pie filling"
+],
+"cup": 280,
+"units": {
+"can": 595
+},
+"note": "can = 21 oz",
+"src": "USDA/est"
+},
+{
+"m": [
+"lemon curd",
+"fruit curd",
+"lime curd"
+],
+"cup": 320,
+"units": {
+"jar": 312
+},
+"tbsp": 20,
+"src": "est"
+},
+{
+"m": [
+"cool whip tub",
+"frozen whipped topping"
+],
+"cup": 60,
+"units": {
+"tub": 227,
+"container": 227
+},
+"src": "USDA"
+},
+{
+"m": [
+"cream cheese frosting",
+"frosting",
+"buttercream",
+"icing",
+"canned frosting",
+"store-bought frosting",
+"ganache",
+"glaze"
+],
+"cup": 250,
+"units": {
+"can": 453,
+"container": 453,
+"tub": 453
+},
+"tbsp": 16,
+"src": "USDA"
+},
+{
+"m": [
+"chocolate chips mini bag",
+"mini chips"
+],
+"cup": 170,
+"src": "USDA"
+},
+{
+"m": [
+"baking spray",
+"flour spray"
+],
+"tsp": 0.3,
+"src": "est"
+}
+]
+}

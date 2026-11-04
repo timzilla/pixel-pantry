@@ -1,0 +1,11 @@
+data/
+.env
+*.env
+docker-compose.override.yml
+android/.signing/
+android/.server
+android/src/res/values/server.xml
+android/build/
+android/out/
+__pycache__/
+*.log

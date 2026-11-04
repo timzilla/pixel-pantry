@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block body %}
+<section class="panel sign">
+  <h1>Add a recipe</h1>
+  <form class="addform" method="post" action="/add">
+    <input type="url" name="url" placeholder="Paste a recipe link…" required inputmode="url" autocomplete="off">
+    <button class="btn gold" type="submit">Fetch</button>
+  </form>
+  <p class="hint">On the phone: open any recipe page, Share, then pick <b>Kitchen Share</b> (the app, below).</p>
+  {% if err %}<p class="err">{{ err }}{% if app_link %}<br><a class="btn gold" href="{{ app_link }}">Open in Kitchen Share</a> <span class="hint">(the app reads it on the phone)</span>{% endif %}</p>{% endif %}
+  <details class="bm">
+    <summary>Get the phone app (Android)</summary>
+    <ol>
+      <li>Open <a href="/kitchen-{{ apk_version() }}.apk">kitchen-{{ apk_version() }}.apk</a> on the phone and install it (allow installs from Chrome if asked). The app shows its version at the top when it opens.</li>
+      <li>On any recipe page: Share → <b>Kitchen Share</b> (basket icon). The page is read on the phone, so sites that block servers work too.</li>
+      <li>The first time, the app asks you to sign in with the usual email code. Then it just works.</li>
+    </ol>
+  </details>
+</section>
+
+<section class="shelfhead">
+  <form class="search" method="get" action="/"><input type="search" name="q" value="{{ q }}" placeholder="Search the shelf…"><button class="btn" type="submit">Find</button></form>
+  <span class="count">{{ recipes|length }} recipe{{ '' if recipes|length == 1 else 's' }}</span>
+</section>
+
+{% if recipes %}
+<section class="shelf">
+  {% for r in recipes %}
+  <a class="card" href="/r/{{ r.slug }}">
+    <div class="pic">{% if r.image %}<img src="{{ r.image }}" alt="" loading="lazy">{% else %}<span class="nopic" data-sprite="pot"></span>{% endif %}</div>
+    <div class="cardbody">
+      <h2>{{ r.title }}</h2>
+      <div class="meta">{% if r.total %}<span>⏱ {{ r.total|minutes }}</span>{% endif %}{% if r.yields %}<span>🍽 {{ r.yields }}</span>{% endif %}<span class="site">{{ r.site }}</span></div>
+    </div>
+  </a>
+  {% endfor %}
+</section>
+{% else %}
+<section class="panel empty">
+  <span class="bigcat" data-sprite="cat"></span>
+  <p>The shelf is empty. Share a link from your phone, or paste one above.</p>
+</section>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,20 @@
+# Pixel Pantry: one container, recipes live in ./data as Markdown files.
+# Optional settings go in a .env file next to this one (see README):
+#   ANTHROPIC_API_KEY=...   lets Claude extract recipes from pages with no machine-readable data
+#   PRESS_URL=http://...    a Press print service; shows a "Print strip" button on every recipe
+services:
+  recipes:
+    build: .
+    container_name: recipes
+    restart: unless-stopped
+    ports:
+      - "8095:8000"
+    environment:
+      PRESS_URL: ${PRESS_URL:-}
+    volumes:
+      - ./data:/data
+      - ./app:/app:ro            # live edits without a rebuild
+      - ./android/out:/apk:ro    # the optional phone app, served at /kitchen.apk when built
+    env_file:
+      - path: .env
+        required: false

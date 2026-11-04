@@ -1,0 +1,85 @@
+{% extends "base.html" %}
+{% block title %}{{ r.title }} · Pixel Pantry{% endblock %}
+{% block topright %}<a class="btn small" href="/">◀ Shelf</a>{% endblock %}
+{% block body %}
+<article class="recipe" data-slug="{{ r.slug }}" data-servings="{{ r.servings or '' }}">
+  <section class="panel head">
+    {% if r.image %}<div class="hero"><img src="{{ r.image }}" alt=""></div>{% endif %}
+    <div class="headtext">
+      <h1>{{ r.title }}</h1>
+      {% if r.description %}<p class="desc">{{ r.description }}</p>{% endif %}
+      <div class="meta">
+        {% if r.prep %}<span>Prep {{ r.prep|minutes }}</span>{% endif %}
+        {% if r.cook %}<span>Cook {{ r.cook|minutes }}</span>{% endif %}
+        {% if r.total %}<span>Total {{ r.total|minutes }}</span>{% endif %}
+        {% if r.yields %}<span>{{ r.yields }}</span>{% endif %}
+      </div>
+      <div class="actions">
+        <button class="btn" type="button" id="wake">Keep screen on</button>
+        <button class="btn gold" type="button" id="tobasket">Add to basket</button>
+        <button class="btn" type="button" id="printbtn" title="Print on the kitchen printer">Print strip</button>
+        <a class="btn small" href="{{ r.source }}" target="_blank" rel="noopener">Source: {{ r.site }}</a>
+        <form method="post" action="/r/{{ r.slug }}/delete" onsubmit="return confirm('Take this one off the shelf?')"><button class="btn small danger" type="submit">Remove</button></form>
+      </div>
+      {% if not press %}<p class="hint printhelp hidden" id="printhelp">No printer yet. Pixel Pantry prints recipes and shopping lists as strips on a kitchen receipt printer through <b>Press</b>; see <i>Printing</i> in the README to set one up.</p>{% endif %}
+    </div>
+  </section>
+
+  <form class="panel picker hidden" id="picker" method="post" action="/list/add">
+    <input type="hidden" name="slug" value="{{ r.slug }}"><input type="hidden" name="scale" value="1" id="pickscale">
+    <h2>What do you need to buy?</h2>
+    <p class="hint">Untick what you already have. Amounts follow the servings you set.</p>
+    <ul class="picklist">
+      {% for i in r.ingredients %}<li><label><input type="checkbox" name="idx" value="{{ loop.index0 }}" checked><span class="box"></span><span>{{ i.name }}{% if i.qty is not none %} <small>({{ i.qty|qty }} {{ i.unit or '' }}{% if i.grams %}, {{ i.grams }} g{% endif %})</small>{% endif %}</span></label></li>{% endfor %}
+    </ul>
+    <div class="actions"><button class="btn gold" type="submit">Add to basket</button><button class="btn small" type="button" id="pickcancel">Cancel</button></div>
+  </form>
+
+  <nav class="tabs">
+    <button class="tab on" data-tab="ingredients" type="button">Ingredients</button>
+    <button class="tab" data-tab="method" type="button">Method</button>
+  </nav>
+
+  <section class="panel tabpane" id="pane-ingredients">
+    <div class="scaler">
+      <span>Servings</span>
+      <button class="btn small" type="button" data-scale="-1">−</button>
+      <output id="servings">{{ r.servings or '?' }}</output>
+      <button class="btn small" type="button" data-scale="1">+</button>
+      <label class="units"><input type="checkbox" id="showgrams" checked> grams</label>
+    </div>
+    <ul class="ingredients">
+      {% for i in r.ingredients %}
+      <li class="ing" data-qty="{{ i.qty if i.qty is not none else '' }}" data-qtymax="{{ i.qty_max if i.qty_max is not none else '' }}" data-grams="{{ i.grams if i.grams is not none else '' }}" data-unit="{{ i.unit or '' }}">
+        <label>
+          <input type="checkbox">
+          <span class="box"></span>
+          <span class="amount">{% if i.qty is not none %}<b class="q">{{ i.qty|qty }}{% if i.qty_max %}–{{ i.qty_max|qty }}{% endif %}</b> {{ i.unit or '' }}{% endif %}</span>
+          <span class="name">{{ i.name }}</span>
+          {% if i.grams %}<span class="grams{% if i.grams_est %} est{% endif %}" title="{{ i.grams_how }}">{% if i.grams_est %}~{% endif %}<b class="g">{{ i.grams }}</b> g</span>{% elif i.grams_how %}<span class="grams nog" title="{{ i.grams_how }}"></span>{% endif %}
+          {% if i.note %}<span class="note">{{ i.note }}</span>{% endif %}
+        </label>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="panel tabpane hidden" id="pane-method">
+    <div class="stepnav">
+      <button class="btn" type="button" id="prev">◀</button>
+      <span class="stepcount"><span id="stepnum">1</span> / {{ r.steps|length }}</span>
+      <button class="btn" type="button" id="next">▶</button>
+      <label class="units"><input type="checkbox" id="allsteps"> show all</label>
+    </div>
+    <ol class="steps">
+      {% for s in r.steps %}
+      <li class="step{% if loop.first %} on{% endif %}"><span class="num">{{ loop.index }}</span><p>{{ s|step_html|safe }}</p></li>
+      {% endfor %}
+    </ol>
+  </section>
+
+  {% if r.notes %}<section class="panel notes"><h2>Notes</h2><p>{{ r.notes }}</p></section>{% endif %}
+</article>
+
+<div id="timers" class="timers"></div>
+{% endblock %}
