@@ -6,6 +6,14 @@ shopping list that tells you what to actually buy. All wrapped in a pixel-art ki
 
 It runs in one container on a box at home and keeps your recipes as plain Markdown files you own.
 
+<p align="center">
+  <img src="docs/screenshots/recipe.png" width="200" alt="A saved recipe with its description, timings and buttons">
+  <img src="docs/screenshots/ingredients.png" width="200" alt="The ingredient checklist with grams beside every amount">
+  <img src="docs/screenshots/cook-mode.png" width="200" alt="Cook mode: one step at a time, with tappable timers">
+  <img src="docs/screenshots/basket-buy.png" width="200" alt="The shopping basket saying what to buy: 2 limes, 2 heads of garlic, 1 head of cabbage">
+</p>
+<p align="center"><sub>A recipe, the ingredients in grams, cook mode with tap-to-start timers, and the basket telling you what to buy. Sample recipes, not from any website.</sub></p>
+
 ## Why I made it
 
 I love to cook and bake, and I'm the kind of cook who reads three or four recipes for the same dish, takes

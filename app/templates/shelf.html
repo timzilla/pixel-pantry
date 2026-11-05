@@ -6,13 +6,13 @@
     <input type="url" name="url" placeholder="Paste a recipe link…" required inputmode="url" autocomplete="off">
     <button class="btn gold" type="submit">Fetch</button>
   </form>
-  <p class="hint">On the phone: open any recipe page, Share, then pick <b>Kitchen Share</b> (the app, below).</p>
-  {% if err %}<p class="err">{{ err }}{% if app_link %}<br><a class="btn gold" href="{{ app_link }}">Open in Kitchen Share</a> <span class="hint">(the app reads it on the phone)</span>{% endif %}</p>{% endif %}
+  <p class="hint">On the phone: open any recipe page, Share, then pick <b>Pixel Pantry</b> (the app, below).</p>
+  {% if err %}<p class="err">{{ err }}{% if app_link %}<br><a class="btn gold" href="{{ app_link }}">Open in Pixel Pantry</a> <span class="hint">(the app reads it on the phone)</span>{% endif %}</p>{% endif %}
   <details class="bm">
     <summary>Get the phone app (Android)</summary>
     <ol>
       <li>Open <a href="/kitchen-{{ apk_version() }}.apk">kitchen-{{ apk_version() }}.apk</a> on the phone and install it (allow installs from Chrome if asked). The app shows its version at the top when it opens.</li>
-      <li>On any recipe page: Share → <b>Kitchen Share</b> (basket icon). The page is read on the phone, so sites that block servers work too.</li>
+      <li>On any recipe page: Share → <b>Pixel Pantry</b> (basket icon). The page is read on the phone, so sites that block servers work too.</li>
       <li>The first time, the app asks you to sign in with the usual email code. Then it just works.</li>
     </ol>
   </details>

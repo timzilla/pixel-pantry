@@ -76,7 +76,7 @@ input:focus{outline:0;box-shadow:inset 3px 3px 0 #c9ab6c,inset -3px -3px 0 #fff,
 .tabs{display:flex;gap:8px;max-width:900px;margin:18px auto -8px;padding:0 6px}
 .tab{font:inherit;font-size:19px;font-weight:600;color:#f6e5b8;background:#6b4020;border:0;padding:8px 18px;cursor:pointer;box-shadow:0 0 0 3px #2e1a0b;text-shadow:2px 2px 0 #2e1a0b}
 .tab.on{background:var(--paper);color:var(--ink);text-shadow:none;position:relative;z-index:2}
-.tabpane.hidden{display:none}
+.tabpane.hidden{display:none}.printhelp.hidden{display:none}
 .scaler{display:flex;align-items:center;gap:8px;margin-bottom:10px;color:var(--ink2);font-size:16px}
 .scaler output{font-size:22px;font-weight:600;color:var(--ink);min-width:2ch;text-align:center}
 .units{margin-left:auto;display:flex;align-items:center;gap:6px}

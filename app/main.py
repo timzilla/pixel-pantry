@@ -89,7 +89,7 @@ def shelf(request: Request, q: str = "", err: str = "", app: str = ""):
         ql = q.lower()
         recipes = [r for r in recipes if ql in r["title"].lower() or any(ql in i["name"].lower() for i in r.get("ingredients", []))]
     app_link = ""
-    if app:  # Android intent link: opens Kitchen Share with the url, which reads the page on the phone
+    if app:  # Android intent link: opens Pixel Pantry with the url, which reads the page on the phone
         app_link = "intent://add?url=" + urllib.parse.quote(app, safe="") + "#Intent;scheme=kitchen;package=io.github.timzilla.pixelpantry;end"
     return tpl.TemplateResponse(request, "shelf.html", {"recipes": recipes, "q": q, "err": err, "app_link": app_link})
 
@@ -313,7 +313,7 @@ def shopping_markdown():
         g = f" ({i['grams']} g)" if i.get("grams") else ""
         b = buy.suggest(i["name"], i.get("grams"), i.get("qty"), i.get("unit"))
         if b and b.get("check"): lines.append(f"- [ ] {i['name']}: check the cupboard ({b['note'].split('; ')[-1]})")
-        elif b and b.get("named"): lines.append(f"- [ ] {b['buy']} (for {amt}{i['name']})")      # "2 lemons (for 1/4 cup lemon juice)"
+        elif b and b.get("named") and not b.get("same"): lines.append(f"- [ ] {b['buy']} (for {amt}{i['name']})")      # "2 lemons (for 1/4 cup lemon juice)"
         elif b and b.get("note") != "as the recipe says": lines.append(f"- [ ] {i['name']}: {b['buy']}")   # "flour: 1 × 2 lb bag"
         else: lines.append(f"- [ ] {amt}{i['name']}{g}")
     lines += ["", f"{len(todo)} to get"]

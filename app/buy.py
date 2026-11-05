@@ -117,7 +117,10 @@ def suggest(name, grams, qty=None, unit=None):
         if each:
             one, many = COUNTED[k]
             n = math.ceil(qty) if (qty and not unit and k not in COUNT_GRAMS) else max(1, math.ceil(grams / each - 0.15))   # "2 large onions" buys 2
-            return {"buy": _n(n, one, many), "note": f"about {each:g} g each", "named": True}
+            same = bool(qty) and not unit and n == math.ceil(qty)   # "2 avocados" already says what to buy
+            if unit in ("lb", "oz", "g", "kg"):                       # bought by weight: the count is just a guide
+                return {"buy": f"about {_n(n, one, many)}", "note": f"sold by weight; about {each:g} g each", "named": True}
+            return {"buy": _n(n, one, many), "note": f"about {each:g} g each", "named": True, "same": same}
     if k in BUNCHED:
         per = (e.get("units") or {}).get("bunch")
         if per:
