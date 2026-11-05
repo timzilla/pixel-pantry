@@ -8,12 +8,17 @@ It runs in one container on a box at home and keeps your recipes as plain Markdo
 
 ## Why I made it
 
-Cooking from recipe websites drove me up the wall: the phone dims mid-step, the recipe is buried
-under someone's life story, and a video autoplays right over the one line I need with flour on my hands.
-So I built the kitchen companion I wanted, around how my family actually cooks: by weight, from a phone
-propped against the flour tin, with a shared shopping list and a receipt printer on the counter.
+I love to cook and bake, and I'm the kind of cook who reads three or four recipes for the same dish, takes
+a bit from each, and makes my own version. Usually I'm only after one part: how long that one recipe roasts
+the vegetables, or the ratio in the sauce. That means a lot of time on a lot of recipe sites, scrolling past
+life stories and pop-ups to find a single line, while the phone dims and a video plays over the step I need.
 
-It turned out to be one of my favorite things in the house, and I think it's too neat to keep to myself.
+So I built the kitchen companion I wanted: save the recipes worth keeping with all the clutter stripped away,
+read everything by weight, and cook from a phone propped on the counter, with a shared shopping list
+and a receipt printer nearby.
+
+I figured there are other people like me who just haven't gotten around to self-hosting something like this
+yet, so I may as well share what I made. Hopefully someone takes it and makes it way cooler.
 
 It isn't a product and I'm not selling anything. There's no account, no hosted version, no subscription,
 no tracking, and no plans for any of that. It's a home project I'm proud of and happy to share. If it fits
@@ -157,7 +162,7 @@ and cooks you pull from; their recipes are why any of this works.
 
 ## Where it's at
 
-It's young but loved: built in early November 2026 and in use in my kitchen since. There are
+It's young: I built it in early November 2026 and have cooked several meals from it since. There are
 rough edges. The ingredient parser is a pile of regular expressions, the weight and package tables are only
 as good as their entries, and the layout is tuned for the phone and tablet in my kitchen. I'm still adding to
 it, and I'll keep fixing what I run into.
