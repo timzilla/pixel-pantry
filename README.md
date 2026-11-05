@@ -2,7 +2,7 @@
 
 A cozy little recipe shelf for your kitchen. Share a recipe link from your phone and it turns into a clean,
 ad-free page to cook from: ingredients you can tick off, weights in grams, one step at a time, and a
-shopping list that tells you what to actually buy. All wrapped in a pixel-art kitchen I'm a bit too pleased with.
+shopping list that tells you what to actually buy. All wrapped in a pixel-art kitchen that feels like a nice place to cook. 
 
 It runs in one container on a box at home and keeps your recipes as plain Markdown files you own.
 
