@@ -28,6 +28,7 @@
         <span class="amount">{% if it.qty is not none %}<b class="q">{{ it.qty|qty }}</b> {{ it.unit or '' }}{% endif %}</span>
         <span class="name">{{ it.name }}</span>
         {% if it.grams %}<span class="grams"><b class="g">{{ it.grams }}</b> g</span>{% endif %}
+        {% if it.buy %}<span class="buy{% if it.buy.check %} check{% endif %}" title="{{ it.buy.note }}">{% if not it.buy.check %}buy {% endif %}<b>{{ it.buy.buy }}</b>{% if it.buy.note %} <small>· {{ it.buy.note }}</small>{% endif %}</span>{% endif %}
         {% if it.from %}<span class="note">for {{ it.from|join(', ') }}</span>{% endif %}
       </label>
       <form method="post" action="/list/remove" class="rm"><input type="hidden" name="id" value="{{ it.id }}"><button class="x" type="submit" title="remove">✕</button></form>

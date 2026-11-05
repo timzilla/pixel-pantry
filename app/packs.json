@@ -1,0 +1,9884 @@
+{
+"version": 1,
+"about": "Common US package sizes per ingredient (weights.json first phrase). Source: USDA FoodData Central Branded Foods 2026-10-29, public domain; sizes are the most common 5% buckets among matching products. kind ml = sold by volume. Staples curated by hand (curated: true).",
+"packs": {
+"olive oil": {
+"n": 4064,
+"curated": true,
+"packs": [
+{
+"g": 500,
+"kind": "ml",
+"label": "16.9 fl oz bottle",
+"share": 1
+},
+{
+"g": 1000,
+"kind": "ml",
+"label": "1 liter bottle",
+"share": 1
+}
+]
+},
+"gruyere": {
+"n": 8069,
+"packs": [
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.09
+},
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.08
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.38
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.1
+}
+]
+},
+"apple": {
+"n": 2578,
+"packs": [
+{
+"g": 1361,
+"kind": "g",
+"label": "3 lb",
+"share": 0.13
+},
+{
+"g": 1893,
+"kind": "ml",
+"label": "half gal",
+"share": 0.08
+}
+]
+},
+"chipotle in adobo": {
+"n": 521,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.09
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.07
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.11
+}
+]
+},
+"ham": {
+"n": 1305,
+"packs": [
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.1
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.15
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.12
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.14
+}
+]
+},
+"lentils": {
+"n": 619,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.19
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.36
+}
+]
+},
+"white rice": {
+"n": 4234,
+"curated": true,
+"packs": [
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb bag",
+"share": 1
+},
+{
+"g": 2268,
+"kind": "g",
+"label": "5 lb bag",
+"share": 1
+}
+]
+},
+"carrots": {
+"n": 1296,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.17
+},
+{
+"g": 411,
+"kind": "g",
+"label": "14.5 oz",
+"share": 0.15
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.18
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.1
+}
+]
+},
+"banana": {
+"n": 914,
+"packs": [
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.08
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.06
+},
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 0.1
+}
+]
+},
+"butter": {
+"n": 1819,
+"curated": true,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "1 lb box (4 sticks)",
+"share": 1
+}
+]
+},
+"french onion soup mix": {
+"n": 400,
+"packs": [
+{
+"g": 21,
+"kind": "g",
+"label": "21 g",
+"share": 0.07
+},
+{
+"g": 25,
+"kind": "g",
+"label": "25 g",
+"share": 0.13
+},
+{
+"g": 28,
+"kind": "g",
+"label": "28 g",
+"share": 0.2
+},
+{
+"g": 78,
+"kind": "g",
+"label": "2.8 oz",
+"share": 0.08
+}
+]
+},
+"salsa": {
+"n": 4161,
+"curated": true,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz jar",
+"share": 1
+}
+]
+},
+"pasta": {
+"n": 2416,
+"curated": true,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "1 lb box",
+"share": 1
+}
+]
+},
+"milk": {
+"n": 9657,
+"curated": true,
+"packs": [
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 1
+},
+{
+"g": 1893,
+"kind": "ml",
+"label": "half gallon",
+"share": 1
+},
+{
+"g": 3785,
+"kind": "ml",
+"label": "1 gallon",
+"share": 1
+}
+]
+},
+"crushed tomatoes": {
+"n": 556,
+"curated": true,
+"packs": [
+{
+"g": 794,
+"kind": "g",
+"label": "28 oz can",
+"share": 1
+}
+]
+},
+"yogurt": {
+"n": 4854,
+"curated": true,
+"packs": [
+{
+"g": 907,
+"kind": "g",
+"label": "32 oz tub",
+"share": 1
+}
+]
+},
+"vanilla beans": {
+"n": 612,
+"packs": [
+{
+"g": 150,
+"kind": "g",
+"label": "5.3 oz",
+"share": 0.09
+},
+{
+"g": 325,
+"kind": "ml",
+"label": "11 fl oz",
+"share": 0.09
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.09
+},
+{
+"g": 3899,
+"kind": "ml",
+"label": "1 gal",
+"share": 0.08
+}
+]
+},
+"tartar sauce": {
+"n": 503,
+"packs": [
+{
+"g": 237,
+"kind": "ml",
+"label": "8 fl oz",
+"share": 0.07
+},
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.18
+}
+]
+},
+"strawberries": {
+"n": 5488,
+"packs": [
+{
+"g": 150,
+"kind": "g",
+"label": "5.3 oz",
+"share": 0.07
+},
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.07
+}
+]
+},
+"pine nuts": {
+"n": 269,
+"packs": [
+{
+"g": 57,
+"kind": "g",
+"label": "2 oz",
+"share": 0.09
+},
+{
+"g": 64,
+"kind": "g",
+"label": "2.3 oz",
+"share": 0.1
+},
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.26
+},
+{
+"g": 142,
+"kind": "g",
+"label": "5 oz",
+"share": 0.09
+}
+]
+},
+"vegetable oil": {
+"n": 2717,
+"curated": true,
+"packs": [
+{
+"g": 1420,
+"kind": "ml",
+"label": "48 fl oz bottle",
+"share": 1
+}
+]
+},
+"spaghetti": {
+"n": 1705,
+"curated": true,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "1 lb box",
+"share": 1
+}
+]
+},
+"cottage cheese": {
+"n": 1937,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.43
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.29
+}
+]
+},
+"chopped chocolate": {
+"n": 17404,
+"packs": [
+{
+"g": 99,
+"kind": "g",
+"label": "3.5 oz",
+"share": 0.06
+}
+]
+},
+"frozen mixed vegetables": {
+"n": 834,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.1
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.13
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.2
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.17
+}
+]
+},
+"broccoli": {
+"n": 1614,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.12
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.28
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.18
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.1
+}
+]
+},
+"shredded cheese": {
+"n": 6636,
+"curated": true,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz bag",
+"share": 1
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz bag",
+"share": 1
+}
+]
+},
+"bacon": {
+"n": 2473,
+"curated": true,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz pack",
+"share": 1
+},
+{
+"g": 454,
+"kind": "g",
+"label": "1 lb pack",
+"share": 1
+}
+]
+},
+"breadcrumbs": {
+"n": 568,
+"curated": true,
+"packs": [
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz canister",
+"share": 1
+}
+]
+},
+"capers": {
+"n": 214,
+"packs": [
+{
+"g": 89,
+"kind": "ml",
+"label": "3 fl oz",
+"share": 0.12
+},
+{
+"g": 99,
+"kind": "g",
+"label": "3.5 oz",
+"share": 0.15
+},
+{
+"g": 104,
+"kind": "ml",
+"label": "3 fl oz",
+"share": 0.12
+},
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 0.09
+}
+]
+},
+"ricotta": {
+"n": 513,
+"packs": [
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.41
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.24
+},
+{
+"g": 1361,
+"kind": "g",
+"label": "3 lb",
+"share": 0.06
+}
+]
+},
+"canned tuna": {
+"n": 1727,
+"packs": [
+{
+"g": 74,
+"kind": "g",
+"label": "2.6 oz",
+"share": 0.12
+},
+{
+"g": 142,
+"kind": "g",
+"label": "5 oz",
+"share": 0.26
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.12
+}
+]
+},
+"whole peeled tomatoes": {
+"n": 553,
+"curated": true,
+"packs": [
+{
+"g": 794,
+"kind": "g",
+"label": "28 oz can",
+"share": 1
+}
+]
+},
+"brown sugar": {
+"n": 927,
+"curated": true,
+"packs": [
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb bag",
+"share": 1
+}
+]
+},
+"egg noodles": {
+"n": 723,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.44
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.37
+}
+]
+},
+"elbow macaroni": {
+"n": 4984,
+"curated": true,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "1 lb box",
+"share": 1
+}
+]
+},
+"peas": {
+"n": 0,
+"curated": true,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz frozen bag",
+"share": 1
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz frozen bag",
+"share": 1
+}
+]
+},
+"cannellini beans": {
+"n": 1415,
+"curated": true,
+"packs": [
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz can",
+"share": 1
+}
+]
+},
+"black beans": {
+"n": 1181,
+"curated": true,
+"packs": [
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz can",
+"share": 1
+}
+]
+},
+"pinto beans": {
+"n": 796,
+"curated": true,
+"packs": [
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz can",
+"share": 1
+}
+]
+},
+"ranch": {
+"n": 5530,
+"packs": [
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.21
+},
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 0.31
+}
+]
+},
+"dinner rolls": {
+"n": 1493,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.16
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.07
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.08
+},
+{
+"g": 510,
+"kind": "g",
+"label": "18 oz",
+"share": 0.06
+}
+]
+},
+"all-purpose flour": {
+"n": 1454,
+"curated": true,
+"packs": [
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb bag",
+"share": 1
+},
+{
+"g": 2268,
+"kind": "g",
+"label": "5 lb bag",
+"share": 1
+}
+]
+},
+"corn": {
+"n": 3153,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.12
+},
+{
+"g": 432,
+"kind": "g",
+"label": "15.2 oz",
+"share": 0.2
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.09
+}
+]
+},
+"tortilla chips": {
+"n": 10211,
+"packs": [
+{
+"g": 142,
+"kind": "g",
+"label": "5 oz",
+"share": 0.06
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.12
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.07
+}
+]
+},
+"tea": {
+"n": 5219,
+"packs": [
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 0.1
+}
+]
+},
+"gnocchi": {
+"n": 227,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.1
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.06
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.35
+},
+{
+"g": 499,
+"kind": "g",
+"label": "17.6 oz",
+"share": 0.26
+}
+]
+},
+"pearl barley": {
+"n": 147,
+"packs": [
+{
+"g": 250,
+"kind": "g",
+"label": "8.8 oz",
+"share": 0.07
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.07
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.33
+}
+]
+},
+"cream cheese": {
+"n": 1663,
+"curated": true,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz block",
+"share": 1
+}
+]
+},
+"hot dogs": {
+"n": 1086,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.08
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.23
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.07
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.14
+}
+]
+},
+"salami": {
+"n": 722,
+"packs": [
+{
+"g": 85,
+"kind": "g",
+"label": "3 oz",
+"share": 0.09
+},
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.16
+},
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.1
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.11
+}
+]
+},
+"turkey breast": {
+"n": 1020,
+"packs": [
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.13
+},
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.13
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.18
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.17
+}
+]
+},
+"prosciutto": {
+"n": 300,
+"packs": [
+{
+"g": 85,
+"kind": "g",
+"label": "3 oz",
+"share": 0.35
+},
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.23
+},
+{
+"g": 142,
+"kind": "g",
+"label": "5 oz",
+"share": 0.06
+}
+]
+},
+"salmon": {
+"n": 2029,
+"packs": [
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.11
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.09
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.1
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.1
+}
+]
+},
+"sunflower seeds": {
+"n": 1194,
+"packs": [
+{
+"g": 255,
+"kind": "g",
+"label": "9 oz",
+"share": 0.07
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.07
+}
+]
+},
+"baking powder": {
+"n": 114,
+"curated": true,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8.1 oz can",
+"share": 1
+}
+]
+},
+"flour tortillas": {
+"n": 1351,
+"curated": true,
+"packs": [
+{
+"g": 450,
+"kind": "g",
+"label": "10-pack (8 inch)",
+"share": 1
+}
+]
+},
+"mozzarella": {
+"n": 2541,
+"curated": true,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz bag",
+"share": 1
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz bag",
+"share": 1
+}
+]
+},
+"penne": {
+"n": 917,
+"curated": true,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "1 lb box",
+"share": 1
+}
+]
+},
+"chocolate chips": {
+"n": 989,
+"curated": true,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz bag",
+"share": 1
+}
+]
+},
+"granulated sugar": {
+"n": 2846,
+"curated": true,
+"packs": [
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb bag",
+"share": 1
+},
+{
+"g": 1814,
+"kind": "g",
+"label": "4 lb bag",
+"share": 1
+}
+]
+},
+"coconut oil": {
+"n": 680,
+"packs": [
+{
+"g": 414,
+"kind": "ml",
+"label": "14 fl oz",
+"share": 0.26
+},
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 0.08
+},
+{
+"g": 858,
+"kind": "ml",
+"label": "29 fl oz",
+"share": 0.08
+}
+]
+},
+"bread": {
+"n": 6691,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.15
+},
+{
+"g": 567,
+"kind": "g",
+"label": "20 oz",
+"share": 0.22
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.2
+}
+]
+},
+"sardines": {
+"n": 289,
+"packs": [
+{
+"g": 57,
+"kind": "g",
+"label": "2 oz",
+"share": 0.09
+},
+{
+"g": 106,
+"kind": "g",
+"label": "3.7 oz",
+"share": 0.28
+},
+{
+"g": 120,
+"kind": "g",
+"label": "4.2 oz",
+"share": 0.14
+},
+{
+"g": 124,
+"kind": "g",
+"label": "4.4 oz",
+"share": 0.21
+}
+]
+},
+"mussels": {
+"n": 386,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.1
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.1
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.18
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.1
+}
+]
+},
+"brown rice": {
+"n": 1027,
+"curated": true,
+"packs": [
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb bag",
+"share": 1
+}
+]
+},
+"snap peas": {
+"n": 390,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.16
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.09
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.2
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.14
+}
+]
+},
+"pineapple": {
+"n": 1971,
+"packs": [
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.07
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.1
+},
+{
+"g": 567,
+"kind": "g",
+"label": "20 oz",
+"share": 0.17
+}
+]
+},
+"crackers": {
+"n": 2421,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.09
+},
+{
+"g": 255,
+"kind": "g",
+"label": "9 oz",
+"share": 0.06
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.14
+}
+]
+},
+"salt": {
+"n": 2331,
+"packs": [
+{
+"g": 737,
+"kind": "g",
+"label": "26 oz",
+"share": 0.07
+}
+]
+},
+"gravy": {
+"n": 819,
+"packs": [
+{
+"g": 25,
+"kind": "g",
+"label": "25 g",
+"share": 0.18
+},
+{
+"g": 298,
+"kind": "g",
+"label": "10.5 oz",
+"share": 0.13
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.28
+}
+]
+},
+"pretzel buns": {
+"n": 1071,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.12
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.09
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.11
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.11
+}
+]
+},
+"tempeh": {
+"n": 40,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.17
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.7
+}
+]
+},
+"tomato paste": {
+"n": 499,
+"curated": true,
+"packs": [
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz can",
+"share": 1
+}
+]
+},
+"frozen waffles": {
+"n": 894,
+"packs": [
+{
+"g": 349,
+"kind": "g",
+"label": "12.3 oz",
+"share": 0.23
+},
+{
+"g": 839,
+"kind": "g",
+"label": "29.6 oz",
+"share": 0.08
+}
+]
+},
+"pepperoni": {
+"n": 599,
+"packs": [
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.1
+},
+{
+"g": 142,
+"kind": "g",
+"label": "5 oz",
+"share": 0.11
+},
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.18
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.07
+}
+]
+},
+"cod": {
+"n": 2184,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.08
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.17
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.13
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.15
+}
+]
+},
+"garlic cloves": {
+"n": 1909,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.08
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.08
+}
+]
+},
+"peanut butter": {
+"n": 2765,
+"curated": true,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz jar",
+"share": 1
+}
+]
+},
+"couscous": {
+"n": 288,
+"packs": [
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.11
+},
+{
+"g": 250,
+"kind": "g",
+"label": "8.8 oz",
+"share": 0.08
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.11
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.09
+}
+]
+},
+"olives": {
+"n": 3637,
+"packs": [
+{
+"g": 163,
+"kind": "g",
+"label": "5.7 oz",
+"share": 0.06
+},
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.13
+},
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.1
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.1
+}
+]
+},
+"cheddar": {
+"n": 7914,
+"curated": true,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz bag / block",
+"share": 1
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz bag",
+"share": 1
+}
+]
+},
+"bratwurst": {
+"n": 1859,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.17
+},
+{
+"g": 368,
+"kind": "g",
+"label": "13 oz",
+"share": 0.07
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.18
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.15
+}
+]
+},
+"wafers": {
+"n": 576,
+"packs": [
+{
+"g": 213,
+"kind": "g",
+"label": "7.5 oz",
+"share": 0.07
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.18
+}
+]
+},
+"italian sausage": {
+"n": 3518,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.18
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.27
+}
+]
+},
+"kidney beans": {
+"n": 1111,
+"curated": true,
+"packs": [
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz can",
+"share": 1
+}
+]
+},
+"deli turkey": {
+"n": 318,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.09
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.12
+},
+{
+"g": 255,
+"kind": "g",
+"label": "9 oz",
+"share": 0.13
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.23
+}
+]
+},
+"semolina": {
+"n": 406,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.67
+},
+{
+"g": 499,
+"kind": "g",
+"label": "17.6 oz",
+"share": 0.12
+}
+]
+},
+"blueberries": {
+"n": 2415,
+"packs": [
+{
+"g": 150,
+"kind": "g",
+"label": "5.3 oz",
+"share": 0.11
+},
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.08
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.07
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.06
+}
+]
+},
+"mayonnaise": {
+"n": 1040,
+"curated": true,
+"packs": [
+{
+"g": 887,
+"kind": "ml",
+"label": "30 fl oz jar",
+"share": 1
+}
+]
+},
+"tomato": {
+"n": 2466,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.1
+},
+{
+"g": 411,
+"kind": "g",
+"label": "14.5 oz",
+"share": 0.37
+},
+{
+"g": 794,
+"kind": "g",
+"label": "28 oz",
+"share": 0.16
+}
+]
+},
+"mac and cheese": {
+"n": 381,
+"packs": [
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.45
+},
+{
+"g": 206,
+"kind": "g",
+"label": "7.2 oz",
+"share": 0.06
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.08
+}
+]
+},
+"rotini": {
+"n": 415,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.32
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.42
+}
+]
+},
+"sour cream": {
+"n": 1316,
+"curated": true,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz tub",
+"share": 1
+}
+]
+},
+"croutons": {
+"n": 372,
+"packs": [
+{
+"g": 128,
+"kind": "g",
+"label": "4.5 oz",
+"share": 0.15
+},
+{
+"g": 142,
+"kind": "g",
+"label": "5 oz",
+"share": 0.59
+}
+]
+},
+"pie filling": {
+"n": 668,
+"packs": [
+{
+"g": 567,
+"kind": "g",
+"label": "20 oz",
+"share": 0.17
+},
+{
+"g": 595,
+"kind": "g",
+"label": "21 oz",
+"share": 0.49
+}
+]
+},
+"tomato sauce": {
+"n": 1765,
+"curated": true,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz can",
+"share": 1
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz can",
+"share": 1
+}
+]
+},
+"beets": {
+"n": 932,
+"packs": [
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.27
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.15
+}
+]
+},
+"sauerkraut": {
+"n": 376,
+"packs": [
+{
+"g": 408,
+"kind": "g",
+"label": "14.4 oz",
+"share": 0.23
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.12
+},
+{
+"g": 765,
+"kind": "g",
+"label": "27 oz",
+"share": 0.08
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.18
+}
+]
+},
+"peach": {
+"n": 2806,
+"packs": [
+{
+"g": 150,
+"kind": "g",
+"label": "5.3 oz",
+"share": 0.07
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.16
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.11
+}
+]
+},
+"cake mix": {
+"n": 2709,
+"packs": [
+{
+"g": 432,
+"kind": "g",
+"label": "15.2 oz",
+"share": 0.11
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.1
+},
+{
+"g": 468,
+"kind": "g",
+"label": "16.5 oz",
+"share": 0.09
+},
+{
+"g": 510,
+"kind": "g",
+"label": "18 oz",
+"share": 0.07
+}
+]
+},
+"coffee": {
+"n": 3619,
+"packs": [
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.09
+},
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 0.14
+}
+]
+},
+"tortellini": {
+"n": 1298,
+"packs": [
+{
+"g": 255,
+"kind": "g",
+"label": "9 oz",
+"share": 0.14
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.09
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.07
+},
+{
+"g": 567,
+"kind": "g",
+"label": "20 oz",
+"share": 0.09
+}
+]
+},
+"cream of mushroom soup": {
+"n": 1222,
+"packs": [
+{
+"g": 298,
+"kind": "g",
+"label": "10.5 oz",
+"share": 0.76
+},
+{
+"g": 737,
+"kind": "g",
+"label": "26 oz",
+"share": 0.14
+}
+]
+},
+"cassava": {
+"n": 100,
+"packs": [
+{
+"g": 400,
+"kind": "g",
+"label": "14.1 oz",
+"share": 0.1
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.17
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.09
+},
+{
+"g": 2268,
+"kind": "g",
+"label": "5 lb",
+"share": 0.12
+}
+]
+},
+"corn tortillas": {
+"n": 430,
+"curated": true,
+"packs": [
+{
+"g": 780,
+"kind": "g",
+"label": "30-pack",
+"share": 1
+}
+]
+},
+"vanilla extract": {
+"n": 5329,
+"curated": true,
+"packs": [
+{
+"g": 59,
+"kind": "ml",
+"label": "2 fl oz bottle",
+"share": 1
+}
+]
+},
+"chorizo": {
+"n": 411,
+"packs": [
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.1
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.08
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.17
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.18
+}
+]
+},
+"farfalle": {
+"n": 145,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.06
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.46
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.31
+}
+]
+},
+"refried beans": {
+"n": 840,
+"curated": true,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz can",
+"share": 1
+}
+]
+},
+"enchilada sauce": {
+"n": 283,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.38
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.11
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.13
+},
+{
+"g": 794,
+"kind": "g",
+"label": "28 oz",
+"share": 0.14
+}
+]
+},
+"hot sauce": {
+"n": 3029,
+"packs": [
+{
+"g": 148,
+"kind": "ml",
+"label": "5 fl oz",
+"share": 0.17
+},
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.13
+}
+]
+},
+"pancake syrup": {
+"n": 1223,
+"packs": [
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.08
+},
+{
+"g": 710,
+"kind": "ml",
+"label": "24 fl oz",
+"share": 0.25
+},
+{
+"g": 3785,
+"kind": "ml",
+"label": "1 gal",
+"share": 0.08
+}
+]
+},
+"baby back ribs": {
+"n": 182,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.2
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.14
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.09
+}
+]
+},
+"water": {
+"n": 2701,
+"packs": [
+{
+"g": 48,
+"kind": "ml",
+"label": "48 ml",
+"share": 0.07
+},
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 0.06
+},
+{
+"g": 500,
+"kind": "ml",
+"label": "17 fl oz",
+"share": 0.15
+},
+{
+"g": 1000,
+"kind": "ml",
+"label": "34 fl oz",
+"share": 0.11
+}
+]
+},
+"greek yogurt": {
+"n": 2324,
+"curated": true,
+"packs": [
+{
+"g": 907,
+"kind": "g",
+"label": "32 oz tub",
+"share": 1
+}
+]
+},
+"breakfast sausage": {
+"n": 573,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.12
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.06
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.33
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.1
+}
+]
+},
+"milk chocolate milk": {
+"n": 688,
+"packs": [
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 0.08
+},
+{
+"g": 1893,
+"kind": "ml",
+"label": "half gal",
+"share": 0.13
+}
+]
+},
+"molasses": {
+"n": 68,
+"packs": [
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.24
+},
+{
+"g": 444,
+"kind": "ml",
+"label": "15 fl oz",
+"share": 0.12
+},
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 0.13
+}
+]
+},
+"almond butter": {
+"n": 1521,
+"packs": [
+{
+"g": 33,
+"kind": "g",
+"label": "1.1 oz",
+"share": 0.07
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.07
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.21
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.3
+}
+]
+},
+"shiitake": {
+"n": 178,
+"packs": [
+{
+"g": 28,
+"kind": "g",
+"label": "28 g",
+"share": 0.13
+},
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.08
+},
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.06
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.1
+}
+]
+},
+"juice": {
+"n": 8009,
+"packs": [
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.07
+},
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 0.07
+},
+{
+"g": 1893,
+"kind": "ml",
+"label": "half gal",
+"share": 0.26
+}
+]
+},
+"mango": {
+"n": 1986,
+"packs": [
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.08
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.07
+}
+]
+},
+"steak": {
+"n": 902,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.08
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.24
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.09
+},
+{
+"g": 794,
+"kind": "g",
+"label": "28 oz",
+"share": 0.08
+}
+]
+},
+"peanuts": {
+"n": 3278,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.08
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.12
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.21
+}
+]
+},
+"bagels": {
+"n": 881,
+"packs": [
+{
+"g": 404,
+"kind": "g",
+"label": "14.3 oz",
+"share": 0.12
+},
+{
+"g": 485,
+"kind": "g",
+"label": "17.1 oz",
+"share": 0.08
+},
+{
+"g": 510,
+"kind": "g",
+"label": "18 oz",
+"share": 0.16
+},
+{
+"g": 567,
+"kind": "g",
+"label": "20 oz",
+"share": 0.17
+}
+]
+},
+"tomato soup": {
+"n": 1253,
+"packs": [
+{
+"g": 400,
+"kind": "g",
+"label": "14.1 oz",
+"share": 0.06
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.11
+},
+{
+"g": 538,
+"kind": "g",
+"label": "19 oz",
+"share": 0.1
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.09
+}
+]
+},
+"iceberg": {
+"n": 668,
+"packs": [
+{
+"g": 142,
+"kind": "g",
+"label": "5 oz",
+"share": 0.09
+},
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.09
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.14
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.07
+}
+]
+},
+"baked beans": {
+"n": 513,
+"packs": [
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.12
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.29
+},
+{
+"g": 794,
+"kind": "g",
+"label": "28 oz",
+"share": 0.39
+}
+]
+},
+"queso fresco": {
+"n": 443,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.11
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.17
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.18
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.08
+}
+]
+},
+"sweet potato fries": {
+"n": 436,
+"packs": [
+{
+"g": 567,
+"kind": "g",
+"label": "20 oz",
+"share": 0.13
+},
+{
+"g": 638,
+"kind": "g",
+"label": "22.5 oz",
+"share": 0.12
+},
+{
+"g": 850,
+"kind": "g",
+"label": "30 oz",
+"share": 0.12
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.18
+}
+]
+},
+"cooked bacon": {
+"n": 161,
+"packs": [
+{
+"g": 57,
+"kind": "g",
+"label": "2 oz",
+"share": 0.08
+},
+{
+"g": 60,
+"kind": "g",
+"label": "2.1 oz",
+"share": 0.14
+},
+{
+"g": 85,
+"kind": "g",
+"label": "3 oz",
+"share": 0.14
+},
+{
+"g": 567,
+"kind": "g",
+"label": "20 oz",
+"share": 0.08
+}
+]
+},
+"mixed nuts": {
+"n": 4279,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.07
+},
+{
+"g": 255,
+"kind": "g",
+"label": "9 oz",
+"share": 0.07
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.1
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.06
+}
+]
+},
+"tofu": {
+"n": 386,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.15
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.07
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.26
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.22
+}
+]
+},
+"mixed berries": {
+"n": 2463,
+"packs": [
+{
+"g": 150,
+"kind": "g",
+"label": "5.3 oz",
+"share": 0.07
+},
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.06
+}
+]
+},
+"goat cheese": {
+"n": 981,
+"packs": [
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.54
+},
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.06
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.1
+}
+]
+},
+"flaxseed": {
+"n": 351,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.14
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.19
+}
+]
+},
+"jam": {
+"n": 992,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.07
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.11
+},
+{
+"g": 510,
+"kind": "g",
+"label": "18 oz",
+"share": 0.18
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.07
+}
+]
+},
+"cranberry sauce": {
+"n": 227,
+"packs": [
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.65
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.09
+}
+]
+},
+"fruit cocktail": {
+"n": 1153,
+"packs": [
+{
+"g": 312,
+"kind": "g",
+"label": "11 oz",
+"share": 0.08
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.28
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.13
+},
+{
+"g": 850,
+"kind": "g",
+"label": "30 oz",
+"share": 0.1
+}
+]
+},
+"pumpkin puree": {
+"n": 919,
+"packs": [
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.18
+},
+{
+"g": 822,
+"kind": "g",
+"label": "29 oz",
+"share": 0.07
+},
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 0.08
+}
+]
+},
+"pear": {
+"n": 1005,
+"packs": [
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.39
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.14
+},
+{
+"g": 822,
+"kind": "g",
+"label": "29 oz",
+"share": 0.09
+}
+]
+},
+"potatoes": {
+"n": 2742,
+"packs": [
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.1
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.13
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.12
+},
+{
+"g": 2268,
+"kind": "g",
+"label": "5 lb",
+"share": 0.11
+}
+]
+},
+"green beans": {
+"n": 2478,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.15
+},
+{
+"g": 411,
+"kind": "g",
+"label": "14.5 oz",
+"share": 0.36
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.12
+}
+]
+},
+"cauliflower": {
+"n": 637,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.09
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.22
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.06
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.19
+}
+]
+},
+"onion": {
+"n": 1084,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.1
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.08
+}
+]
+},
+"prepared horseradish": {
+"n": 443,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.12
+},
+{
+"g": 255,
+"kind": "g",
+"label": "9 oz",
+"share": 0.08
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.14
+}
+]
+},
+"blue cheese": {
+"n": 812,
+"packs": [
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.27
+},
+{
+"g": 142,
+"kind": "g",
+"label": "5 oz",
+"share": 0.1
+},
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.06
+}
+]
+},
+"coconut": {
+"n": 1725,
+"packs": [
+{
+"g": 150,
+"kind": "g",
+"label": "5.3 oz",
+"share": 0.06
+},
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.08
+}
+]
+},
+"alfredo sauce": {
+"n": 1130,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.07
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.16
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.13
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.14
+}
+]
+},
+"sriracha": {
+"n": 565,
+"packs": [
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.07
+}
+]
+},
+"nutella": {
+"n": 164,
+"packs": [
+{
+"g": 368,
+"kind": "g",
+"label": "13 oz",
+"share": 0.47
+},
+{
+"g": 751,
+"kind": "g",
+"label": "26.5 oz",
+"share": 0.18
+}
+]
+},
+"brie": {
+"n": 293,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.13
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.37
+}
+]
+},
+"bell pepper": {
+"n": 1131,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.11
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.1
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.1
+}
+]
+},
+"edamame": {
+"n": 262,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.14
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.24
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.25
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.11
+}
+]
+},
+"quinoa": {
+"n": 813,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.09
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.16
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.23
+}
+]
+},
+"raspberries": {
+"n": 1852,
+"packs": [
+{
+"g": 150,
+"kind": "g",
+"label": "5.3 oz",
+"share": 0.07
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.07
+},
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.09
+},
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 0.08
+}
+]
+},
+"wild rice": {
+"n": 215,
+"packs": [
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.19
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.11
+},
+{
+"g": 250,
+"kind": "g",
+"label": "8.8 oz",
+"share": 0.06
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.24
+}
+]
+},
+"pork shoulder": {
+"n": 115,
+"packs": [
+{
+"g": 326,
+"kind": "g",
+"label": "11.5 oz",
+"share": 0.06
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.19
+},
+{
+"g": 794,
+"kind": "g",
+"label": "28 oz",
+"share": 0.08
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.16
+}
+]
+},
+"plum": {
+"n": 294,
+"packs": [
+{
+"g": 432,
+"kind": "g",
+"label": "15.2 oz",
+"share": 0.27
+},
+{
+"g": 850,
+"kind": "g",
+"label": "30 oz",
+"share": 0.07
+}
+]
+},
+"hearts of palm": {
+"n": 169,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.08
+},
+{
+"g": 400,
+"kind": "g",
+"label": "14.1 oz",
+"share": 0.69
+}
+]
+},
+"spinach": {
+"n": 1646,
+"curated": true,
+"packs": [
+{
+"g": 142,
+"kind": "g",
+"label": "5 oz clamshell",
+"share": 1
+},
+{
+"g": 283,
+"kind": "g",
+"label": "10 oz bag",
+"share": 1
+}
+]
+},
+"cooked beans": {
+"n": 1258,
+"packs": [
+{
+"g": 411,
+"kind": "g",
+"label": "14.5 oz",
+"share": 0.1
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.21
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.24
+}
+]
+},
+"rice flour": {
+"n": 29,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.31
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.17
+}
+]
+},
+"ground beef": {
+"n": 1589,
+"curated": true,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "1 lb pack",
+"share": 1
+}
+]
+},
+"shrimp": {
+"n": 3378,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.11
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.3
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.34
+}
+]
+},
+"pickled jalapenos": {
+"n": 275,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.08
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.31
+},
+{
+"g": 737,
+"kind": "g",
+"label": "26 oz",
+"share": 0.11
+},
+{
+"g": 794,
+"kind": "g",
+"label": "28 oz",
+"share": 0.06
+}
+]
+},
+"tomatillos": {
+"n": 49,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.08
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.16
+},
+{
+"g": 794,
+"kind": "g",
+"label": "28 oz",
+"share": 0.12
+},
+{
+"g": 2780,
+"kind": "g",
+"label": "98.1 oz",
+"share": 0.12
+}
+]
+},
+"soda": {
+"n": 15404,
+"packs": [
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.22
+},
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 0.11
+},
+{
+"g": 1000,
+"kind": "ml",
+"label": "34 fl oz",
+"share": 0.09
+},
+{
+"g": 4259,
+"kind": "ml",
+"label": "144 fl oz",
+"share": 0.09
+}
+]
+},
+"pumpkin seeds": {
+"n": 860,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.07
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.13
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.09
+}
+]
+},
+"crab meat": {
+"n": 766,
+"packs": [
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.1
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.21
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.33
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.08
+}
+]
+},
+"kombu": {
+"n": 29,
+"packs": [
+{
+"g": 50,
+"kind": "g",
+"label": "1.8 oz",
+"share": 0.14
+},
+{
+"g": 57,
+"kind": "g",
+"label": "2 oz",
+"share": 0.34
+}
+]
+},
+"canned green chiles": {
+"n": 159,
+"packs": [
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.52
+},
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.25
+}
+]
+},
+"half and half": {
+"n": 1155,
+"curated": true,
+"packs": [
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 1
+},
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 1
+}
+]
+},
+"sesame seeds": {
+"n": 737,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.06
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.13
+}
+]
+},
+"smoked salmon": {
+"n": 331,
+"packs": [
+{
+"g": 85,
+"kind": "g",
+"label": "3 oz",
+"share": 0.11
+},
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.51
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.11
+}
+]
+},
+"pancetta": {
+"n": 51,
+"packs": [
+{
+"g": 85,
+"kind": "g",
+"label": "3 oz",
+"share": 0.31
+},
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.59
+}
+]
+},
+"heavy cream": {
+"n": 1496,
+"curated": true,
+"packs": [
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 1
+},
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 1
+}
+]
+},
+"rice noodles": {
+"n": 210,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.19
+},
+{
+"g": 250,
+"kind": "g",
+"label": "8.8 oz",
+"share": 0.08
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.18
+}
+]
+},
+"kale": {
+"n": 628,
+"packs": [
+{
+"g": 142,
+"kind": "g",
+"label": "5 oz",
+"share": 0.15
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.11
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.11
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.11
+}
+]
+},
+"mascarpone": {
+"n": 36,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.28
+},
+{
+"g": 250,
+"kind": "g",
+"label": "8.8 oz",
+"share": 0.33
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.25
+}
+]
+},
+"feta": {
+"n": 842,
+"packs": [
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.15
+},
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.21
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.15
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.1
+}
+]
+},
+"pizza sauce": {
+"n": 425,
+"packs": [
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.39
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.11
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.16
+}
+]
+},
+"whipped cream": {
+"n": 442,
+"packs": [
+{
+"g": 184,
+"kind": "g",
+"label": "6.5 oz",
+"share": 0.13
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.35
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.13
+},
+{
+"g": 368,
+"kind": "g",
+"label": "13 oz",
+"share": 0.14
+}
+]
+},
+"parmesan": {
+"n": 1772,
+"curated": true,
+"packs": [
+{
+"g": 142,
+"kind": "g",
+"label": "5 oz wedge / tub",
+"share": 1
+}
+]
+},
+"baguette": {
+"n": 403,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.09
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.19
+},
+{
+"g": 368,
+"kind": "g",
+"label": "13 oz",
+"share": 0.07
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.16
+}
+]
+},
+"chickpeas": {
+"n": 869,
+"curated": true,
+"packs": [
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz can",
+"share": 1
+}
+]
+},
+"graham crackers": {
+"n": 104,
+"packs": [
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.53
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.08
+},
+{
+"g": 255,
+"kind": "g",
+"label": "9 oz",
+"share": 0.09
+}
+]
+},
+"instant mashed potatoes": {
+"n": 91,
+"packs": [
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.15
+},
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.08
+},
+{
+"g": 390,
+"kind": "g",
+"label": "13.7 oz",
+"share": 0.24
+},
+{
+"g": 757,
+"kind": "g",
+"label": "26.7 oz",
+"share": 0.18
+}
+]
+},
+"mashed potatoes": {
+"n": 408,
+"packs": [
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.22
+},
+{
+"g": 187,
+"kind": "g",
+"label": "6.6 oz",
+"share": 0.12
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.12
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.08
+}
+]
+},
+"roasted garlic": {
+"n": 634,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.08
+}
+]
+},
+"gelatin": {
+"n": 417,
+"packs": [
+{
+"g": 12,
+"kind": "g",
+"label": "12 g",
+"share": 0.09
+},
+{
+"g": 85,
+"kind": "g",
+"label": "3 oz",
+"share": 0.28
+},
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.08
+}
+]
+},
+"chili": {
+"n": 1936,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.08
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.17
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.1
+}
+]
+},
+"blackberries": {
+"n": 453,
+"packs": [
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.08
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.1
+},
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.16
+},
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 0.07
+}
+]
+},
+"swiss chard": {
+"n": 400,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.07
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.26
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.29
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.12
+}
+]
+},
+"minced garlic": {
+"n": 306,
+"packs": [
+{
+"g": 128,
+"kind": "g",
+"label": "4.5 oz",
+"share": 0.07
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.27
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.26
+}
+]
+},
+"soba": {
+"n": 103,
+"packs": [
+{
+"g": 205,
+"kind": "g",
+"label": "7.2 oz",
+"share": 0.07
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.21
+},
+{
+"g": 269,
+"kind": "g",
+"label": "9.5 oz",
+"share": 0.15
+},
+{
+"g": 403,
+"kind": "g",
+"label": "14.2 oz",
+"share": 0.14
+}
+]
+},
+"cooked chicken": {
+"n": 231,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.15
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.15
+},
+{
+"g": 349,
+"kind": "g",
+"label": "12.3 oz",
+"share": 0.11
+}
+]
+},
+"instant pudding": {
+"n": 439,
+"packs": [
+{
+"g": 38,
+"kind": "g",
+"label": "1.3 oz",
+"share": 0.07
+},
+{
+"g": 96,
+"kind": "g",
+"label": "3.4 oz",
+"share": 0.37
+},
+{
+"g": 111,
+"kind": "g",
+"label": "3.9 oz",
+"share": 0.09
+},
+{
+"g": 145,
+"kind": "g",
+"label": "5.1 oz",
+"share": 0.08
+}
+]
+},
+"diced tomatoes": {
+"n": 839,
+"curated": true,
+"packs": [
+{
+"g": 411,
+"kind": "g",
+"label": "14.5 oz can",
+"share": 1
+},
+{
+"g": 794,
+"kind": "g",
+"label": "28 oz can",
+"share": 1
+}
+]
+},
+"rolled oats": {
+"n": 414,
+"curated": true,
+"packs": [
+{
+"g": 510,
+"kind": "g",
+"label": "18 oz canister",
+"share": 1
+},
+{
+"g": 1190,
+"kind": "g",
+"label": "42 oz canister",
+"share": 1
+}
+]
+},
+"almonds": {
+"n": 644,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.06
+},
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 0.11
+},
+{
+"g": 1893,
+"kind": "ml",
+"label": "half gal",
+"share": 0.08
+}
+]
+},
+"okra": {
+"n": 260,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.17
+},
+{
+"g": 408,
+"kind": "g",
+"label": "14.4 oz",
+"share": 0.08
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.37
+},
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 0.1
+}
+]
+},
+"vinegar": {
+"n": 1751,
+"packs": [
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 0.18
+},
+{
+"g": 500,
+"kind": "ml",
+"label": "17 fl oz",
+"share": 0.12
+},
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 0.15
+},
+{
+"g": 3785,
+"kind": "ml",
+"label": "1 gal",
+"share": 0.1
+}
+]
+},
+"cabbage": {
+"n": 420,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.07
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.15
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.08
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.16
+}
+]
+},
+"scallops": {
+"n": 294,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.15
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.5
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.13
+}
+]
+},
+"meatballs": {
+"n": 716,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.18
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.07
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.13
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.06
+}
+]
+},
+"sweet chili sauce": {
+"n": 1365,
+"packs": [
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.09
+}
+]
+},
+"jalapeno": {
+"n": 1151,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.07
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.16
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.1
+}
+]
+},
+"artichoke hearts": {
+"n": 458,
+"packs": [
+{
+"g": 184,
+"kind": "g",
+"label": "6.5 oz",
+"share": 0.08
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.13
+},
+{
+"g": 390,
+"kind": "g",
+"label": "13.7 oz",
+"share": 0.1
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.33
+}
+]
+},
+"mushrooms": {
+"n": 1197,
+"packs": [
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.12
+},
+{
+"g": 184,
+"kind": "g",
+"label": "6.5 oz",
+"share": 0.1
+},
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.09
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.1
+}
+]
+},
+"artichokes": {
+"n": 305,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.1
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.15
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.09
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.11
+}
+]
+},
+"english muffins": {
+"n": 710,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.48
+},
+{
+"g": 368,
+"kind": "g",
+"label": "13 oz",
+"share": 0.15
+}
+]
+},
+"chicken breasts": {
+"n": 1534,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.07
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.09
+}
+]
+},
+"eggplant": {
+"n": 174,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.11
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.07
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.09
+},
+{
+"g": 539,
+"kind": "g",
+"label": "19 oz",
+"share": 0.09
+}
+]
+},
+"cooking spray": {
+"n": 259,
+"packs": [
+{
+"g": 142,
+"kind": "g",
+"label": "5 oz",
+"share": 0.29
+},
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.36
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.09
+}
+]
+},
+"millet": {
+"n": 50,
+"packs": [
+{
+"g": 250,
+"kind": "g",
+"label": "8.8 oz",
+"share": 0.18
+},
+{
+"g": 405,
+"kind": "g",
+"label": "14.3 oz",
+"share": 0.14
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.18
+},
+{
+"g": 794,
+"kind": "g",
+"label": "28 oz",
+"share": 0.28
+}
+]
+},
+"stuffing": {
+"n": 222,
+"packs": [
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.24
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.22
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.06
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.1
+}
+]
+},
+"papaya": {
+"n": 67,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.07
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.16
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.07
+},
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 0.07
+}
+]
+},
+"asparagus": {
+"n": 455,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.15
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.14
+},
+{
+"g": 411,
+"kind": "g",
+"label": "14.5 oz",
+"share": 0.15
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.13
+}
+]
+},
+"sun-dried tomatoes": {
+"n": 528,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.07
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.07
+},
+{
+"g": 241,
+"kind": "g",
+"label": "8.5 oz",
+"share": 0.06
+}
+]
+},
+"hamburger buns": {
+"n": 1710,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.16
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.09
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.08
+},
+{
+"g": 517,
+"kind": "g",
+"label": "18.2 oz",
+"share": 0.08
+}
+]
+},
+"eggs": {
+"n": 1476,
+"packs": [
+{
+"g": 264,
+"kind": "g",
+"label": "9.3 oz",
+"share": 0.09
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.11
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.13
+},
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 0.07
+}
+]
+},
+"pita": {
+"n": 243,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.1
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.11
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.33
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.09
+}
+]
+},
+"dried mushrooms": {
+"n": 82,
+"packs": [
+{
+"g": 14,
+"kind": "g",
+"label": "14 g",
+"share": 0.32
+},
+{
+"g": 28,
+"kind": "g",
+"label": "28 g",
+"share": 0.61
+}
+]
+},
+"ramen noodles": {
+"n": 162,
+"packs": [
+{
+"g": 64,
+"kind": "g",
+"label": "2.3 oz",
+"share": 0.2
+},
+{
+"g": 85,
+"kind": "g",
+"label": "3 oz",
+"share": 0.12
+},
+{
+"g": 94,
+"kind": "g",
+"label": "3.3 oz",
+"share": 0.1
+}
+]
+},
+"pie crust": {
+"n": 223,
+"packs": [
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.25
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.1
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.26
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.11
+}
+]
+},
+"chicken broth": {
+"n": 135,
+"curated": true,
+"packs": [
+{
+"g": 946,
+"kind": "ml",
+"label": "32 oz carton",
+"share": 1
+},
+{
+"g": 411,
+"kind": "g",
+"label": "14.5 oz can",
+"share": 1
+}
+]
+},
+"short ribs": {
+"n": 27,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.33
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.15
+}
+]
+},
+"balsamic vinegar": {
+"n": 1172,
+"packs": [
+{
+"g": 250,
+"kind": "ml",
+"label": "8 fl oz",
+"share": 0.39
+},
+{
+"g": 500,
+"kind": "ml",
+"label": "17 fl oz",
+"share": 0.21
+}
+]
+},
+"fresh mozzarella": {
+"n": 343,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.06
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.46
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.08
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.19
+}
+]
+},
+"wine": {
+"n": 668,
+"packs": [
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.07
+},
+{
+"g": 376,
+"kind": "ml",
+"label": "13 fl oz",
+"share": 0.11
+},
+{
+"g": 500,
+"kind": "ml",
+"label": "17 fl oz",
+"share": 0.07
+}
+]
+},
+"cocoa powder": {
+"n": 944,
+"curated": true,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz can",
+"share": 1
+}
+]
+},
+"cherry tomatoes": {
+"n": 118,
+"packs": [
+{
+"g": 200,
+"kind": "g",
+"label": "7.1 oz",
+"share": 0.1
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.08
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.16
+},
+{
+"g": 624,
+"kind": "g",
+"label": "22 oz",
+"share": 0.08
+}
+]
+},
+"lime": {
+"n": 654,
+"packs": [
+{
+"g": 150,
+"kind": "g",
+"label": "5.3 oz",
+"share": 0.09
+},
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.06
+},
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.11
+},
+{
+"g": 1000,
+"kind": "ml",
+"label": "34 fl oz",
+"share": 0.1
+}
+]
+},
+"coconut milk": {
+"n": 739,
+"curated": true,
+"packs": [
+{
+"g": 400,
+"kind": "g",
+"label": "13.5 oz can",
+"share": 1
+}
+]
+},
+"squid": {
+"n": 218,
+"packs": [
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.27
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.31
+}
+]
+},
+"tapioca flour": {
+"n": 36,
+"packs": [
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.11
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.36
+},
+{
+"g": 567,
+"kind": "g",
+"label": "20 oz",
+"share": 0.17
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.17
+}
+]
+},
+"sprinkles": {
+"n": 72,
+"packs": [
+{
+"g": 89,
+"kind": "ml",
+"label": "3 fl oz",
+"share": 0.1
+},
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.15
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.08
+}
+]
+},
+"chia seeds": {
+"n": 595,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.07
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.15
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.11
+}
+]
+},
+"split peas": {
+"n": 154,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.82
+}
+]
+},
+"instant rice": {
+"n": 107,
+"packs": [
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.39
+},
+{
+"g": 794,
+"kind": "g",
+"label": "28 oz",
+"share": 0.24
+},
+{
+"g": 1191,
+"kind": "g",
+"label": "42 oz",
+"share": 0.13
+}
+]
+},
+"roasted red peppers": {
+"n": 459,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.25
+},
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.07
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.08
+}
+]
+},
+"hemp seeds": {
+"n": 178,
+"packs": [
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.1
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.39
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.16
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.06
+}
+]
+},
+"arborio rice": {
+"n": 126,
+"curated": true,
+"packs": [
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb box",
+"share": 1
+}
+]
+},
+"chili beans": {
+"n": 231,
+"packs": [
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.28
+},
+{
+"g": 439,
+"kind": "g",
+"label": "15.5 oz",
+"share": 0.47
+},
+{
+"g": 850,
+"kind": "g",
+"label": "30 oz",
+"share": 0.08
+},
+{
+"g": 1134,
+"kind": "g",
+"label": "2.5 lb",
+"share": 0.06
+}
+]
+},
+"tea bags": {
+"n": 591,
+"packs": [
+{
+"g": 36,
+"kind": "g",
+"label": "1.3 oz",
+"share": 0.07
+},
+{
+"g": 48,
+"kind": "g",
+"label": "1.7 oz",
+"share": 0.06
+},
+{
+"g": 60,
+"kind": "g",
+"label": "2.1 oz",
+"share": 0.12
+}
+]
+},
+"bean dip": {
+"n": 117,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.08
+},
+{
+"g": 255,
+"kind": "g",
+"label": "9 oz",
+"share": 0.21
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.07
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.21
+}
+]
+},
+"apple butter": {
+"n": 147,
+"packs": [
+{
+"g": 354,
+"kind": "g",
+"label": "12.5 oz",
+"share": 0.1
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.09
+},
+{
+"g": 482,
+"kind": "g",
+"label": "17 oz",
+"share": 0.08
+},
+{
+"g": 794,
+"kind": "g",
+"label": "28 oz",
+"share": 0.1
+}
+]
+},
+"tahini": {
+"n": 96,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.07
+},
+{
+"g": 300,
+"kind": "g",
+"label": "10.6 oz",
+"share": 0.07
+},
+{
+"g": 326,
+"kind": "g",
+"label": "11.5 oz",
+"share": 0.1
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.41
+}
+]
+},
+"liver": {
+"n": 104,
+"packs": [
+{
+"g": 142,
+"kind": "g",
+"label": "5 oz",
+"share": 0.1
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.15
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.1
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.12
+}
+]
+},
+"oreos": {
+"n": 24,
+"packs": [
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.25
+}
+]
+},
+"orzo": {
+"n": 69,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.26
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.51
+}
+]
+},
+"sweet potatoes": {
+"n": 779,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.07
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.11
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.08
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.11
+}
+]
+},
+"tortilla strips": {
+"n": 305,
+"packs": [
+{
+"g": 79,
+"kind": "g",
+"label": "2.8 oz",
+"share": 0.1
+},
+{
+"g": 99,
+"kind": "g",
+"label": "3.5 oz",
+"share": 0.14
+},
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.19
+},
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.35
+}
+]
+},
+"seitan": {
+"n": 44,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.77
+}
+]
+},
+"granola": {
+"n": 272,
+"packs": [
+{
+"g": 176,
+"kind": "g",
+"label": "6.2 oz",
+"share": 0.07
+},
+{
+"g": 193,
+"kind": "g",
+"label": "6.8 oz",
+"share": 0.12
+},
+{
+"g": 210,
+"kind": "g",
+"label": "7.4 oz",
+"share": 0.08
+},
+{
+"g": 252,
+"kind": "g",
+"label": "8.9 oz",
+"share": 0.12
+}
+]
+},
+"kimchi": {
+"n": 109,
+"packs": [
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.16
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.07
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.3
+},
+{
+"g": 510,
+"kind": "g",
+"label": "18 oz",
+"share": 0.12
+}
+]
+},
+"cucumber": {
+"n": 379,
+"packs": [
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.13
+},
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 0.11
+},
+{
+"g": 652,
+"kind": "g",
+"label": "23 oz",
+"share": 0.06
+}
+]
+},
+"tomato puree": {
+"n": 223,
+"packs": [
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.07
+},
+{
+"g": 794,
+"kind": "g",
+"label": "28 oz",
+"share": 0.25
+},
+{
+"g": 822,
+"kind": "g",
+"label": "29 oz",
+"share": 0.47
+},
+{
+"g": 3005,
+"kind": "g",
+"label": "106 oz",
+"share": 0.08
+}
+]
+},
+"whole wheat flour": {
+"n": 149,
+"curated": true,
+"packs": [
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb bag",
+"share": 1
+},
+{
+"g": 2268,
+"kind": "g",
+"label": "5 lb bag",
+"share": 1
+}
+]
+},
+"powdered milk": {
+"n": 191,
+"packs": [
+{
+"g": 272,
+"kind": "g",
+"label": "9.6 oz",
+"share": 0.17
+},
+{
+"g": 726,
+"kind": "g",
+"label": "25.6 oz",
+"share": 0.18
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.13
+},
+{
+"g": 1814,
+"kind": "g",
+"label": "4 lb",
+"share": 0.1
+}
+]
+},
+"powdered sugar": {
+"n": 148,
+"curated": true,
+"packs": [
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb bag",
+"share": 1
+}
+]
+},
+"water chestnuts": {
+"n": 116,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.86
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.07
+}
+]
+},
+"bean sprouts": {
+"n": 72,
+"packs": [
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.25
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.22
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.18
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.14
+}
+]
+},
+"bamboo shoots": {
+"n": 61,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.62
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.08
+},
+{
+"g": 539,
+"kind": "g",
+"label": "19 oz",
+"share": 0.07
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.07
+}
+]
+},
+"soy sauce": {
+"n": 588,
+"curated": true,
+"packs": [
+{
+"g": 296,
+"kind": "ml",
+"label": "10 fl oz bottle",
+"share": 1
+}
+]
+},
+"hard cider": {
+"n": 851,
+"packs": [
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 0.08
+},
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 0.08
+},
+{
+"g": 1893,
+"kind": "ml",
+"label": "half gal",
+"share": 0.35
+},
+{
+"g": 3785,
+"kind": "ml",
+"label": "1 gal",
+"share": 0.16
+}
+]
+},
+"tostadas": {
+"n": 85,
+"packs": [
+{
+"g": 250,
+"kind": "g",
+"label": "8.8 oz",
+"share": 0.11
+},
+{
+"g": 351,
+"kind": "g",
+"label": "12.4 oz",
+"share": 0.09
+},
+{
+"g": 363,
+"kind": "g",
+"label": "12.8 oz",
+"share": 0.09
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.11
+}
+]
+},
+"cranberries": {
+"n": 1227,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.09
+},
+{
+"g": 1893,
+"kind": "ml",
+"label": "half gal",
+"share": 0.31
+}
+]
+},
+"black-eyed peas": {
+"n": 111,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.07
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.12
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.63
+}
+]
+},
+"marinara": {
+"n": 237,
+"curated": true,
+"packs": [
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz jar",
+"share": 1
+}
+]
+},
+"coconut sugar": {
+"n": 123,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.61
+}
+]
+},
+"cantaloupe": {
+"n": 168,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.09
+},
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 0.07
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.08
+}
+]
+},
+"seaweed": {
+"n": 79,
+"packs": [
+{
+"g": 15,
+"kind": "g",
+"label": "15 g",
+"share": 0.06
+},
+{
+"g": 25,
+"kind": "g",
+"label": "25 g",
+"share": 0.32
+},
+{
+"g": 28,
+"kind": "g",
+"label": "28 g",
+"share": 0.09
+}
+]
+},
+"coconut flour": {
+"n": 80,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.85
+},
+{
+"g": 1021,
+"kind": "g",
+"label": "36 oz",
+"share": 0.06
+}
+]
+},
+"roma tomatoes": {
+"n": 103,
+"packs": [
+{
+"g": 400,
+"kind": "g",
+"label": "14.1 oz",
+"share": 0.26
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.08
+},
+{
+"g": 794,
+"kind": "g",
+"label": "28 oz",
+"share": 0.4
+}
+]
+},
+"sesame oil": {
+"n": 192,
+"packs": [
+{
+"g": 148,
+"kind": "ml",
+"label": "5 fl oz",
+"share": 0.12
+},
+{
+"g": 185,
+"kind": "ml",
+"label": "6 fl oz",
+"share": 0.09
+},
+{
+"g": 250,
+"kind": "ml",
+"label": "8 fl oz",
+"share": 0.16
+},
+{
+"g": 500,
+"kind": "ml",
+"label": "17 fl oz",
+"share": 0.08
+}
+]
+},
+"panko": {
+"n": 267,
+"curated": true,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz box",
+"share": 1
+}
+]
+},
+"pizza dough": {
+"n": 90,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.5
+},
+{
+"g": 510,
+"kind": "g",
+"label": "18 oz",
+"share": 0.07
+},
+{
+"g": 567,
+"kind": "g",
+"label": "20 oz",
+"share": 0.1
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.08
+}
+]
+},
+"fish sticks": {
+"n": 191,
+"packs": [
+{
+"g": 289,
+"kind": "g",
+"label": "10.2 oz",
+"share": 0.08
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.11
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.19
+}
+]
+},
+"cornmeal": {
+"n": 23,
+"packs": [
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.22
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.22
+}
+]
+},
+"cashews": {
+"n": 140,
+"packs": [
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.11
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.07
+},
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 0.07
+},
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 0.12
+}
+]
+},
+"puff pastry": {
+"n": 100,
+"packs": [
+{
+"g": 100,
+"kind": "g",
+"label": "3.5 oz",
+"share": 0.08
+},
+{
+"g": 125,
+"kind": "g",
+"label": "4.4 oz",
+"share": 0.08
+},
+{
+"g": 361,
+"kind": "g",
+"label": "12.7 oz",
+"share": 0.07
+},
+{
+"g": 490,
+"kind": "g",
+"label": "17.3 oz",
+"share": 0.24
+}
+]
+},
+"butternut squash": {
+"n": 551,
+"packs": [
+{
+"g": 255,
+"kind": "g",
+"label": "9 oz",
+"share": 0.07
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.13
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.22
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.11
+}
+]
+},
+"chicken tenders": {
+"n": 104,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.14
+},
+{
+"g": 567,
+"kind": "g",
+"label": "20 oz",
+"share": 0.12
+},
+{
+"g": 709,
+"kind": "g",
+"label": "25 oz",
+"share": 0.09
+},
+{
+"g": 1134,
+"kind": "g",
+"label": "2.5 lb",
+"share": 0.11
+}
+]
+},
+"portobello": {
+"n": 120,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.28
+},
+{
+"g": 255,
+"kind": "g",
+"label": "9 oz",
+"share": 0.09
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.15
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.07
+}
+]
+},
+"naan": {
+"n": 92,
+"packs": [
+{
+"g": 200,
+"kind": "g",
+"label": "7.1 oz",
+"share": 0.11
+},
+{
+"g": 250,
+"kind": "g",
+"label": "8.8 oz",
+"share": 0.15
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.13
+},
+{
+"g": 499,
+"kind": "g",
+"label": "17.6 oz",
+"share": 0.09
+}
+]
+},
+"ground chicken": {
+"n": 487,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.75
+},
+{
+"g": 1361,
+"kind": "g",
+"label": "3 lb",
+"share": 0.12
+}
+]
+},
+"american cheese": {
+"n": 805,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.09
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.3
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.12
+},
+{
+"g": 2268,
+"kind": "g",
+"label": "5 lb",
+"share": 0.12
+}
+]
+},
+"canned clams": {
+"n": 34,
+"packs": [
+{
+"g": 184,
+"kind": "g",
+"label": "6.5 oz",
+"share": 0.94
+}
+]
+},
+"dates": {
+"n": 64,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.11
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.33
+},
+{
+"g": 350,
+"kind": "g",
+"label": "12.3 oz",
+"share": 0.08
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.2
+}
+]
+},
+"liquid egg whites": {
+"n": 314,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.51
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.45
+}
+]
+},
+"macadamia nuts": {
+"n": 402,
+"packs": [
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.07
+},
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.1
+},
+{
+"g": 184,
+"kind": "g",
+"label": "6.5 oz",
+"share": 0.07
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.1
+}
+]
+},
+"radishes": {
+"n": 46,
+"packs": [
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.13
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.26
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.15
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.09
+}
+]
+},
+"serrano": {
+"n": 69,
+"packs": [
+{
+"g": 85,
+"kind": "g",
+"label": "3 oz",
+"share": 0.17
+},
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.12
+},
+{
+"g": 278,
+"kind": "g",
+"label": "9.8 oz",
+"share": 0.1
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.12
+}
+]
+},
+"pineapple juice": {
+"n": 366,
+"packs": [
+{
+"g": 1893,
+"kind": "ml",
+"label": "half gal",
+"share": 0.21
+}
+]
+},
+"zucchini": {
+"n": 302,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.09
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.26
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.16
+}
+]
+},
+"arugula": {
+"n": 730,
+"packs": [
+{
+"g": 142,
+"kind": "g",
+"label": "5 oz",
+"share": 0.39
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.08
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.16
+}
+]
+},
+"farro": {
+"n": 82,
+"packs": [
+{
+"g": 250,
+"kind": "g",
+"label": "8.8 oz",
+"share": 0.07
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.18
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.22
+},
+{
+"g": 499,
+"kind": "g",
+"label": "17.6 oz",
+"share": 0.13
+}
+]
+},
+"pastry flour": {
+"n": 32,
+"packs": [
+{
+"g": 567,
+"kind": "g",
+"label": "20 oz",
+"share": 0.12
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.12
+},
+{
+"g": 2268,
+"kind": "g",
+"label": "5 lb",
+"share": 0.56
+}
+]
+},
+"maraschino cherries": {
+"n": 18,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.44
+}
+]
+},
+"rhubarb": {
+"n": 24,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.33
+}
+]
+},
+"molasses pomegranate": {
+"n": 129,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.13
+},
+{
+"g": 349,
+"kind": "g",
+"label": "12.3 oz",
+"share": 0.06
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.12
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.09
+}
+]
+},
+"coconut cream": {
+"n": 179,
+"packs": [
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.08
+},
+{
+"g": 399,
+"kind": "ml",
+"label": "13 fl oz",
+"share": 0.08
+},
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.1
+}
+]
+},
+"habanero": {
+"n": 172,
+"packs": [
+{
+"g": 148,
+"kind": "ml",
+"label": "5 fl oz",
+"share": 0.22
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.11
+}
+]
+},
+"almond milk": {
+"n": 573,
+"packs": [
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 0.11
+},
+{
+"g": 1893,
+"kind": "ml",
+"label": "half gal",
+"share": 0.08
+}
+]
+},
+"cocoa nibs": {
+"n": 53,
+"packs": [
+{
+"g": 57,
+"kind": "g",
+"label": "2 oz",
+"share": 0.09
+},
+{
+"g": 60,
+"kind": "g",
+"label": "2.1 oz",
+"share": 0.09
+},
+{
+"g": 79,
+"kind": "g",
+"label": "2.8 oz",
+"share": 0.09
+},
+{
+"g": 85,
+"kind": "g",
+"label": "3 oz",
+"share": 0.17
+}
+]
+},
+"cooked ground beef": {
+"n": 223,
+"packs": [
+{
+"g": 272,
+"kind": "g",
+"label": "9.6 oz",
+"share": 0.09
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.16
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.07
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.07
+}
+]
+},
+"baking soda": {
+"n": 148,
+"curated": true,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "1 lb box",
+"share": 1
+}
+]
+},
+"cilantro": {
+"n": 176,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.07
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.08
+},
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.09
+}
+]
+},
+"light cream": {
+"n": 212,
+"packs": [
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 0.19
+},
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 0.2
+}
+]
+},
+"romaine": {
+"n": 665,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.08
+},
+{
+"g": 255,
+"kind": "g",
+"label": "9 oz",
+"share": 0.1
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.11
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.08
+}
+]
+},
+"chives": {
+"n": 46,
+"packs": [
+{
+"g": 10,
+"kind": "g",
+"label": "10 g",
+"share": 0.09
+},
+{
+"g": 142,
+"kind": "g",
+"label": "5 oz",
+"share": 0.11
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.26
+},
+{
+"g": 303,
+"kind": "g",
+"label": "10.7 oz",
+"share": 0.09
+}
+]
+},
+"mini marshmallows": {
+"n": 73,
+"packs": [
+{
+"g": 48,
+"kind": "g",
+"label": "1.7 oz",
+"share": 0.08
+},
+{
+"g": 51,
+"kind": "g",
+"label": "1.8 oz",
+"share": 0.1
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.19
+},
+{
+"g": 567,
+"kind": "g",
+"label": "20 oz",
+"share": 0.14
+}
+]
+},
+"kosher salt": {
+"n": 120,
+"packs": [
+{
+"g": 255,
+"kind": "g",
+"label": "9 oz",
+"share": 0.07
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.23
+},
+{
+"g": 499,
+"kind": "g",
+"label": "17.6 oz",
+"share": 0.08
+},
+{
+"g": 1361,
+"kind": "g",
+"label": "3 lb",
+"share": 0.16
+}
+]
+},
+"brussels sprouts": {
+"n": 646,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.16
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.26
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.17
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.09
+}
+]
+},
+"mini peppers": {
+"n": 23,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.3
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.17
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.3
+}
+]
+},
+"peanut butter cups": {
+"n": 154,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.08
+}
+]
+},
+"rye flour": {
+"n": 19,
+"packs": [
+{
+"g": 567,
+"kind": "g",
+"label": "20 oz",
+"share": 0.37
+},
+{
+"g": 624,
+"kind": "g",
+"label": "22 oz",
+"share": 0.21
+}
+]
+},
+"active dry yeast": {
+"n": 68,
+"curated": true,
+"packs": [
+{
+"g": 7,
+"kind": "g",
+"label": "packet (strip of 3)",
+"share": 1
+}
+]
+},
+"dried cranberries": {
+"n": 84,
+"packs": [
+{
+"g": 85,
+"kind": "g",
+"label": "3 oz",
+"share": 0.23
+},
+{
+"g": 99,
+"kind": "g",
+"label": "3.5 oz",
+"share": 0.07
+},
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.11
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.11
+}
+]
+},
+"walnuts": {
+"n": 119,
+"packs": [
+{
+"g": 250,
+"kind": "ml",
+"label": "8 fl oz",
+"share": 0.15
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.08
+}
+]
+},
+"orange juice": {
+"n": 1583,
+"packs": [
+{
+"g": 1538,
+"kind": "ml",
+"label": "52 fl oz",
+"share": 0.18
+},
+{
+"g": 1745,
+"kind": "ml",
+"label": "59 fl oz",
+"share": 0.22
+},
+{
+"g": 1893,
+"kind": "ml",
+"label": "half gal",
+"share": 0.12
+},
+{
+"g": 3785,
+"kind": "ml",
+"label": "1 gal",
+"share": 0.11
+}
+]
+},
+"ground coffee": {
+"n": 157,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.44
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.17
+}
+]
+},
+"pecans": {
+"n": 215,
+"packs": [
+{
+"g": 99,
+"kind": "g",
+"label": "3.5 oz",
+"share": 0.07
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.07
+},
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 0.07
+}
+]
+},
+"hot dog buns": {
+"n": 740,
+"packs": [
+{
+"g": 312,
+"kind": "g",
+"label": "11 oz",
+"share": 0.12
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.21
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.15
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.09
+}
+]
+},
+"lime juice": {
+"n": 181,
+"packs": [
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.12
+},
+{
+"g": 444,
+"kind": "ml",
+"label": "15 fl oz",
+"share": 0.12
+},
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 0.17
+}
+]
+},
+"pink salt": {
+"n": 257,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.09
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.09
+}
+]
+},
+"chicken thighs": {
+"n": 95,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.22
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.09
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.13
+},
+{
+"g": 1361,
+"kind": "g",
+"label": "3 lb",
+"share": 0.08
+}
+]
+},
+"ground sausage": {
+"n": 58,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.12
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.17
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.67
+}
+]
+},
+"bread flour": {
+"n": 68,
+"curated": true,
+"packs": [
+{
+"g": 2268,
+"kind": "g",
+"label": "5 lb bag",
+"share": 1
+}
+]
+},
+"poppy seeds": {
+"n": 154,
+"packs": [
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.12
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.1
+},
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 0.12
+}
+]
+},
+"chuck roast": {
+"n": 232,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.07
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.17
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.11
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.13
+}
+]
+},
+"ground pork": {
+"n": 168,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.1
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.09
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.65
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.07
+}
+]
+},
+"brazil nuts": {
+"n": 194,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.11
+},
+{
+"g": 255,
+"kind": "g",
+"label": "9 oz",
+"share": 0.13
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.12
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.11
+}
+]
+},
+"crescent rolls": {
+"n": 159,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.77
+},
+{
+"g": 319,
+"kind": "g",
+"label": "11.2 oz",
+"share": 0.06
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.11
+}
+]
+},
+"self-rising flour": {
+"n": 106,
+"curated": true,
+"packs": [
+{
+"g": 2268,
+"kind": "g",
+"label": "5 lb bag",
+"share": 1
+}
+]
+},
+"cream cheese frosting": {
+"n": 112,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.08
+},
+{
+"g": 251,
+"kind": "ml",
+"label": "9 fl oz",
+"share": 0.17
+},
+{
+"g": 368,
+"kind": "g",
+"label": "13 oz",
+"share": 0.07
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.1
+}
+]
+},
+"tuna steaks": {
+"n": 153,
+"packs": [
+{
+"g": 142,
+"kind": "g",
+"label": "5 oz",
+"share": 0.11
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.14
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.22
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.24
+}
+]
+},
+"buttermilk": {
+"n": 655,
+"curated": true,
+"packs": [
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 1
+}
+]
+},
+"creamed corn": {
+"n": 82,
+"packs": [
+{
+"g": 234,
+"kind": "g",
+"label": "8.3 oz",
+"share": 0.2
+},
+{
+"g": 404,
+"kind": "g",
+"label": "14.3 oz",
+"share": 0.1
+},
+{
+"g": 418,
+"kind": "g",
+"label": "14.8 oz",
+"share": 0.52
+},
+{
+"g": 567,
+"kind": "g",
+"label": "20 oz",
+"share": 0.09
+}
+]
+},
+"lobster": {
+"n": 152,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.11
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.2
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.08
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.11
+}
+]
+},
+"broccolini": {
+"n": 41,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.15
+},
+{
+"g": 306,
+"kind": "g",
+"label": "10.8 oz",
+"share": 0.12
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.15
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.15
+}
+]
+},
+"baking spray": {
+"n": 15,
+"packs": [
+{
+"g": 142,
+"kind": "g",
+"label": "5 oz",
+"share": 0.8
+}
+]
+},
+"plant-based ground": {
+"n": 96,
+"packs": [
+{
+"g": 95,
+"kind": "g",
+"label": "3.4 oz",
+"share": 0.09
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.1
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.33
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.27
+}
+]
+},
+"anchovy paste": {
+"n": 15,
+"packs": [
+{
+"g": 45,
+"kind": "g",
+"label": "1.6 oz",
+"share": 0.27
+},
+{
+"g": 57,
+"kind": "g",
+"label": "2 oz",
+"share": 0.27
+},
+{
+"g": 60,
+"kind": "g",
+"label": "2.1 oz",
+"share": 0.27
+}
+]
+},
+"canned pumpkin pie filling": {
+"n": 15,
+"packs": [
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.4
+},
+{
+"g": 850,
+"kind": "g",
+"label": "30 oz",
+"share": 0.4
+}
+]
+},
+"taco shells": {
+"n": 156,
+"packs": [
+{
+"g": 128,
+"kind": "g",
+"label": "4.5 oz",
+"share": 0.1
+},
+{
+"g": 130,
+"kind": "g",
+"label": "4.6 oz",
+"share": 0.1
+},
+{
+"g": 139,
+"kind": "g",
+"label": "4.9 oz",
+"share": 0.15
+},
+{
+"g": 156,
+"kind": "g",
+"label": "5.5 oz",
+"share": 0.24
+}
+]
+},
+"figs": {
+"n": 85,
+"packs": [
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.11
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.09
+},
+{
+"g": 250,
+"kind": "ml",
+"label": "8 fl oz",
+"share": 0.11
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.08
+}
+]
+},
+"napa cabbage": {
+"n": 53,
+"packs": [
+{
+"g": 298,
+"kind": "g",
+"label": "10.5 oz",
+"share": 0.09
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.09
+},
+{
+"g": 368,
+"kind": "g",
+"label": "13 oz",
+"share": 0.11
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.4
+}
+]
+},
+"egg roll wrappers": {
+"n": 12,
+"packs": [
+{
+"g": 510,
+"kind": "g",
+"label": "18 oz",
+"share": 0.42
+}
+]
+},
+"poblano": {
+"n": 43,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.09
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.28
+}
+]
+},
+"egg whites": {
+"n": 132,
+"packs": [
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.11
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.18
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.13
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.17
+}
+]
+},
+"coconut water": {
+"n": 1243,
+"packs": [
+{
+"g": 330,
+"kind": "ml",
+"label": "11 fl oz",
+"share": 0.13
+},
+{
+"g": 500,
+"kind": "ml",
+"label": "17 fl oz",
+"share": 0.22
+},
+{
+"g": 518,
+"kind": "ml",
+"label": "17 fl oz",
+"share": 0.09
+},
+{
+"g": 1000,
+"kind": "ml",
+"label": "34 fl oz",
+"share": 0.15
+}
+]
+},
+"pectin": {
+"n": 14,
+"packs": [
+{
+"g": 45,
+"kind": "g",
+"label": "1.6 oz",
+"share": 0.29
+},
+{
+"g": 177,
+"kind": "ml",
+"label": "6 fl oz",
+"share": 0.29
+}
+]
+},
+"evaporated coconut milk": {
+"n": 23,
+"packs": [
+{
+"g": 50,
+"kind": "g",
+"label": "1.8 oz",
+"share": 0.26
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.26
+}
+]
+},
+"hummus": {
+"n": 56,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.14
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.12
+},
+{
+"g": 285,
+"kind": "g",
+"label": "10.1 oz",
+"share": 0.11
+},
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.12
+}
+]
+},
+"cornstarch": {
+"n": 17,
+"curated": true,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz box",
+"share": 1
+}
+]
+},
+"whole chicken": {
+"n": 15,
+"packs": [
+{
+"g": 1588,
+"kind": "g",
+"label": "3.5 lb",
+"share": 0.4
+}
+]
+},
+"lemon juice": {
+"n": 351,
+"packs": [
+{
+"g": 444,
+"kind": "ml",
+"label": "15 fl oz",
+"share": 0.1
+},
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 0.29
+}
+]
+},
+"raisins": {
+"n": 151,
+"packs": [
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.07
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.25
+},
+{
+"g": 482,
+"kind": "g",
+"label": "17 oz",
+"share": 0.07
+},
+{
+"g": 567,
+"kind": "g",
+"label": "20 oz",
+"share": 0.07
+}
+]
+},
+"oat flour": {
+"n": 23,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.22
+},
+{
+"g": 567,
+"kind": "g",
+"label": "20 oz",
+"share": 0.17
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.17
+}
+]
+},
+"spelt flour": {
+"n": 24,
+"packs": [
+{
+"g": 567,
+"kind": "g",
+"label": "20 oz",
+"share": 0.17
+},
+{
+"g": 624,
+"kind": "g",
+"label": "22 oz",
+"share": 0.17
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.25
+},
+{
+"g": 2268,
+"kind": "g",
+"label": "5 lb",
+"share": 0.29
+}
+]
+},
+"lemongrass": {
+"n": 63,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.06
+},
+{
+"g": 220,
+"kind": "g",
+"label": "7.8 oz",
+"share": 0.06
+},
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.29
+},
+{
+"g": 947,
+"kind": "g",
+"label": "33.4 oz",
+"share": 0.1
+}
+]
+},
+"canned peaches": {
+"n": 10,
+"packs": [
+{
+"g": 425,
+"kind": "g",
+"label": "15 oz",
+"share": 0.4
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.4
+}
+]
+},
+"protein powder": {
+"n": 2206,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.08
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.16
+},
+{
+"g": 2268,
+"kind": "g",
+"label": "5 lb",
+"share": 0.07
+}
+]
+},
+"bay leaves": {
+"n": 13,
+"packs": [
+{
+"g": 14,
+"kind": "g",
+"label": "14 g",
+"share": 0.38
+}
+]
+},
+"dried beans": {
+"n": 13,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.54
+}
+]
+},
+"fish sauce": {
+"n": 42,
+"packs": [
+{
+"g": 148,
+"kind": "ml",
+"label": "5 fl oz",
+"share": 0.14
+},
+{
+"g": 207,
+"kind": "ml",
+"label": "7 fl oz",
+"share": 0.29
+},
+{
+"g": 680,
+"kind": "ml",
+"label": "23 fl oz",
+"share": 0.1
+},
+{
+"g": 710,
+"kind": "ml",
+"label": "24 fl oz",
+"share": 0.1
+}
+]
+},
+"almond flour": {
+"n": 110,
+"curated": true,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz bag",
+"share": 1
+}
+]
+},
+"ground flaxseed": {
+"n": 91,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.11
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.13
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.45
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.18
+}
+]
+},
+"chicken wings": {
+"n": 161,
+"packs": [
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.06
+},
+{
+"g": 1361,
+"kind": "g",
+"label": "3 lb",
+"share": 0.07
+}
+]
+},
+"sliced almonds": {
+"n": 44,
+"packs": [
+{
+"g": 85,
+"kind": "g",
+"label": "3 oz",
+"share": 0.18
+},
+{
+"g": 99,
+"kind": "g",
+"label": "3.5 oz",
+"share": 0.27
+},
+{
+"g": 150,
+"kind": "g",
+"label": "5.3 oz",
+"share": 0.23
+}
+]
+},
+"dried chiles": {
+"n": 66,
+"packs": [
+{
+"g": 57,
+"kind": "g",
+"label": "2 oz",
+"share": 0.09
+},
+{
+"g": 142,
+"kind": "g",
+"label": "5 oz",
+"share": 0.24
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.06
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.06
+}
+]
+},
+"green onions": {
+"n": 111,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.07
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.14
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.06
+}
+]
+},
+"rotisserie chicken": {
+"n": 14,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.29
+}
+]
+},
+"cooked vegetables": {
+"n": 42,
+"packs": [
+{
+"g": 312,
+"kind": "g",
+"label": "11 oz",
+"share": 0.12
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.12
+}
+]
+},
+"grapefruit juice": {
+"n": 215,
+"packs": [
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 0.07
+},
+{
+"g": 1538,
+"kind": "ml",
+"label": "52 fl oz",
+"share": 0.18
+},
+{
+"g": 1745,
+"kind": "ml",
+"label": "59 fl oz",
+"share": 0.13
+},
+{
+"g": 1893,
+"kind": "ml",
+"label": "half gal",
+"share": 0.34
+}
+]
+},
+"worcestershire sauce": {
+"n": 159,
+"packs": [
+{
+"g": 148,
+"kind": "ml",
+"label": "5 fl oz",
+"share": 0.06
+},
+{
+"g": 296,
+"kind": "ml",
+"label": "10 fl oz",
+"share": 0.62
+},
+{
+"g": 444,
+"kind": "ml",
+"label": "15 fl oz",
+"share": 0.08
+}
+]
+},
+"maple syrup": {
+"n": 616,
+"curated": true,
+"packs": [
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz bottle",
+"share": 1
+}
+]
+},
+"evaporated milk": {
+"n": 305,
+"curated": true,
+"packs": [
+{
+"g": 354,
+"kind": "g",
+"label": "12 oz can",
+"share": 1
+}
+]
+},
+"cheese crisps": {
+"n": 26,
+"packs": [
+{
+"g": 23,
+"kind": "g",
+"label": "23 g",
+"share": 0.15
+},
+{
+"g": 57,
+"kind": "g",
+"label": "2 oz",
+"share": 0.35
+},
+{
+"g": 60,
+"kind": "g",
+"label": "2.1 oz",
+"share": 0.15
+}
+]
+},
+"espresso powder": {
+"n": 74,
+"packs": [
+{
+"g": 57,
+"kind": "g",
+"label": "2 oz",
+"share": 0.08
+},
+{
+"g": 99,
+"kind": "g",
+"label": "3.5 oz",
+"share": 0.12
+},
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.09
+},
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.11
+}
+]
+},
+"coconut chips": {
+"n": 18,
+"packs": [
+{
+"g": 40,
+"kind": "g",
+"label": "1.4 oz",
+"share": 0.28
+},
+{
+"g": 85,
+"kind": "g",
+"label": "3 oz",
+"share": 0.28
+}
+]
+},
+"dried mango": {
+"n": 19,
+"packs": [
+{
+"g": 18,
+"kind": "g",
+"label": "18 g",
+"share": 0.21
+}
+]
+},
+"avocado": {
+"n": 231,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.14
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.1
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.1
+},
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.08
+}
+]
+},
+"applesauce": {
+"n": 37,
+"packs": [
+{
+"g": 99,
+"kind": "g",
+"label": "3.5 oz",
+"share": 0.11
+},
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.41
+},
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.16
+}
+]
+},
+"loose tea": {
+"n": 36,
+"packs": [
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.17
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.11
+},
+{
+"g": 296,
+"kind": "ml",
+"label": "10 fl oz",
+"share": 0.14
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.22
+}
+]
+},
+"jerky": {
+"n": 11,
+"packs": [
+{
+"g": 62,
+"kind": "g",
+"label": "2.2 oz",
+"share": 0.45
+}
+]
+},
+"veal cutlets": {
+"n": 23,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.7
+}
+]
+},
+"anaheim": {
+"n": 116,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.09
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.09
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.15
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.11
+}
+]
+},
+"cooked potatoes": {
+"n": 60,
+"packs": [
+{
+"g": 269,
+"kind": "g",
+"label": "9.5 oz",
+"share": 0.08
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.15
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.22
+},
+{
+"g": 498,
+"kind": "g",
+"label": "17.6 oz",
+"share": 0.13
+}
+]
+},
+"parsley": {
+"n": 32,
+"packs": [
+{
+"g": 57,
+"kind": "g",
+"label": "2 oz",
+"share": 0.16
+},
+{
+"g": 79,
+"kind": "g",
+"label": "2.8 oz",
+"share": 0.12
+},
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.16
+},
+{
+"g": 794,
+"kind": "g",
+"label": "28 oz",
+"share": 0.12
+}
+]
+},
+"pork chops": {
+"n": 80,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.14
+},
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz",
+"share": 0.09
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.29
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.11
+}
+]
+},
+"turnips": {
+"n": 50,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.18
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.1
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.3
+},
+{
+"g": 567,
+"kind": "g",
+"label": "20 oz",
+"share": 0.1
+}
+]
+},
+"chickpea flour": {
+"n": 21,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.33
+},
+{
+"g": 1814,
+"kind": "g",
+"label": "4 lb",
+"share": 0.19
+}
+]
+},
+"lasagna noodles": {
+"n": 17,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.35
+},
+{
+"g": 354,
+"kind": "g",
+"label": "12.5 oz",
+"share": 0.24
+}
+]
+},
+"croissants": {
+"n": 141,
+"packs": [
+{
+"g": 260,
+"kind": "g",
+"label": "9.2 oz",
+"share": 0.07
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.12
+},
+{
+"g": 312,
+"kind": "g",
+"label": "11 oz",
+"share": 0.07
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.12
+}
+]
+},
+"daikon": {
+"n": 10,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.8
+}
+]
+},
+"buckwheat flour": {
+"n": 18,
+"packs": [
+{
+"g": 624,
+"kind": "g",
+"label": "22 oz",
+"share": 0.72
+}
+]
+},
+"chocolate syrup": {
+"n": 76,
+"packs": [
+{
+"g": 448,
+"kind": "g",
+"label": "15.8 oz",
+"share": 0.09
+},
+{
+"g": 624,
+"kind": "g",
+"label": "22 oz",
+"share": 0.12
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.32
+},
+{
+"g": 1361,
+"kind": "g",
+"label": "3 lb",
+"share": 0.12
+}
+]
+},
+"baby carrots": {
+"n": 130,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.07
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.19
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.28
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.12
+}
+]
+},
+"bulgur": {
+"n": 98,
+"packs": [
+{
+"g": 250,
+"kind": "g",
+"label": "8.8 oz",
+"share": 0.06
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.07
+},
+{
+"g": 624,
+"kind": "g",
+"label": "22 oz",
+"share": 0.09
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.41
+}
+]
+},
+"fennel": {
+"n": 24,
+"packs": [
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.21
+}
+]
+},
+"plantains": {
+"n": 18,
+"packs": [
+{
+"g": 269,
+"kind": "g",
+"label": "9.5 oz",
+"share": 0.22
+}
+]
+},
+"celery": {
+"n": 167,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.13
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.13
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.28
+},
+{
+"g": 1134,
+"kind": "g",
+"label": "2.5 lb",
+"share": 0.1
+}
+]
+},
+"flank steak": {
+"n": 53,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.4
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.08
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.15
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.08
+}
+]
+},
+"cornbread": {
+"n": 91,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.2
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.12
+},
+{
+"g": 510,
+"kind": "g",
+"label": "18 oz",
+"share": 0.07
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.07
+}
+]
+},
+"lemon zest": {
+"n": 49,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.18
+},
+{
+"g": 255,
+"kind": "g",
+"label": "9 oz",
+"share": 0.16
+},
+{
+"g": 330,
+"kind": "ml",
+"label": "11 fl oz",
+"share": 0.1
+},
+{
+"g": 992,
+"kind": "g",
+"label": "35 oz",
+"share": 0.08
+}
+]
+},
+"adobo sauce": {
+"n": 22,
+"packs": [
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.23
+}
+]
+},
+"pomegranate seeds": {
+"n": 61,
+"packs": [
+{
+"g": 125,
+"kind": "g",
+"label": "4.4 oz",
+"share": 0.2
+},
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.13
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.3
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.1
+}
+]
+},
+"turbinado sugar": {
+"n": 54,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.15
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.19
+},
+{
+"g": 900,
+"kind": "g",
+"label": "2 lb",
+"share": 0.07
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.37
+}
+]
+},
+"pistachios": {
+"n": 56,
+"packs": [
+{
+"g": 100,
+"kind": "g",
+"label": "3.5 oz",
+"share": 0.09
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.11
+},
+{
+"g": 355,
+"kind": "ml",
+"label": "12 fl oz",
+"share": 0.14
+},
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 0.09
+}
+]
+},
+"coleslaw mix": {
+"n": 47,
+"packs": [
+{
+"g": 266,
+"kind": "g",
+"label": "9.4 oz",
+"share": 0.13
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.13
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.26
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.19
+}
+]
+},
+"marshmallows": {
+"n": 174,
+"packs": [
+{
+"g": 269,
+"kind": "g",
+"label": "9.5 oz",
+"share": 0.09
+},
+{
+"g": 624,
+"kind": "g",
+"label": "22 oz",
+"share": 0.06
+},
+{
+"g": 1054,
+"kind": "g",
+"label": "37.2 oz",
+"share": 0.06
+}
+]
+},
+"shallots": {
+"n": 30,
+"packs": [
+{
+"g": 85,
+"kind": "g",
+"label": "3 oz",
+"share": 0.2
+},
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.23
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.13
+}
+]
+},
+"sushi rice": {
+"n": 77,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.09
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.13
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.23
+},
+{
+"g": 6804,
+"kind": "g",
+"label": "15 lb",
+"share": 0.06
+}
+]
+},
+"bacon bits store": {
+"n": 45,
+"packs": [
+{
+"g": 71,
+"kind": "g",
+"label": "2.5 oz",
+"share": 0.13
+},
+{
+"g": 79,
+"kind": "g",
+"label": "2.8 oz",
+"share": 0.2
+},
+{
+"g": 85,
+"kind": "g",
+"label": "3 oz",
+"share": 0.27
+}
+]
+},
+"wheat bran": {
+"n": 48,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.19
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.1
+},
+{
+"g": 539,
+"kind": "g",
+"label": "19 oz",
+"share": 0.1
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz",
+"share": 0.25
+}
+]
+},
+"pork tenderloin": {
+"n": 41,
+"packs": [
+{
+"g": 522,
+"kind": "g",
+"label": "18.4 oz",
+"share": 0.66
+},
+{
+"g": 539,
+"kind": "g",
+"label": "19 oz",
+"share": 0.17
+}
+]
+},
+"cauliflower rice": {
+"n": 179,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.25
+},
+{
+"g": 298,
+"kind": "g",
+"label": "10.5 oz",
+"share": 0.08
+},
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.37
+}
+]
+},
+"spaghetti squash": {
+"n": 30,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.67
+},
+{
+"g": 312,
+"kind": "g",
+"label": "11 oz",
+"share": 0.13
+}
+]
+},
+"bok choy": {
+"n": 30,
+"packs": [
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.13
+},
+{
+"g": 224,
+"kind": "g",
+"label": "7.9 oz",
+"share": 0.13
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.13
+},
+{
+"g": 936,
+"kind": "g",
+"label": "33 oz",
+"share": 0.2
+}
+]
+},
+"cake flour": {
+"n": 18,
+"curated": true,
+"packs": [
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb box",
+"share": 1
+}
+]
+},
+"egg yolks": {
+"n": 17,
+"packs": [
+{
+"g": 3785,
+"kind": "ml",
+"label": "1 gal",
+"share": 0.41
+},
+{
+"g": 13608,
+"kind": "g",
+"label": "30 lb",
+"share": 0.41
+}
+]
+},
+"chicken nuggets": {
+"n": 180,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.09
+},
+{
+"g": 286,
+"kind": "g",
+"label": "10.1 oz",
+"share": 0.09
+},
+{
+"g": 298,
+"kind": "g",
+"label": "10.5 oz",
+"share": 0.12
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.07
+}
+]
+},
+"masa harina": {
+"n": 11,
+"packs": [
+{
+"g": 2268,
+"kind": "g",
+"label": "5 lb",
+"share": 0.45
+}
+]
+},
+"frozen spinach": {
+"n": 8,
+"packs": [
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 1.0
+}
+]
+},
+"frozen broccoli": {
+"n": 26,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.27
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.46
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.15
+}
+]
+},
+"frozen fruit": {
+"n": 37,
+"packs": [
+{
+"g": 207,
+"kind": "ml",
+"label": "7 fl oz",
+"share": 0.11
+},
+{
+"g": 435,
+"kind": "ml",
+"label": "15 fl oz",
+"share": 0.11
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.38
+},
+{
+"g": 1361,
+"kind": "g",
+"label": "3 lb",
+"share": 0.11
+}
+]
+},
+"corn syrup": {
+"n": 101,
+"packs": [
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 0.56
+},
+{
+"g": 946,
+"kind": "ml",
+"label": "1 qt",
+"share": 0.32
+}
+]
+},
+"phyllo": {
+"n": 35,
+"packs": [
+{
+"g": 54,
+"kind": "g",
+"label": "1.9 oz",
+"share": 0.14
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.54
+}
+]
+},
+"ghee": {
+"n": 23,
+"packs": [
+{
+"g": 148,
+"kind": "ml",
+"label": "5 fl oz",
+"share": 0.35
+},
+{
+"g": 251,
+"kind": "ml",
+"label": "9 fl oz",
+"share": 0.17
+},
+{
+"g": 473,
+"kind": "ml",
+"label": "1 pt",
+"share": 0.26
+}
+]
+},
+"kabocha squash": {
+"n": 10,
+"packs": [
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.5
+}
+]
+},
+"leeks": {
+"n": 11,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.64
+}
+]
+},
+"endive": {
+"n": 21,
+"packs": [
+{
+"g": 234,
+"kind": "g",
+"label": "8.3 oz",
+"share": 0.24
+},
+{
+"g": 255,
+"kind": "g",
+"label": "9 oz",
+"share": 0.19
+},
+{
+"g": 907,
+"kind": "g",
+"label": "2 lb",
+"share": 0.33
+}
+]
+},
+"pretzel sticks": {
+"n": 17,
+"packs": [
+{
+"g": 119,
+"kind": "g",
+"label": "4.2 oz",
+"share": 0.47
+}
+]
+},
+"frozen cauliflower": {
+"n": 18,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz",
+"share": 0.33
+},
+{
+"g": 454,
+"kind": "g",
+"label": "16 oz",
+"share": 0.39
+}
+]
+},
+"rice cakes": {
+"n": 10,
+"packs": [
+{
+"g": 88,
+"kind": "g",
+"label": "3.1 oz",
+"share": 0.4
+},
+{
+"g": 360,
+"kind": "g",
+"label": "12.7 oz",
+"share": 0.4
+}
+]
+},
+"steel-cut oats": {
+"n": 10,
+"packs": [
+{
+"g": 150,
+"kind": "g",
+"label": "5.3 oz",
+"share": 0.4
+}
+]
+},
+"ice cream cones": {
+"n": 9,
+"packs": [
+{
+"g": 113,
+"kind": "g",
+"label": "4 oz",
+"share": 0.67
+}
+]
+},
+"side of salmon": {
+"n": 17,
+"packs": [
+{
+"g": 567,
+"kind": "g",
+"label": "20 oz",
+"share": 0.24
+},
+{
+"g": 850,
+"kind": "g",
+"label": "30 oz",
+"share": 0.41
+}
+]
+},
+"nutritional yeast": {
+"n": 39,
+"packs": [
+{
+"g": 128,
+"kind": "g",
+"label": "4.5 oz",
+"share": 0.1
+},
+{
+"g": 142,
+"kind": "g",
+"label": "5 oz",
+"share": 0.23
+},
+{
+"g": 170,
+"kind": "g",
+"label": "6 oz",
+"share": 0.1
+},
+{
+"g": 284,
+"kind": "g",
+"label": "10 oz",
+"share": 0.36
+}
+]
+},
+"cooked rice": {
+"n": 14,
+"packs": [
+{
+"g": 277,
+"kind": "g",
+"label": "9.8 oz",
+"share": 0.29
+},
+{
+"g": 510,
+"kind": "g",
+"label": "18 oz",
+"share": 0.29
+}
+]
+},
+"jicama": {
+"n": 15,
+"packs": [
+{
+"g": 227,
+"kind": "g",
+"label": "8 oz",
+"share": 0.6
+}
+]
+},
+"baking chips white": {
+"n": 21,
+"packs": [
+{
+"g": 45,
+"kind": "g",
+"label": "1.6 oz",
+"share": 0.19
+},
+{
+"g": 198,
+"kind": "g",
+"label": "7 oz",
+"share": 0.19
+}
+]
+},
+"chicken drumsticks": {
+"n": 16,
+"packs": [
+{
+"g": 1814,
+"kind": "g",
+"label": "4 lb",
+"share": 0.25
+},
+{
+"g": 2041,
+"kind": "g",
+"label": "4.5 lb",
+"share": 0.25
+}
+]
+},
+"cooked pasta": {
+"n": 13,
+"packs": [
+{
+"g": 241,
+"kind": "g",
+"label": "8.5 oz",
+"share": 0.54
+},
+{
+"g": 510,
+"kind": "g",
+"label": "18 oz",
+"share": 0.31
+}
+]
+},
+"sweetened condensed milk": {
+"n": 0,
+"curated": true,
+"packs": [
+{
+"g": 397,
+"kind": "g",
+"label": "14 oz can",
+"share": 1
+}
+]
+},
+"honey": {
+"n": 0,
+"curated": true,
+"packs": [
+{
+"g": 340,
+"kind": "g",
+"label": "12 oz bottle",
+"share": 1
+},
+{
+"g": 680,
+"kind": "g",
+"label": "24 oz bottle",
+"share": 1
+}
+]
+}
+}
+}

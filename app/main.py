@@ -8,6 +8,7 @@ from fastapi.templating import Jinja2Templates
 import httpx
 import extract, store, shopping
 import weights
+import buy
 from parse_ingredient import parse
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -254,6 +255,7 @@ def health():
 @app.get("/list", response_class=HTMLResponse)
 def shopping_list(request: Request):
     items = shopping.items()
+    for it in items: it["buy"] = buy.suggest(it["name"], it.get("grams"), it.get("qty"), it.get("unit"))
     groups = []
     for it in items:
         if it["done"]: continue
@@ -300,21 +302,32 @@ def list_remove(id: str = Form(...)):
     return RedirectResponse("/list", status_code=303)
 
 
-@app.post("/list/print")
-def list_print():
-    """The basket as a checklist strip, grouped by aisle, via Press (markdown document)."""
-    if not PRESS: return JSONResponse({"error": "No printer configured"}, status_code=404)
+def shopping_markdown():
+    """The basket as the printed checklist: what to buy, grouped by aisle."""
     todo = [i for i in shopping.items() if not i["done"]]
-    if not todo: return JSONResponse({"error": "The basket is empty"}, status_code=400)
+    if not todo: return None, 0
     lines, aisle = ["# Shopping"], None
     for i in todo:
         if i["aisle"] != aisle: aisle = i["aisle"]; lines.append(f"## {aisle}")
         amt = (f"{text_qty(i['qty'])} {i.get('unit') or ''}".strip() + " ") if i.get("qty") is not None else ""
         g = f" ({i['grams']} g)" if i.get("grams") else ""
-        lines.append(f"- [ ] {amt}{i['name']}{g}")
+        b = buy.suggest(i["name"], i.get("grams"), i.get("qty"), i.get("unit"))
+        if b and b.get("check"): lines.append(f"- [ ] {i['name']}: check the cupboard ({b['note'].split('; ')[-1]})")
+        elif b and b.get("named"): lines.append(f"- [ ] {b['buy']} (for {amt}{i['name']})")      # "2 lemons (for 1/4 cup lemon juice)"
+        elif b and b.get("note") != "as the recipe says": lines.append(f"- [ ] {i['name']}: {b['buy']}")   # "flour: 1 × 2 lb bag"
+        else: lines.append(f"- [ ] {amt}{i['name']}{g}")
     lines += ["", f"{len(todo)} to get"]
+    return "\n".join(lines), len(todo)
+
+
+@app.post("/list/print")
+def list_print():
+    """The basket as a checklist strip, grouped by aisle, via Press (markdown document)."""
+    if not PRESS: return JSONResponse({"error": "No printer configured"}, status_code=404)
+    md, n = shopping_markdown()
+    if not md: return JSONResponse({"error": "The basket is empty"}, status_code=400)
     try:
-        r = httpx.post(PRESS + "/api/print", json={"markdown": "\n".join(lines), "title": "Shopping list", "source": "kitchen"}, timeout=15)
+        r = httpx.post(PRESS + "/api/print", json={"markdown": md, "title": "Shopping list", "source": "kitchen"}, timeout=15)
         return JSONResponse(r.json(), status_code=r.status_code)
     except Exception as e:
         return JSONResponse({"error": f"Press is not answering ({e.__class__.__name__})"}, status_code=502)

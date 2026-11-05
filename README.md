@@ -35,7 +35,10 @@ That's the whole list. No fonts from Google (they're in the repo), no analytics,
   once, with timers you tap in the text; the screen stays awake.
 - **Everything in grams.** Each ingredient line gets a weight next to the cups and spoons, from USDA data.
   Spices are left alone on purpose. Details under Weights below.
-- **The basket.** A shopping list shared by every device in the house, grouped by aisle.
+- **The basket.** A shopping list shared by every device in the house, grouped by aisle. Each line also says what
+  to actually buy: "1/4 cup lemon juice" becomes 2 lemons, "400 g flour" becomes one 2 lb bag with about 500 g
+  left, and a quarter teaspoon of baking soda says to check the cupboard instead of buying a box. Package sizes are
+  the ones US stores stock most, from the USDA's branded-foods data (`app/packs.json`).
 - **Paper.** One tap prints a recipe or the basket on a kitchen receipt printer, through a small companion
   service called Press.
 - **Installable.** A small PWA with an optional Android share-sheet app.
@@ -140,7 +143,7 @@ I hit. Issues are welcome; pull requests more so, especially weight-table correc
 
 Fonts: [Pixelify Sans](https://fonts.google.com/specimen/Pixelify+Sans) and
 [Jersey 15](https://fonts.google.com/specimen/Jersey+15), both under the SIL Open Font License (copies in
-`app/static/fonts/`). Recipe parsing by recipe-scrapers. Ingredient weights from USDA FoodData Central.
+`app/static/fonts/`). Recipe parsing by recipe-scrapers. Ingredient weights and package sizes from USDA FoodData Central (SR Legacy, FNDDS and Branded Foods).
 Written with Claude Code, which I say up front because people ask.
 
 MIT licensed. Copyright 2026 timzilla.

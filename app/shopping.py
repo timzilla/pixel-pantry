@@ -36,8 +36,18 @@ def norm(name: str) -> str:
     return re.sub(r"(e?s)$", "", s) if len(s) > 3 and not s.endswith("ss") else s
 
 
+PANTRY_FIRST = ("crushed tomato", "diced tomato", "canned", "can ", "tomato sauce", "chiles", "vinegar", "paste", "broth", "stock", "sauce", "canned", "dried", "powder", "extract", "syrup", "oil", "bouillon", "jam", "jelly", "chips", "flakes")
+
+
 def aisle(name: str) -> str:
     n = name.lower()
+    if "frozen" in n: return "Frozen"
+    try:
+        import weights
+        e, _ = weights.match(name)
+        if e and e.get("spice"): return "Spices"
+    except Exception: pass
+    if any(w in n for w in PANTRY_FIRST) and not any(w in n for w in ("ice cream",)): return "Pantry"
     for a, keys in AISLES:
         if any(k in n for k in keys): return a
     return "Other"
@@ -46,6 +56,7 @@ def aisle(name: str) -> str:
 def items():
     d = _load()
     order = {a: i for i, (a, _) in enumerate(AISLES)}; order["Other"] = 99
+    for i in d["items"]: i["aisle"] = aisle(i["name"])   # re-sort old items with the current rules
     return sorted(d["items"], key=lambda i: (i["done"], order.get(i["aisle"], 99), i["name"].lower()))
 
 
@@ -54,6 +65,12 @@ def add(name: str, qty=None, unit=None, grams=None, source=None):
         d = _load(); key = norm(name)
         for it in d["items"]:
             same = it["key"] == key or it["key"].endswith(" " + key) or key.endswith(" " + it["key"])  # "kerrygold butter" ~ "butter"
+            by_weight = same and not it["done"] and (it.get("unit") or "") != (unit or "") and grams is not None and it.get("grams") is not None
+            if by_weight:   # different units, both weighed: keep one line in grams
+                it["grams"] = round(it["grams"] + grams); it["qty"], it["unit"] = None, None
+                if len(key) < len(it["key"]): it["name"], it["key"] = name.strip(), key
+                if source and source not in it["from"]: it["from"].append(source)
+                _save(d); return it["id"]
             if same and (it.get("unit") or "") == (unit or "") and not it["done"]:
                 if len(key) < len(it["key"]): it["name"], it["key"] = name.strip(), key  # keep the plainer name
                 if qty is not None and it.get("qty") is not None: it["qty"] = round(it["qty"] + qty, 2)

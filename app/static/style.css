@@ -146,3 +146,5 @@ input[type=text]{font:inherit;font-size:19px;color:var(--ink);background:var(--c
 .frac sup{top:-.55em}
 .frac sub{top:.1em}
 .grams.est{opacity:.85}.grams.nog{display:none}
+.ing .buy{grid-column:3/-1;font-size:15px;color:var(--ink);opacity:.85}.ing .buy b{color:var(--ink)}.ing .buy small{opacity:.75}
+.ing .buy.check{opacity:.6}
