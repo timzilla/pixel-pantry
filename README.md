@@ -25,9 +25,6 @@ So I built the kitchen companion I wanted: save the recipes worth keeping with a
 read everything by weight, and cook from a phone propped on the counter, with a shared shopping list
 and a receipt printer nearby.
 
-I figured there are other people like me who just haven't gotten around to self-hosting something like this
-yet, so I may as well share what I made. Hopefully someone takes it and makes it way cooler.
-
 It isn't a product and I'm not selling anything. There's no account, no hosted version, no subscription,
 no tracking, and no plans for any of that. It's a home project I'm proud of and happy to share. If it fits
 your kitchen, I hope you enjoy it. If it almost fits, fork it and make it yours; it's MIT licensed. And if
