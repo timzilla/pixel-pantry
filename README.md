@@ -69,7 +69,7 @@ services:
       - ./data:/data
     environment:
       ANTHROPIC_API_KEY: ""   # optional, see below
-      PRESS_URL: ""           # optional, see below
+      CHAR_URL: ""            # optional, see below
 ```
 
 Then `docker compose up -d`, open `http://<that box>:8095` and share your first recipe. Recipes are saved in
@@ -84,11 +84,12 @@ cd pixel-pantry
 docker compose up -d --build
 ```
 
-The two optional settings, in the compose file or a `.env` file next to the repo's compose file:
+The optional settings, in the compose file or a `.env` file next to the repo's compose file:
 
 ```
 ANTHROPIC_API_KEY=sk-ant-...     # lets Claude read pages with no recipe data and estimate unusual weights (your key, your bill)
-PRESS_URL=http://press:8096      # a Press print service; the Print buttons light up
+CHAR_URL=http://char:8096        # a Char print service; the Print buttons light up
+CHAR_TOKEN=...                   # only if your Char is locked with a token
 ```
 
 ### Before you open it up to the internet
@@ -109,7 +110,7 @@ I care about knowing what my own server talks to, so here's the complete list:
   stubborn ones, the Android app loads the page on your phone and hands it over.
 - **Anthropic's API, only if you add your own key.** Used for pages that have no recipe data, and to guess a
   weight the table doesn't know yet. No key, no calls.
-- **Your Press print service, only if you set one up.**
+- **Your Char print service, only if you set one up.**
 
 That's it. The fonts are in the repo, and there's no analytics and no phoning home.
 
@@ -168,10 +169,9 @@ A cheap 80 mm thermal receipt printer, the kind shops use, makes a great kitchen
 prints a recipe as a strip with ingredients, grams and numbered steps, or the shopping list as a checklist
 grouped by aisle.
 
-Printing goes through Press, a small service of mine that owns the printer and takes print jobs from
-anything in the house. Set `PRESS_URL` and the Print buttons come alive; until then they explain what they
-need. Press isn't published yet, and might be one day. If you already have your own way to print,
-`POST /r/<slug>/print` and `POST /list/print` are where the buttons send their requests.
+Printing goes through [Char](https://github.com/timzilla/char), my small print service that owns the printer and takes print
+jobs from anything in the house. Set `CHAR_URL` and the Print buttons come alive; until then they explain what they
+need. If you already have your own way to print, `POST /r/<slug>/print` and `POST /list/print` are where the buttons send their requests.
 
 ## Under the hood
 

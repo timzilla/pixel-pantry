@@ -12,7 +12,7 @@
     <button class="btn" type="button" id="printbtn" title="Print the list on the kitchen printer">Print list</button>
     <form method="post" action="/list/clear" onsubmit="return confirm('Empty the whole basket?')"><input type="hidden" name="all" value="1"><button class="btn small danger" type="submit">Clear all</button></form>
   </div>
-  {% if not press %}<p class="hint printhelp hidden" id="printhelp">No printer yet. Pixel Pantry prints recipes and shopping lists as strips on a kitchen receipt printer through <b>Press</b>; see <i>Printing</i> in the README to set one up.</p>{% endif %}{% endif %}
+  {% if not char %}<p class="hint printhelp hidden" id="printhelp">No printer yet. Pixel Pantry prints recipes and shopping lists as strips on a kitchen receipt printer through <b>Char</b>; see <i>Printing</i> in the README to set one up.</p>{% endif %}{% endif %}
 </section>
 
 {% if groups %}

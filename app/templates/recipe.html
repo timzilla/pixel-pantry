@@ -21,7 +21,7 @@
         <a class="btn small" href="{{ r.source }}" target="_blank" rel="noopener">Source: {{ r.site }}</a>
         <form method="post" action="/r/{{ r.slug }}/delete" onsubmit="return confirm('Take this one off the shelf?')"><button class="btn small danger" type="submit">Remove</button></form>
       </div>
-      {% if not press %}<p class="hint printhelp hidden" id="printhelp">No printer yet. Pixel Pantry prints recipes and shopping lists as strips on a kitchen receipt printer through <b>Press</b>; see <i>Printing</i> in the README to set one up.</p>{% endif %}
+      {% if not char %}<p class="hint printhelp hidden" id="printhelp">No printer yet. Pixel Pantry prints recipes and shopping lists as strips on a kitchen receipt printer through <b>Char</b>; see <i>Printing</i> in the README to set one up.</p>{% endif %}
     </div>
   </section>
 

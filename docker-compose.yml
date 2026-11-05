@@ -1,7 +1,7 @@
 # Pixel Pantry: one container, recipes live in ./data as Markdown files.
 # Optional settings go in a .env file next to this one (see README):
 #   ANTHROPIC_API_KEY=...   lets Claude extract recipes from pages with no machine-readable data
-#   PRESS_URL=http://...    a Press print service; shows a "Print strip" button on every recipe
+#   CHAR_URL=http://...    a Char print service; shows a "Print strip" button on every recipe
 # Uses the published image; `docker compose up -d --build` builds from this checkout instead.
 services:
   recipes:
@@ -12,7 +12,7 @@ services:
     ports:
       - "8095:8000"
     environment:
-      PRESS_URL: ${PRESS_URL:-}
+      CHAR_URL: ${CHAR_URL:-}
     volumes:
       - ./data:/data
       - ./android/out:/apk:ro    # the optional phone app, served at /kitchen.apk when built

@@ -210,19 +210,20 @@ def recipe_delete(slug: str):
     return RedirectResponse("/", status_code=303)
 
 
-PRESS = os.environ.get("PRESS_URL", "").rstrip("/")   # optional: a Press print service (https://github.com/timzilla/pixel-pantry#printing); empty hides the button
-tpl.env.globals["press"] = bool(PRESS)
+CHAR = os.environ.get("CHAR_URL", "").rstrip("/")   # optional: a Char print service (https://github.com/timzilla/pixel-pantry#printing); empty hides the button
+CHAR_HEADERS = {"Authorization": "Bearer " + os.environ["CHAR_TOKEN"]} if os.environ.get("CHAR_TOKEN") else {}   # when Char is locked with CHAR_TOKEN
+tpl.env.globals["char"] = bool(CHAR)
 
 
 @app.post("/r/{slug}/print")
 def recipe_print(slug: str, servings: str = Form(""), steps: str = Form("on")):
-    """Hand the recipe to Press, which lays out the slip (its `recipe` module) and queues it for the kitchen printer."""
-    if not PRESS: return JSONResponse({"error": "No printer configured"}, status_code=404)
+    """Hand the recipe to Char, which lays out the slip (its `recipe` module) and queues it for the kitchen printer."""
+    if not CHAR: return JSONResponse({"error": "No printer configured"}, status_code=404)
     try:
-        r = httpx.post(PRESS + "/api/print", json={"module": "recipe", "params": {"slug": slug, "servings": servings, "steps": steps, "grams": "on"}, "source": "kitchen"}, timeout=15)
+        r = httpx.post(CHAR + "/api/print", json={"module": "recipe", "params": {"slug": slug, "servings": servings, "steps": steps, "grams": "on"}, "source": "kitchen"}, headers=CHAR_HEADERS, timeout=15)
         return JSONResponse(r.json(), status_code=r.status_code)
     except Exception as e:
-        return JSONResponse({"error": f"Press is not answering ({e.__class__.__name__})"}, status_code=502)
+        return JSONResponse({"error": f"Char is not answering ({e.__class__.__name__})"}, status_code=502)
 
 
 @app.get("/api/recipes")
@@ -322,15 +323,15 @@ def shopping_markdown():
 
 @app.post("/list/print")
 def list_print():
-    """The basket as a checklist strip, grouped by aisle, via Press (markdown document)."""
-    if not PRESS: return JSONResponse({"error": "No printer configured"}, status_code=404)
+    """The basket as a checklist strip, grouped by aisle, via Char (markdown document)."""
+    if not CHAR: return JSONResponse({"error": "No printer configured"}, status_code=404)
     md, n = shopping_markdown()
     if not md: return JSONResponse({"error": "The basket is empty"}, status_code=400)
     try:
-        r = httpx.post(PRESS + "/api/print", json={"markdown": md, "title": "Shopping list", "source": "kitchen"}, timeout=15)
+        r = httpx.post(CHAR + "/api/print", json={"markdown": md, "title": "Shopping list", "source": "kitchen"}, headers=CHAR_HEADERS, timeout=15)
         return JSONResponse(r.json(), status_code=r.status_code)
     except Exception as e:
-        return JSONResponse({"error": f"Press is not answering ({e.__class__.__name__})"}, status_code=502)
+        return JSONResponse({"error": f"Char is not answering ({e.__class__.__name__})"}, status_code=502)
 
 
 @app.post("/list/clear")

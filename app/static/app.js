@@ -7,7 +7,7 @@
     const li = cb.closest(".bitem"); li.classList.toggle("isdone", cb.checked);
     fetch("/list/item", { method: "POST", body: new URLSearchParams({ id: li.dataset.id, done: cb.checked ? "1" : "0" }) }).then(() => setTimeout(() => location.reload(), 350));
   });
-  // print (recipe strip or shopping list): Press lays out the slip. Without a printer the button explains itself.
+  // print (recipe strip or shopping list): Char lays out the slip. Without a printer the button explains itself.
   const pb = $("#printbtn"), ph = $("#printhelp");
   if (pb) pb.onclick = async () => {
     if (ph) { ph.classList.toggle("hidden"); return; }
