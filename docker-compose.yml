@@ -2,8 +2,10 @@
 # Optional settings go in a .env file next to this one (see README):
 #   ANTHROPIC_API_KEY=...   lets Claude extract recipes from pages with no machine-readable data
 #   PRESS_URL=http://...    a Press print service; shows a "Print strip" button on every recipe
+# Uses the published image; `docker compose up -d --build` builds from this checkout instead.
 services:
   recipes:
+    image: ghcr.io/timzilla/pixel-pantry:latest
     build: .
     container_name: recipes
     restart: unless-stopped
@@ -13,7 +15,6 @@ services:
       PRESS_URL: ${PRESS_URL:-}
     volumes:
       - ./data:/data
-      - ./app:/app:ro            # live edits without a rebuild
       - ./android/out:/apk:ro    # the optional phone app, served at /kitchen.apk when built
     env_file:
       - path: .env

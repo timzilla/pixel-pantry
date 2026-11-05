@@ -54,6 +54,29 @@ you build something fun on top of it, I'd love to hear about it.
 ## Run it
 
 You need a small always-on computer with Docker: a Raspberry Pi, a NAS, a mini PC, or a cheap VPS all work.
+There's a ready-made image for regular PCs and ARM boards like the Pi, so this `docker-compose.yml` is all you need
+(it pastes straight into Portainer, Dockge or Unraid's compose manager):
+
+```yaml
+services:
+  pixel-pantry:
+    image: ghcr.io/timzilla/pixel-pantry:latest
+    container_name: pixel-pantry
+    restart: unless-stopped
+    ports:
+      - "8095:8000"
+    volumes:
+      - ./data:/data
+    environment:
+      ANTHROPIC_API_KEY: ""   # optional, see below
+      PRESS_URL: ""           # optional, see below
+```
+
+Then `docker compose up -d`, open `http://<that box>:8095` and share your first recipe. Recipes are saved in
+`data/recipes/`, photos in `data/images/`, and the shopping list in `data/shopping.json`. To update, pull the new
+image and recreate the container (`docker compose pull && docker compose up -d`); your `data/` folder is untouched.
+
+Prefer to build it yourself, or want to change the code?
 
 ```sh
 git clone https://github.com/timzilla/pixel-pantry.git
@@ -61,10 +84,7 @@ cd pixel-pantry
 docker compose up -d --build
 ```
 
-Then open `http://<that box>:8095` and share your first recipe. Recipes are saved in `data/recipes/`,
-photos in `data/images/`, and the shopping list in `data/shopping.json`.
-
-A couple of optional extras go in a `.env` file next to the compose file:
+The two optional settings, in the compose file or a `.env` file next to the repo's compose file:
 
 ```
 ANTHROPIC_API_KEY=sk-ant-...     # lets Claude read pages with no recipe data and estimate unusual weights (your key, your bill)
